@@ -1,0 +1,1085 @@
+County,Predicted Turnout
+"('lafayette', 'mississippi')",0.41746375293816473
+"('mercer', 'missouri')",0.4002757965859466
+"('george', 'mississippi')",0.39196099417290997
+"('craven', 'north carolina')",0.4463653233209492
+"('hays', 'texas')",0.5514157813570939
+"('rusk', 'wisconsin')",0.3626147515036404
+"('allegheny', 'pennsylvania')",0.5279253074315989
+"('carroll', 'virginia')",0.26951412850881284
+"('meade', 'south dakota')",0.5109271523178808
+"('long', 'georgia')",0.5279253074315989
+"('pima', 'arizona')",0.48223262263823885
+"('indiana', 'pennsylvania')",0.4302304147465438
+"('james city', 'virginia')",0.47936931917264614
+"('rutherford', 'north carolina')",0.2602691426220838
+"('texas', 'missouri')",0.4269680436477007
+"('warren', 'kentucky')",0.42103036844715425
+"('fulton', 'georgia')",0.47970389413532116
+"('forsyth', 'north carolina')",0.4978309767083839
+"('buncombe', 'north carolina')",0.35188694752516414
+"('hall', 'georgia')",0.5198219207123171
+"('palm beach', 'florida')",0.35239453904367657
+"('galveston', 'texas')",0.4366160293347302
+"('tarrant', 'texas')",0.4413439502610024
+"('hennepin', 'minnesota')",0.43287123766704133
+"('gaston', 'north carolina')",0.3733784426706137
+"('lorain', 'ohio')",0.5848278447791039
+"('lee', 'alabama')",0.5927667304015296
+"('salt lake', 'utah')",0.519927987667096
+"('wabasha', 'minnesota')",0.4883155624153344
+"('alameda', 'california')",0.3203111411977751
+"('saginaw', 'michigan')",0.3530152159319758
+"('iowa', 'wisconsin')",0.5563549337260677
+"('benton', 'minnesota')",0.3455745317894351
+"('cecil', 'maryland')",0.4302183330694722
+"('santa clara', 'california')",0.5089959394816923
+"('erie', 'pennsylvania')",0.5848278447791039
+"('lasalle', 'illinois')",0.5848278447791039
+"('leavenworth', 'kansas')",0.3733784426706137
+"('nueces', 'texas')",0.44762614809242113
+"('dallas', 'iowa')",0.4673244863232446
+"('okaloosa', 'florida')",0.4490877145560211
+"('san bernardino', 'california')",0.38025231163948586
+"('harford', 'maryland')",0.43421420704334246
+"('larimer', 'colorado')",0.4071976384514343
+"('lowndes', 'georgia')",0.442067855706048
+"('spotsylvania', 'virginia')",0.5659216179424401
+"('ohio', 'kentucky')",0.4269680436477007
+"('lake', 'illinois')",0.5588569800377176
+"('charleston', 'south carolina')",0.44521722252773915
+"('rogers', 'oklahoma')",0.46962154626752795
+"('camden', 'new jersey')",0.5935237384623888
+"('grand', 'colorado')",0.49658764367816094
+"('dyer', 'tennessee')",0.5195344031958123
+"('fairfield', 'connecticut')",0.26951412850881284
+"('franklin', 'florida')",0.4820424383294594
+"('westchester', 'new york')",0.444554877367487
+"('contra costa', 'california')",0.5137951652857264
+"('lucas', 'ohio')",0.3394391527342969
+"('calhoun', 'mississippi')",0.5151165061181984
+"('dakota', 'minnesota')",0.4307625058365538
+"('green', 'kentucky')",0.3955193192781565
+"('monroe', 'pennsylvania')",0.3829064036339392
+"('los angeles', 'california')",0.3405221956139439
+"('york', 'maine')",0.4732441049790727
+"('lee', 'iowa')",0.44762614809242113
+"('hillsborough', 'florida')",0.41692290171962193
+"('snohomish', 'washington')",0.49658764367816094
+"('bryan', 'georgia')",0.4824915664940371
+"('boulder', 'colorado')",0.44762614809242113
+"('mingo', 'west virginia')",0.5612944204860763
+"('madera', 'california')",0.3693783592880217
+"('imperial', 'california')",0.40632905350579923
+"('liberty', 'florida')",0.5106760723416344
+"('frederick', 'virginia')",0.4520355217136177
+"('pennington', 'south dakota')",0.5696052078190429
+"('logan', 'north dakota')",0.38327076733524224
+"('maricopa', 'arizona')",0.5397180512296035
+"('beaver', 'pennsylvania')",0.4701395582750094
+"('cumberland', 'illinois')",0.5927667304015296
+"('cuyahoga', 'ohio')",0.5563549337260677
+"('stevens', 'washington')",0.4463653233209492
+"('oakland', 'michigan')",0.4307625058365538
+"('broward', 'florida')",0.4302304147465438
+"('district 1', 'alaska')",0.3394391527342969
+"('van buren', 'michigan')",0.41747045238418695
+"('st. louis county', 'missouri')",0.3405221956139439
+"('adams', 'colorado')",0.35101831548517354
+"('mower', 'minnesota')",0.45138839539511083
+"('solano', 'california')",0.4823427730286702
+"('jackson', 'mississippi')",0.533997213567068
+"('baldwin', 'alabama')",0.5089959394816923
+"('northampton', 'virginia')",0.3559915907498248
+"('umatilla', 'oregon')",0.4964543293444538
+"('henry', 'illinois')",0.4413439502610024
+"('nevada', 'arkansas')",0.4836808105919355
+"('prince george', 'virginia')",0.46567929364853317
+"('arkansas', 'arkansas')",0.43540410619387415
+"('hamilton', 'florida')",0.21952318512337585
+"('hawaii', 'hawaii')",0.39715518619146556
+"('wake', 'north carolina')",0.3996844884440241
+"('richmond', 'virginia')",0.4820424383294594
+"('garden', 'nebraska')",0.43135528911822735
+"('shelby', 'tennessee')",0.48897556203458775
+"('strafford', 'new hampshire')",0.5292641201609015
+"('kent', 'michigan')",0.4663049162291931
+"('richland', 'south carolina')",0.41692290171962193
+"('sarpy', 'nebraska')",0.47708719164382546
+"('oklahoma', 'oklahoma')",0.47970389413532116
+"('orange', 'california')",0.5563549337260677
+"('monroe', 'michigan')",0.28319914390542195
+"('wood', 'wisconsin')",0.4083181030354939
+"('mchenry', 'illinois')",0.4071976384514343
+"('dupage', 'illinois')",0.46365850966388916
+"('cooper', 'missouri')",0.43432984669619873
+"('gila', 'arizona')",0.5681210661002088
+"('wright', 'minnesota')",0.41692290171962193
+"('nelson', 'kentucky')",0.4883155624153344
+"('livingston', 'missouri')",0.4366160293347302
+"('miami', 'kansas')",0.5089959394816923
+"('jefferson', 'ohio')",0.5588569800377176
+"('barrow', 'georgia')",0.534912240361769
+"('johnson', 'indiana')",0.3815232722143865
+"('newberry', 'south carolina')",0.4367394157823311
+"('summit', 'colorado')",0.42859605769783343
+"('rock', 'nebraska')",0.26951412850881284
+"('hanover', 'virginia')",0.4885748475696621
+"('milwaukee', 'wisconsin')",0.5563549337260677
+"('dane', 'wisconsin')",0.46707380307656854
+"('york', 'south carolina')",0.3048327137546468
+"('jackson', 'michigan')",0.3441776040212231
+"('charles', 'maryland')",0.5148954775888351
+"('smith', 'kansas')",0.5151165061181984
+"('warren', 'kentukcy')",0.5656932669447808
+"('lane', 'oregon')",0.444554877367487
+"('harrison', 'west virginia')",0.39715518619146556
+"('powhatan', 'virginia')",0.49624829467939974
+"('montgomery', 'ohio')",0.4446102079993098
+"('washington', 'kansas')",0.43287123766704133
+"('dauphin', 'pennsylvania')",0.4647681899246915
+"('tippecanoe', 'indiana')",23.727206198880758
+"('lebanon', 'pennsylvania')",0.42333286139034404
+"('fresno', 'california')",0.3701396348012889
+"('hampden', 'massachusetts')",0.2789661203601736
+"('wright', 'iowa')",0.3829800679988372
+"('medina', 'texas')",0.46842457985359315
+"('utah', 'utah')",0.3405221956139439
+"('coconino', 'arizona')",0.4403314563603788
+"('coffee', 'tennesee')",0.5221304318624488
+"('brazoria', 'texas')",0.44805844044713067
+"('island', 'washington')",0.43773635379807635
+"('san joaquin', 'california')",0.44521722252773915
+"('bexar', 'texas')",0.4189787423189433
+"('marion', 'indiana')",0.33889798145117295
+"('dorchester', 'massachusetts')",0.40354046242774566
+"(""prince george's"", 'maryland')",0.4413439502610024
+"('paulding', 'ohio')",0.5206759580281496
+"('waushara', 'wisconsin')",0.39069786510059545
+"('adams', 'nebraska')",0.48223262263823885
+"('will', 'illinois')",0.4724544426915767
+"('clackamas', 'oregon')",0.46707380307656854
+"('ramsey', 'minnesota')",0.4291905401009027
+"('placer', 'california')",0.4602297841966885
+"('arlington', 'virginia')",0.4734016718218768
+"('passaic', 'new jersey')",0.5659216179424401
+"('ohio', 'west virginia')",0.45925971150663714
+"('sonoma', 'california')",0.4563947223486028
+"('el pasa', 'texas')",0.42103036844715425
+"('brevard', 'florida')",0.33889798145117295
+"('jefferson', 'west virginia')",N/A
+"('johnson', 'missouri')",0.49990972230581265
+"('lincoln', 'oregon')",0.5363444268357105
+"('prairie', 'montana')",0.46519896866781973
+"('livingston', 'michigan')",0.4728723318695813
+"('houston', 'texas')",0.41162829456713923
+"('chesterfield', 'south carolina')",0.3103627308863294
+"('colorado', 'texas')",0.4302304147465438
+"('la plata', 'colorado')",0.3903739868838723
+"('park', 'montana')",0.5588569800377176
+"('harris', 'texas')",0.4885748475696621
+"('loudoun', 'virginia')",0.43088350815581533
+"('polk', 'missouri')",0.4836808105919355
+"('oconee', 'south carolina')",0.5431445709157889
+"('marengo', 'alabama')",0.3977315512048193
+"('columbia', 'wisconsin')",0.41451818236929394
+"('brunswick', 'virginia')",0.3057553956834532
+"('atlantic', 'new jersey')",0.40720650910499806
+"('burlington', 'new jersey')",0.39216111400585396
+"('storey', 'nevada')",0.35188694752516414
+"('churchill', 'nevada')",0.3960056191687871
+"('anoka', 'minnesota')",0.26951412850881284
+"('rice', 'kansas')",0.679324894514768
+"('grant', 'arkansas')",0.43652682733313497
+"('ouachita', 'arkansas')",0.504220346512661
+"('marquette', 'michigan')",0.3981894935763598
+"('greenwood', 'kansas')",0.38484683474369114
+"('muskegon', 'michigan')",0.48919129919776017
+"('cullman', 'alabama')",0.3531135861478108
+"('manassas', 'virginia')",N/A
+"('san mateo', 'california')",0.470205443737616
+"('montgomery', 'north carolina')",0.4302304147465438
+"('santa barbara', 'california')",0.4189787423189433
+"('new hanover', 'north carolina')",0.46073381408986447
+"('amherst', 'virginia')",0.5506320408907427
+"('district 5', 'alaska')",0.36004149116338535
+"('olmsted', 'minnesota')",0.41692290171962193
+"('mobile', 'alabama')",0.29672534922180127
+"('monterey', 'california')",0.4602297841966885
+"('burke', 'north carolina')",0.39196099417290997
+"('ottawa', 'kansas')",0.503022516301031
+"('craig', 'virginia')",0.442067855706048
+"('muhlenberg', 'kentucky')",0.5151165061181984
+"('levy', 'florida')",0.437924044085103
+"('grant', 'wisconsin')",0.4764251590853302
+"('whitley', 'kentucky')",0.5161050513587246
+"('waukesha', 'wisconsin')",0.5935237384623888
+"('madison', 'alabama')",0.3955193192781565
+"('anne aurndel', 'maryland')",0.43421420704334246
+"('middlesex', 'massachusetts')",0.26951412850881284
+"('montgomery', 'maryland')",0.4845639575227676
+"('ventura', 'california')",0.4602297841966885
+"('elmore', 'alabama')",0.5035603715170278
+"('rockingham', 'virginia')",0.46057793490851007
+"('navarro', 'texas')",0.5177259766989558
+"('shasta', 'california')",0.2878798449969569
+"('rice', 'minnesota')",0.5148954775888351
+"('guadalupe', 'texas')",0.5331447480785654
+"('apache', 'arizona')",0.35471487401409924
+"('rock', 'wisconsin')",0.3981894935763598
+"('haywood', 'tennessee')",0.38327076733524224
+"('bingham', 'idaho')",0.4533893493811741
+"('montgomery', 'virginia')",0.46495147928994085
+"('arapahoe', 'colorado')",0.5226799605565904
+"('missoula', 'montana')",0.4520355217136177
+"('gunnison', 'colorado')",0.46645646707527894
+"('forsyth', 'georgia')",0.3693783592880217
+"('king', 'washington')",0.5148954775888351
+"('miami-dade', 'florida')",0.26951412850881284
+"('pender', 'north carolina')",0.2522994890671435
+"('lackawanna', 'pennsylvania')",0.5272400224845418
+"('comanche', 'oklahoma')",0.3733784426706137
+"('gallatin', 'illinois')",0.62757942691182
+"('escambia', 'alabama')",0.3840003187716665
+"('york', 'pennsylvania')",0.4732441049790727
+"('kenton', 'kentucky')",0.43135528911822735
+"('eddy', 'north dakota')",0.29948336261291697
+"('district 37', 'alaska')",0.5451734799038132
+"('butte', 'south dakota')",0.5414625183733464
+"('iron', 'missouri')",0.4432986943778311
+"('kanawha', 'west virginia')",0.33889798145117295
+"('district 36', 'alaska')",0.4020308458664623
+"('leslie', 'kentucky')",0.3455745317894351
+"('oregon', 'missouri')",0.533997213567068
+"('hughes', 'south dakota')",0.48919129919776017
+"('douglas', 'colorado')",0.4879335764724141
+"('granville', 'north carolina')",0.5292641201609015
+"('newport', 'rhode island')",0.6362847222222222
+"('jefferson', 'alabama')",0.2065545031542266
+"('knox', 'tennessee')",0.41556324013319934
+"('wood', 'ohio')",0.4630796370967742
+"('troup', 'georgia')",0.41692290171962193
+"('union', 'new mexico')",0.3203111411977751
+"('anderson', 'south carolina')",0.45299605310369573
+"('washtenaw', 'michigan')",0.42147478744452166
+"('yakima', 'washington')",0.4884345648090169
+"('williamson', 'tennessee')",0.21952318512337585
+"('lubbock', 'texas')",0.5223115231004388
+"('monroe', 'indiana')",0.36265830964073403
+"('sandoval', 'new mexico')",0.503444734477299
+"('victoria', 'texas')",0.40764922225596384
+"('riverside', 'california')",0.4820424383294594
+"('caldwell', 'kentucky')",0.4171413775245987
+"('jackson', 'oklahoma')",0.4463653233209492
+"('williams', 'ohio')",0.518330653744254
+"('washington', 'georgia')",0.4833128516913524
+"('atascosa', 'texas')",0.4614432721115019
+"('washburn', 'wisconsin')",0.46365850966388916
+"('hidalgo', 'new mexico')",0.29767615938326975
+"('sierra', 'new mexico')",0.43814370638521544
+"('shelby', 'alabama')",0.5148954775888351
+"('ross', 'ohio')",0.5668601432886808
+"('houston', 'georgia')",0.3996844884440241
+"('rensselaer', 'new york')",0.38289515030899757
+"('dallas', 'texas')",0.49658764367816094
+"('pasco', 'florida')",0.5221304318624488
+"('curry', 'oregon')",0.46495147928994085
+"('routt', 'colorado')",0.29672534922180127
+"('madison', 'tennessee')",0.4820424383294594
+"('johnson', 'kansas')",0.3815232722143865
+"('mclean', 'illinois')",0.4518099547511312
+"('benton', 'tennessee')",0.45934615372576354
+"('columbia', 'gerogia')",0.3097208498023715
+"('fayette', 'iowa')",0.43773635379807635
+"('seward', 'kansas')",0.5506320408907427
+"('gogebic', 'michigan')",0.4732441049790727
+"('jasper', 'iowa')",0.519927987667096
+"('kalamazoo', 'michigan')",0.40632905350579923
+"('highland', 'virginia')",0.36852004952179435
+"('james', 'virginia')",0.47440810606342476
+"('orange', 'north carolina')",0.4197249754442361
+"('orange', 'florida')",0.5935237384623888
+"('el paso', 'colorado')",0.29672534922180127
+"('aroostook', 'maine')",0.2602691426220838
+"('grundy', 'iowa')",0.4734016718218768
+"('delaware', 'oklahoma')",0.44521722252773915
+"('gallatin', 'montana')",0.2789661203601736
+"('sedgwick', 'kansas')",0.5397180512296035
+"('wayne', 'michigan')",0.47970389413532116
+"('gwinnett', 'georgia')",0.47708719164382546
+"('providence', 'rhode island')",0.4728723318695813
+"('columbia', 'pennsylvania')",0.40632905350579923
+"('berkeley', 'west virginia')",0.42103036844715425
+"('denver', 'colorado')",0.3743473494490793
+"('franklin', 'tennessee')",0.3883998111871607
+"('durham', 'north carolina')",0.21952318512337585
+"('platte', 'missouri')",0.47708719164382546
+"('christian', 'kentucky')",0.5221304318624488
+"('beaufort', 'south carolina')",0.3977315512048193
+"('taylor', 'texas')",0.5219990200881921
+"('tulsa', 'oklahoma')",0.35239453904367657
+"('williamsburg', 'virginia')",0.3587805443860192
+"('lancaster', 'virginia')",0.36151746211051494
+"('hampton', 'south carolina')",0.5015619273660146
+"('pasquotank', 'north carolina')",0.4219957579929374
+"('clay', 'tennessee')",0.41584909943461945
+"('tioga', 'pennsylvania')",0.46057793490851007
+"('san juan', 'washington')",0.4691803941085745
+"('denton', 'texas')",0.45934615372576354
+"('albany', 'new york')",0.4996218805142425
+"('san luis obispo', 'california')",0.5848278447791039
+"('peoria', 'illinois')",0.5308818430753773
+"('macomb', 'michigan')",0.43135528911822735
+"('fillmore', 'minnesota')",0.5426767231439152
+"('oglethorpe', 'georgia')",0.4432986943778311
+"('pittsburg', 'oklahoma')",0.5477524055723108
+"('dodge', 'minnesota')",0.519927987667096
+"('stutsman', 'north dakota')",0.5293249360362133
+"('wyoming', 'west virginia')",0.48897556203458775
+"('santa cruz', 'california')",0.3693783592880217
+"('essex', 'massachusetts')",0.41746375293816473
+"('douglas', 'kansas')",0.5588569800377176
+"('pine', 'minnesota')",0.40632905350579923
+"('bamberg', 'south carolina')",0.4533893493811741
+"('monroe', 'alabama')",0.40796673232654845
+"('district 40', 'alaska')",0.5051885550526071
+"('las animas', 'colorado')",0.5303277284456798
+"('clare', 'michigan')",0.4614432721115019
+"('le sueur', 'minnesota')",0.43088350815581533
+"('woodward', 'oklahoma')",0.4712314939434724
+"('klamath', 'oregon')",0.476775956284153
+"('austin', 'texas')",0.38327076733524224
+"('wyandotte', 'kansas')",0.3048327137546468
+"('montezuma', 'colorado')",0.38256726457399104
+"('somerset', 'new jersey')",0.504220346512661
+"('dekalb', 'indiana')",0.4205845907136089
+"('eau claire', 'wisconsin')",0.4820424383294594
+"('montgomery', 'texas')",0.4385279270477121
+"('coke', 'texas')",0.4287850249519408
+"('collier', 'florida')",0.2602691426220838
+"('erie', 'new york')",0.4197711224738252
+"('pitkin', 'colorado')",0.5148954775888351
+"('cedar', 'iowa')",0.41584909943461945
+"('knox', 'illinois')",0.5831862012766535
+"('petersburg', 'virginia')",0.5844510680576255
+"('pottawatomie', 'oklahoma')",0.5008138903960934
+"('calvert', 'maryland')",0.5106760723416344
+"('falls', 'texas')",0.3815232722143865
+"('st. lawrence', 'new york')",0.46567929364853317
+"('petroleum', 'montana')",0.3477143869596031
+"('yellow medicine', 'minnesota')",0.4712314939434724
+"('hunt', 'texas')",0.4233289842683823
+"('marinette', 'wisconsin')",0.4485279187817259
+"('campbell', 'tennessee')",0.29672534922180127
+"('gulf', 'florida')",0.41556324013319934
+"('monroe', 'new york')",0.5151165061181984
+"('seminole', 'florida')",0.26951412850881284
+"('catawba', 'north carolina')",0.43773635379807635
+"('alexander', 'illinois')",0.5015619273660146
+"('dekalb', 'georgia')",0.5315446695120368
+"('mclennan', 'texas')",0.3097208498023715
+"('jefferson', 'colorado')",0.400419776119403
+"('valley', 'nebraska')",0.5089959394816923
+"('fayette', 'kentucky')",0.3733784426706137
+"('rosebud', 'montana')",0.4033723714857462
+"('westmoreland', 'virginia')",0.39715518619146556
+"('augusta', 'virginia')",0.5927667304015296
+"('randolph', 'missouri')",0.39216111400585396
+"('etowah', 'alabama')",0.35471487401409924
+"('blue earth', 'minnesota')",0.5080359402682865
+"('ashland', 'wisconsin')",0.4611071555713777
+"('glenn', 'california')",0.40632905350579923
+"('pinellas', 'florida')",0.33680323243722543
+"('faulkner', 'arkansas')",0.6645702306079665
+"('marshall', 'alabama')",0.444554877367487
+"('cumberland', 'tennessee')",0.45312251252889446
+"('harvey', 'kansas')",0.2065545031542266
+"('washington', 'oregon')",0.5016439223943718
+"('clayton', 'georgia')",0.44521722252773915
+"('harrison', 'iowa')",0.5506320408907427
+"('linn', 'iowa')",0.4820424383294594
+"('laurel', 'kentucky')",0.3678155522163787
+"('wayne', 'indiana')",0.3800038647413118
+"('matagorda', 'texas')",0.4345836148464573
+"('frederick', 'maryland')",0.3948776922088805
+"('jefferson', 'kentucky')",0.5794621026894865
+"('rapides', 'louisiana')",N/A
+"('bay', 'michigan')",0.3981894935763598
+"('carver', 'minnesota')",0.46365850966388916
+"('rockland', 'new york')",0.46851306126441034
+"('bergen', 'new jersey')",0.5292641201609015
+"('palo alto', 'iowa')",0.5396462988860032
+"('jersey', 'illinois')",0.4602297841966885
+"('chester', 'south carolina')",0.45934615372576354
+"('kane', 'illinois')",0.49039402855372666
+"('cochise', 'arizona')",0.48897556203458775
+"('winnebago', 'wisconsin')",0.47970389413532116
+"('jackson', 'missouri')",0.46707380307656854
+"('briston', 'virginia')",0.42664318928908246
+"('mahoning', 'ohio')",0.3588113103565221
+"('san patricio', 'texas')",0.45925971150663714
+"('cobb', 'georgia')",0.33680323243722543
+"('mississippi', 'missouri')",0.38025231163948586
+"('cheyenne', 'kansas')",0.35471487401409924
+"('carbon', 'utah')",0.4518099547511312
+"('montgomery', 'tennessee')",0.6334244080145719
+"('pendleton', 'kentucky')",0.43088350815581533
+"('fairfax', 'virginia')",0.40632905350579923
+"('scott', 'minnesota')",0.42859605769783343
+"('ingham', 'michigan')",0.5315446695120368
+"('hancock', 'maine')",0.48954584587742705
+"('whatcom', 'washington')",0.45389721396559424
+"('hamilton', 'ohio')",0.5656111256551496
+"('santa fe', 'new mexico')",0.4520355217136177
+"('marion', 'florida')",0.6089155492825218
+"('elk', 'pennsylvania')",0.6645702306079665
+"('scott', 'iowa')",0.33680323243722543
+"('brazos', 'texas')",0.49624829467939974
+"('crow wing', 'minnesota')",0.5656111256551496
+"('payne', 'oklahoma')",0.4171413775245987
+"('yuma', 'colorado')",0.41092993314206167
+"('portsmouth', 'virginia')",0.45526862570495696
+"('jasper', 'south carolina')",0.3455745317894351
+"('marshall', 'tennessee')",0.41092993314206167
+"('saratoga', 'new york')",0.5309869261599314
+"('madison', 'mississippi')",0.5297401502068356
+"('caddo', 'louisiana')",0.3977315512048193
+"('boise', 'idaho')",0.4602297841966885
+"('goochland', 'virginia')",0.6472831267874166
+"('dickinson', 'iowa')",0.37863011081390907
+"('walworth', 'wisconsin')",0.4734016718218768
+"('cass', 'indiana')",0.4518099547511312
+"('lexington', 'south carolina')",0.47708719164382546
+"('isabella', 'michigan')",0.39715518619146556
+"('grant', 'kentucky')",0.43024096800486755
+"('angelina', 'texas')",0.5562076292623698
+"('greenville', 'south carolina')",0.5760505779077105
+"('marin', 'california')",0.41692290171962193
+"('creek', 'oklahoma')",0.3695365416086096
+"('st. johns', 'florida')",0.3026536781995297
+"('lake', 'florida')",0.41692290171962193
+"('hutchinson', 'texas')",0.4361060013796275
+"('falls church', 'virginia')",0.34055161453995425
+"('montrose', 'colorado')",0.5396462988860032
+"('louis', 'minnesota')",0.36151746211051494
+"('barren', 'kentucky')",0.4526823707199385
+"('hill', 'texas')",0.5383258445664836
+"('new london', 'connecticut')",0.4526823707199385
+"('la crosse', 'wisconsin')",0.4691803941085745
+"('seneca', 'ohio')",0.40523546416909884
+"('chittenden', 'vermont')",0.4712314939434724
+"('champaign', 'ohio')",0.5376665360501567
+"('san miguel', 'colorado')",0.4563947223486028
+"('brookings', 'south dakota')",0.3707143664402914
+"('vance', 'north carolina')",0.43135528911822735
+"('meriwether', 'georgia')",0.41459705355276794
+"('wagoner', 'oklahoma')",0.4712314939434724
+"('navajo', 'arizona')",0.3693783592880217
+"('renville', 'north dakota')",0.3693783592880217
+"('lewis', 'washington')",0.3595433775712303
+"('winona', 'minnesota')",0.4432986943778311
+"('montcalm', 'michigan')",0.3779019558039116
+"('yadkin', 'north carolina')",0.3588113103565221
+"('cook', 'minnesota')",0.44521722252773915
+"('dade', 'missouri')",0.3955193192781565
+"('rock island', 'illinois')",0.48998952626490494
+"('orange', 'new york')",0.49658764367816094
+"('bernalillo', 'new mexico')",0.4847761746207917
+"('mulnomah', 'oregon')",0.3394391527342969
+"('hardin', 'kentucky')",0.4602297841966885
+"('suffolk', 'massachusetts')",0.41459705355276794
+"('bucks', 'pennsylvania')",0.5452604758461591
+"('otero', 'new mexico')",0.46962154626752795
+"('jasper', 'missouri')",0.4724544426915767
+"('cherokee', 'georgia')",0.30915174403461076
+"('san diego', 'california')",0.4302304147465438
+"('foster', 'north dakota')",0.3394391527342969
+"('albemarle', 'virginia')",0.43840233885305535
+"('nez perce', 'idaho')",0.5051885550526071
+"('harnett', 'north carolina')",0.5668601432886808
+"('conway', 'arkansas')",0.4361060013796275
+"('poquoson', 'virginia')",0.47787621900694754
+"('parker', 'texas')",0.4563947223486028
+"('hopkins', 'texas')",0.4071976384514343
+"('clinton', 'michigan')",0.5561115082201572
+"('canyon', 'idaho')",0.40632905350579923
+"('cuming', 'nebraska')",0.4302183330694722
+"('coffee', 'alabama')",0.42859605769783343
+"('collin', 'texas')",0.4287850249519408
+"('pondera', 'montana')",0.43135528911822735
+"('owen', 'indiana')",0.5151165061181984
+"('sandusky', 'ohio')",0.49375561545372865
+"('multnomah', 'oregon')",0.43421420704334246
+"('washington', 'minnesota')",0.4205845907136089
+"('greenwood', 'south carolina')",0.43088350815581533
+"('boone', 'missouri')",0.38327076733524224
+"('lehigh', 'pennsylvania')",0.3771232335588771
+"('hillsdale', 'michigan')",0.4457506960737314
+"('bertie', 'north carolina')",0.43502051983584133
+"('thomas', 'nebraska')",0.40263507591393594
+"('siskiyou', 'california')",0.6032803599865737
+"('mecklenburg', 'virginia')",0.49591347330299024
+"('wicomico', 'maryland')",0.5106760723416344
+"('goodhue', 'minnesota')",0.44762614809242113
+"('fond du lac', 'wisconsin')",0.4734016718218768
+"('citrus', 'florida')",0.5016439223943718
+"('rowan', 'north carolina')",0.5177259766989558
+"('dunn', 'north dakota')",0.35471487401409924
+"('coweta', 'georgia')",0.41092993314206167
+"('gloucester', 'massachusetts')",0.44008846528527423
+"('scott', 'virginia')",0.4446102079993098
+"('walker', 'texas')",0.4071976384514343
+"('barnstable', 'massachusetts')",0.3774317827235967
+"('wilson', 'texas')",0.21952318512337585
+"('colbert', 'alabama')",0.34049207978879437
+"('okmulgee', 'oklahoma')",0.5184830492242866
+"('cedar', 'nebraska')",0.37216547127436067
+"('cotton', 'oklahoma')",0.4712314939434724
+"('custer', 'montana')",0.5646963398560276
+"('kiowa', 'oklahoma')",0.5008138903960934
+"('morgan', 'indiana')",0.41692290171962193
+"('mcpherson', 'kansas')",0.48954584587742705
+"('huntington', 'indiana')",0.62757942691182
+"('monmouth', 'new jersey')",0.5272400224845418
+"('guilford', 'north carolina')",0.4511242906515339
+"('pitt', 'north carolina')",0.3097208498023715
+"('del norte', 'california')",0.6089155492825218
+"('madison', 'georgia')",0.45389721396559424
+"('escambia', 'florida')",0.3678155522163787
+"('schenectady', 'new york')",0.4692780936064169
+"('dillon', 'south carolina')",0.45312251252889446
+"('wood', 'texas')",0.5848278447791039
+"('iredell', 'north carolina')",0.503444734477299
+"('georgetown', 'south carolina')",0.4602297841966885
+"('norfolk', 'massachusetts')",0.42333286139034404
+"('tuscaloosa', 'alabama')",0.4734016718218768
+"('calhoun', 'michigan')",0.2794624202382969
+"('mississippi', 'arizona')",0.47500458257805656
+"('becker', 'minnesota')",0.4485279187817259
+"('camden', 'georgia')",0.4111231811554844
+"('spalding', 'georgia')",0.5195344031958123
+"('harper', 'oklahoma')",0.4048768710767745
+"('fluvanna', 'virginia')",0.5426767231439152
+"('mineral', 'nevada')",0.679324894514768
+"('heard', 'georgia')",0.5159365945116755
+"('yolo', 'california')",0.4071976384514343
+"('manitowoc', 'wisconsin')",0.38327076733524224
+"('maricopa', 'alabama')",0.4879335764724141
+"('hutchinson', 'south dakota')",0.4533893493811741
+"('stillwater', 'montana')",0.5187693871470882
+"('catoosa', 'georgia')",0.35653644512092003
+"('mcleod', 'minnesota')",0.44805844044713067
+"('columbus', 'north carolina')",0.42859605769783343
+"('sibley', 'minnesota')",0.4045068027210884
+"('elkhart', 'indiana')",0.3394391527342969
+"('brown', 'wisconsin')",0.41692290171962193
+"('hale', 'texas')",0.4728723318695813
+"('decatur', 'georgia')",0.43652682733313497
+"('hunterdon', 'new jersey')",0.4197249754442361
+"('bullitt', 'kentucky')",0.46647093459159816
+"('canyon', 'colorado')",0.5506320408907427
+"('stearns', 'minnesota')",0.46707380307656854
+"('madison', 'colorado')",0.43652682733313497
+"('talladega', 'alabama')",0.3626147515036404
+"('isle of wight', 'virginia')",0.44104535904756775
+"('fountain', 'indiana')",0.4604412725536513
+"('limestone', 'texas')",0.3626147515036404
+"('district 10', 'alaska')",0.47611216637133547
+"('pinal', 'arizona')",0.5670995670995671
+"('chilton', 'alabama')",0.4712314939434724
+"('randolph', 'georgia')",0.3626147515036404
+"('kay', 'oklahoma')",0.4171413775245987
+"('osage', 'missouri')",0.5148954775888351
+"('trego', 'kansas')",0.4879335764724141
+"('dickinson', 'michigan')",0.46851306126441034
+"('coffey', 'kansas')",0.40354046242774566
+"('king', 'texas')",0.21952318512337585
+"('rolette', 'north dakota')",0.36151746211051494
+"('gove', 'kansas')",0.4802752526213026
+"('crawford', 'kansas')",0.3763378089122397
+"('lauderdale', 'alabama')",0.519927987667096
+"('santa rosa', 'florida')",0.40764922225596384
+"('jeff davis', 'georgia')",0.48502679203316146
+"('mason', 'washington')",0.4602297841966885
+"('sedgwick', 'colorado')",0.49591347330299024
+"('tulare', 'california')",0.553537544049878
+"('outagamie', 'wisconsin')",0.46028102506927254
+"('ozaukee', 'wisconsin')",0.49375561545372865
+"('sanilac', 'michigan')",0.5539701733172108
+"('telfair', 'georgia')",0.47297297297297297
+"('cassia', 'idaho')",0.45736952781494933
+"('sauk', 'wisconsin')",0.3590142361526498
+"('stark', 'michigan')",0.46842457985359315
+"('clermont', 'ohio')",0.3606960321485701
+"('tallapoosa', 'alabama')",0.3626147515036404
+"('nobles', 'minnesota')",0.5293249360362133
+"('clarke', 'georgia')",0.4712314939434724
+"(""st. mary's"", 'maryland')",0.4522206303724928
+"('christian', 'illinois')",0.2522994890671435
+"('lamar', 'mississippi')",0.42859605769783343
+"('noble', 'indiana')",0.4171413775245987
+"('lagrange', 'indiana')",0.4647681899246915
+"('wilkin', 'minnesota')",0.581929181929182
+"('gates', 'north carolina')",0.44104535904756775
+"('henrico', 'virginia')",0.4802752526213026
+"('horry', 'south carolina')",0.42748677792318757
+"('val verde', 'texas')",0.30795290543106724
+"('clark', 'nevada')",0.3955193192781565
+"('saline', 'kansas')",0.5106760723416344
+"('hood river', 'oregon')",0.3960056191687871
+"('willacy', 'texas')",0.496655083201935
+"('onslow', 'north carolina')",0.4083181030354939
+"('curry', 'new mexico')",0.4879335764724141
+"('webb', 'texas')",0.35188694752516414
+"('lawrence', 'missouri')",0.35239453904367657
+"('hampshire', 'west virginia')",0.47733386470060774
+"('cabell', 'west virginia')",0.4724544426915767
+"('kershaw', 'south carolina')",0.42304234256768947
+"('monongalia', 'west virginia')",0.39196099417290997
+"('cook', 'illinois')",0.5397180512296035
+"('lafayette', 'louisiana')",0.400419776119403
+"('spartanburg', 'south carolina')",0.43421420704334246
+"('burleigh', 'north dakota')",0.47611216637133547
+"('laurens', 'south carolina')",0.48435198160324816
+"('cambria', 'pennsylvania')",0.4712314939434724
+"('adams', 'pennsylvania')",0.3455745317894351
+"('chambers', 'texas')",0.3626147515036404
+"('elmore', 'idaho')",0.3626147515036404
+"('geneva', 'alabama')",0.3980587778960472
+"('wilcox', 'georgia')",0.48725285161498905
+"('barbour', 'west virginia')",0.3626147515036404
+"('autauga', 'alabama')",0.5016439223943718
+"('crenshaw', 'alabama')",0.34049207978879437
+"('russell', 'virginia')",0.5650208623087621
+"('butler', 'missouri')",0.3626147515036404
+"('greene', 'pennsylvania')",0.519927987667096
+"('covington', 'mississippi')",0.3626147515036404
+"('pike', 'mississippi')",0.41162829456713923
+"('cleburne', 'alabama')",0.4071976384514343
+"('conecuh', 'alabama')",0.3626147515036404
+"('lincoln', 'missouri')",0.46073381408986447
+"('butts', 'georgia')",0.41092993314206167
+"('butler', 'kansas')",0.4356888302026096
+"('lea', 'new mexico')",0.4406093565810185
+"('kingfisher', 'oklahoma')",0.5612944204860763
+"('kimball', 'nebraska')",0.29672534922180127
+"('henderson', 'texas')",0.4578441835645678
+"('morris', 'new jersey')",0.2602691426220838
+"('davidson', 'tennessee')",0.4764251590853302
+"('mcminn', 'tennessee')",0.46690246059090773
+"('new madrid', 'missouri')",0.46495147928994085
+"('allen', 'louisiana')",0.3771232335588771
+"('wyandot', 'ohio')",0.6645702306079665
+"('maui', 'hawaii')",0.3829800679988372
+"('lancaster', 'pennsylvania')",0.46567929364853317
+"('maury', 'tennessee')",0.4964543293444538
+"('lexington', 'virginia')",0.4406093565810185
+"('montgomery', 'new jersey')",0.3960056191687871
+"('greene', 'missouri')",0.4141468237620499
+"('cumberland', 'maine')",0.5935237384623888
+"('pierce', 'nebraska')",0.46870097270160027
+"('winchester', 'virginia')",0.5223115231004388
+"('nacogdoches', 'texas')",0.49990972230581265
+"('lewis', 'missouri')",0.32172318973418884
+"('sarasota', 'florida')",0.5396462988860032
+"('williamson', 'texas')",0.28960843707698114
+"('yavapai', 'arizona')",0.4003948619201989
+"('travis', 'texas')",0.46567929364853317
+"('roane', 'west virginia')",0.3606960321485701
+"('white', 'indiana')",0.5831862012766535
+"('cabarrus', 'north carolina')",0.4045231145041418
+"('jefferson', 'new york')",0.4385279270477121
+"('macon', 'north carolina')",0.4734016718218768
+"('el dorado', 'california')",0.5309869261599314
+"('perquimans', 'north carolina')",0.5035603715170278
+"('pickens', 'south carolina')",0.3626147515036404
+"('bibb', 'alabama')",0.3626147515036404
+"('dale', 'alabama')",0.3626147515036404
+"('portage', 'wisconsin')",0.47733386470060774
+"('golden valley', 'montana')",0.496655083201935
+"('rock', 'minnesota')",0.5242500476697196
+"('emmons', 'north dakota')",0.4395344249358848
+"('union', 'illinois')",0.5340563991323211
+"('johnson', 'illinois')",0.48502679203316146
+"('cayuga', 'new york')",0.5514157813570939
+"('dubuque', 'iowa')",0.5477524055723108
+"('suffolk', 'virginia')",0.3743473494490793
+"('hidalgo', 'texas')",0.43814370638521544
+"('clinton', 'illinois')",0.5630731798615011
+"('pierce', 'washington')",0.4602297841966885
+"('roanoke', 'county')",0.3441776040212231
+"('hendricks', 'indiana')",0.4395344249358848
+"('napa', 'california')",0.4361060013796275
+"('washington', 'vermont')",0.40887440461268487
+"('ocean', 'new jersey')",0.35653644512092003
+"('st. joseph', 'indiana')",0.4820424383294594
+"('otter tail', 'minnesota')",0.46707380307656854
+"('fort bend', 'texas')",0.3757176355560455
+"('butler', 'pennsylvania')",0.46073381408986447
+"('queens', 'new york')",0.4602297841966885
+"('redwood', 'minnesota')",0.5315446695120368
+"('warren', 'iowa')",0.32172318973418884
+"('mayes', 'oklahoma')",0.4712314939434724
+"('middlesex', 'virginia')",0.44521722252773915
+"('sutter', 'california')",0.4330874539748437
+"('floyd', 'texas')",0.5656111256551496
+"('emmet', 'michigan')",0.28319914390542195
+"('osage', 'oklahoma')",0.4692780936064169
+"('thurston', 'washington')",0.4602297841966885
+"('kitsap', 'washington')",0.46707380307656854
+"('kennebec', 'maine')",0.4728723318695813
+"('kern', 'california')",0.4071976384514343
+"('st. croix', 'wisconsin')",0.43135528911822735
+"('yuma', 'arizona')",0.4978309767083839
+"('independence', 'arkansas')",0.46707380307656854
+"('licking', 'ohio')",0.3743473494490793
+"('weld', 'colorado')",0.42304234256768947
+"('rawlins', 'kansas')",0.46870097270160027
+"('bedford', 'virginia')",0.49591347330299024
+"('van zandt', 'texas')",0.45122004262537513
+"('beaver', 'utah')",0.3530152159319758
+"('stafford', 'virginia')",0.3829800679988372
+"(""queen anne's"", 'maryland')",0.5088021916696261
+"('carson', 'texas')",0.5451734799038132
+"('perry', 'mississippi')",0.4734016718218768
+"('pawnee', 'nebraska')",0.4171413775245987
+"('sullivan', 'pennsylvania')",0.46647093459159816
+"('sterling', 'texas')",0.4499944943272908
+"('elbert', 'georgia')",0.4432986943778311
+"('grayson', 'texas')",0.45448629301228344
+"('crittenden', 'arkansas')",0.29767615938326975
+"('juneau', 'wisconsin')",0.5831862012766535
+"('walla walla', 'washington')",0.47611216637133547
+"('jackson', 'oregon')",0.3733784426706137
+"('delta', 'colorado')",0.3960056191687871
+"('alamance', 'north carolina')",0.43814370638521544
+"('burnett', 'wisconsin')",0.4498220640569395
+"('lee', 'north carolina')",0.37863011081390907
+"('bristol', 'massachusetts')",0.4003948619201989
+"('cleveland', 'oklahoma')",0.3955193192781565
+"('aransas', 'texas')",0.40796673232654845
+"('wilson', 'tennessee')",0.4829127764219451
+"('merced', 'california')",0.48223262263823885
+"('converse', 'wyoming')",0.44642257757011855
+"('sangamon', 'illinois')",0.504220346512661
+"('kandiyohi', 'minnesota')",0.4302183330694722
+"('page', 'iowa')",0.41692290171962193
+"('kingman', 'kansas')",0.4964543293444538
+"('okeechobee', 'florida')",0.4728723318695813
+"('sacramento', 'california')",0.26951412850881284
+"('mcnairy', 'tennessee')",0.43024096800486755
+"('clark', 'illinois')",0.26951412850881284
+"('robeson', 'north carolina')",0.481438729337889
+"('anne arundel', 'maryland')",0.3948776922088805
+"('muskingum', 'ohio')",0.504220346512661
+"('posey', 'indiana')",0.4111231811554844
+"('braxton', 'west virginia')",0.46851306126441034
+"('greenup', 'kentucky')",0.3097208498023715
+"('district 9', 'alaska')",0.5426767231439152
+"('atchison', 'kansas')",0.4823427730286702
+"('henderson', 'illinois')",0.2602691426220838
+"('bowie', 'texas')",0.3694233443885739
+"('dearborn', 'indiana')",0.4280736211866823
+"('pacific', 'washington')",0.46842457985359315
+"('twiggs', 'georgia')",0.3901356350184957
+"('mitchell', 'kansas')",0.5171497093229519
+"('teton', 'montana')",0.4732441049790727
+"('bullock', 'alabama')",0.35471487401409924
+"('choctaw', 'alabama')",0.4712314939434724
+"('buffalo', 'south dakota')",0.4824915664940371
+"('jefferson', 'wisconsin')",0.553537544049878
+"('tuolumne', 'california')",0.38558371189316404
+"('volusia', 'florida')",0.4823427730286702
+"('baltimore', 'maryland')",0.43840233885305535
+"('san francisco', 'california')",0.21952318512337585
+"('cass', 'missouri')",0.5223115231004388
+"('shawano', 'wisconsin')",0.6362847222222222
+"('shawnee', 'kansas')",0.5080359402682865
+"('chester', 'tennessee')",0.437924044085103
+"('dorchester', 'maryland')",0.4083181030354939
+"('lawrence', 'tennessee')",0.5226799605565904
+"('blount', 'tennessee')",0.38484683474369114
+"('bayfield', 'wisconsin')",0.5396462988860032
+"('story', 'iowa')",0.4490877145560211
+"('raleigh', 'west virginia')",0.3920712839666302
+"('glynn', 'georgia')",0.47466471846788083
+"('crawford', 'pennsylvania')",0.62757942691182
+"('allegany', 'maryland')",0.4485279187817259
+"('kendall', 'texas')",0.45138839539511083
+"('montgomery', 'alabama')",0.38289515030899757
+"('hernando', 'florida')",0.42103036844715425
+"('nassau', 'new york')",0.4614432721115019
+"('cannon', 'tennessee')",0.46707380307656854
+"('lyon', 'nevada')",0.5514157813570939
+"('ashley', 'arkasnsas')",N/A
+"('bandera', 'texas')",0.12588299221155588
+"('darlington', 'south carolina')",0.4280736211866823
+"('owyhee', 'idaho')",0.3590142361526498
+"('andrews', 'texas')",0.3931215667542393
+"('osceola', 'iowa')",0.5431854199683043
+"('district 13', 'alaska')",0.4511242906515339
+"('finney', 'kansas')",0.43024096800486755
+"('yankton', 'south dakota')",0.45925971150663714
+"('allegan', 'michigan')",0.44857186265572774
+"('appomattox', 'virginia')",0.3057553956834532
+"('worcester', 'massachusetts')",0.47440810606342476
+"('crook', 'wyoming')",0.5171497093229519
+"('midland', 'michigan')",0.48502679203316146
+"('leon', 'texas')",0.4144428311553931
+"('fayette', 'georgia')",0.42395950601400023
+"('woodford', 'kentucky')",0.4280736211866823
+"('jackson', 'west virginia')",0.4628885168155432
+"('duplin', 'north carolina')",0.36151746211051494
+"('riley', 'kansas')",0.4219957579929374
+"('charlotte', 'virginia')",0.4673244863232446
+"('mcculloch', 'texas')",0.47297297297297297
+"('dinwiddie', 'virginia')",0.4083181030354939
+"('cook.illinois', '')",0.4734016718218768
+"('burleigh', 'colorado')",0.4395344249358848
+"('jefferson', 'georgia')",0.3639983489936145
+"('pulaski', 'arkansas')",0.4048768710767745
+"('washington', 'missouri')",0.5250990394529766
+"('dawson', 'georgia')",0.4978309767083839
+"('spokane', 'washington')",0.4522206303724928
+"('dekalbm', 'georgia')",0.4673244863232446
+"('campbell', 'wyoming')",0.45389721396559424
+"('fremont', 'idaho')",0.6011999094407969
+"('lake', 'ohio')",0.38289515030899757
+"('fauquier', 'virginia')",0.4356126778138258
+"('sumter', 'alabama')",0.3626147515036404
+"('cumberland', 'new jersey')",0.4045231145041418
+"('kankakee', 'illinois')",0.46647093459159816
+"('stark', 'north dakota')",0.30795290543106724
+"('beaufort', 'north carolina')",0.4888705832865956
+"('roosevelt', 'montana')",0.48995194408038445
+"('kenosha', 'wisconsin')",0.3590142361526498
+"('los alamos', 'new mexico')",0.3606960321485701
+"('lake', 'california')",23.727206198880758
+"('valencia', 'new mexico')",0.400419776119403
+"('oconto', 'wisconsin')",0.4734016718218768
+"('marion', 'kansas')",0.513381517811048
+"('bath', 'kentucky')",0.3606960321485701
+"('new haven', 'connecticut')",0.48995194408038445
+"('traverse', 'minnesota')",0.4463653233209492
+"('duval', 'florida')",0.35940175571691774
+"('st. joseph', 'michigan')",0.4485279187817259
+"('morrison', 'minnesota')",0.40263507591393594
+"('bourbon', 'kentucky')",0.46645646707527894
+"('philadelphia', 'pennsylvania')",0.29767615938326975
+"('jackson', 'minnesota')",0.4824915664940371
+"('dutchess', 'new york')",0.41692290171962193
+"('union', 'new jersey')",0.5498457329141926
+"('walker', 'alabama')",0.2794624202382969
+"('eaton', 'michigan')",0.44104535904756775
+"('lyon', 'minnesota')",0.5202112056321502
+"('trinity', 'california')",0.5562076292623698
+"('hopkins', 'kentucky')",0.2602691426220838
+"('campbell', 'kentucky')",0.3855665254728715
+"('decatur', 'kansas')",0.43840233885305535
+"('berrien', 'michigan')",0.4499944943272908
+"('hancock', 'ohio')",0.4673244863232446
+"('newton', 'arkansas')",0.4045231145041418
+"('grayson', 'virginia')",0.49990972230581265
+"('bay', 'florida')",0.47733386470060774
+"('keller', 'texas')",0.38289515030899757
+"('webster', 'iowa')",0.4045231145041418
+"('huran', 'michigan')",0.39196099417290997
+"('graham', 'arizona')",0.40354046242774566
+"('harney', 'oregon')",0.3580497028633171
+"('howard', 'iowa')",0.45299605310369573
+"('laporte', 'indiana')",0.46645646707527894
+"('carroll', 'georgia')",0.44521722252773915
+"('evans', 'georgia')",0.33660606491016265
+"('barron', 'wisconsin')",0.45041484598027454
+"('lee', 'florida')",0.3270639856862912
+"('warren', 'pennsylvania')",0.679324894514768
+"('humboldt', 'california')",0.4611071555713777
+"('lonoke', 'arkansas')",0.518330653744254
+"('morrill', 'nebraska')",0.4511242906515339
+"('gratiot', 'michigan')",0.3855665254728715
+"('moore', 'north carolina')",0.4585750045790341
+"('kewaunee', 'wisconsin')",0.35188694752516414
+"('nicollet', 'minnesota')",0.5221304318624488
+"('bartow', 'georgia')",0.5219990200881921
+"('johnston', 'north carolina')",0.522120744562027
+"('floyd', 'georgia')",0.3883998111871607
+"('morris', 'kansas')",0.37399556541019957
+"('floyd', 'kentucky')",0.42304234256768947
+"('bannock', 'idaho')",0.513035345465882
+"('prince william', 'virginia')",0.46690246059090773
+"('weber', 'utah')",0.3855665254728715
+"('plymouth', 'iowa')",0.44104535904756775
+"('douglas', 'oregon')",0.4945806526401206
+"('lumpkin', 'georgia')",0.455583408089329
+"('glasscock', 'texas')",0.4556393390020857
+"('upshur', 'west virginia')",0.46870097270160027
+"('walton', 'georgia')",0.40632905350579923
+"('copperas', 'texas')",0.4463653233209492
+"('gloucester', 'virginia')",0.4485279187817259
+"('monroe', 'florida')",0.48502679203316146
+"('merce', 'pennsylvania')",0.40044919182936234
+"('currituck', 'north carolina')",0.4463653233209492
+"('robertson', 'tennessee')",0.5659216179424401
+"('alachua', 'florida')",0.5015619273660146
+"('morgan', 'alabama')",0.37216547127436067
+"('kosciusko', 'indiana')",0.4197249754442361
+"('grady', 'oklahoma')",0.39196099417290997
+"('clay', 'minnesota')",0.4748687171792948
+"('hoke', 'north carolina')",0.12588299221155588
+"('polk', 'iowa')",0.5151165061181984
+"('reno', 'kansas')",0.3806843197685389
+"('genesee', 'michigan')",0.4548308086640016
+"('davie', 'north carolina')",0.4345836148464573
+"('norton', 'kansas')",0.48223262263823885
+"('greene', 'illinois')",0.2164740256950114
+"('virginia beach', 'virginia')",0.45138839539511083
+"('jefferson', 'louisiana')",0.35940175571691774
+"('sussex', 'delaware')",0.35940175571691774
+"('perry', 'indiana')",0.44642257757011855
+"('perry', 'south carolina')",0.5151165061181984
+"('caribou', 'idaho')",0.32856983269027507
+"('henry', 'georgia')",0.48995194408038445
+"('lyon', 'kansas')",0.44695790654746825
+"('middlesex', 'new jersey')",0.3955193192781565
+"('schuylkill', 'pennsylvania')",0.28319914390542195
+"('chatham', 'georgia')",0.4978309767083839
+"('ada', 'idaho')",0.4710039743622556
+"('boone', 'kentucky')",0.44642257757011855
+"('sanpete', 'nebraska')",0.5498457329141926
+"('belmont', 'ohio')",0.5659216179424401
+"('adams', 'illinois')",0.35940175571691774
+"('preston', 'west virginia')",0.5221304318624488
+"('sumner', 'tennessee')",0.3920982213127656
+"('sawyer', 'wisconsin')",0.12588299221155588
+"('madison', 'illinois')",0.47440810606342476
+"('perry', 'kentucky')",0.3590142361526498
+"('benton', 'arkansas')",0.5005103342689462
+"('mason', 'kentucky')",0.5477524055723108
+"('calhoun', 'alabama')",0.3743473494490793
+"('plymouth', 'massachusetts')",0.5076053998968333
+"('rush', 'indiana')",0.3948776922088805
+"('st. clair', 'missouri')",0.3695365416086096
+"('cape girardeau', 'missouri')",0.5184830492242866
+"('tazewell', 'illinois')",0.4728723318695813
+"('campbell', 'kentukcy')",0.3639983489936145
+"('ulster', 'new york')",0.42103036844715425
+"('chippewa', 'wisconsin')",0.49591347330299024
+"('pemiscot', 'missouri')",0.5646462391990562
+"('wise', 'virginia')",0.455583408089329
+"('kanawha', 'wyoming')",0.48223262263823885
+"('chesapeake', 'virginia')",0.43840233885305535
+"('rio blanco', 'colorado')",0.5293249360362133
+"('eastland', 'texas')",0.4415155270173858
+"('bonneville', 'idaho')",0.3829800679988372
+"('moody', 'south dakota')",0.4526823707199385
+"('gordon', 'georgia')",N/A
+"('rockwall', 'texas')",0.46842457985359315
+"('juab', 'utah')",0.40764922225596384
+"('chalevoix', 'utah')",0.3920712839666302
+"('rochester', 'minnesota')",0.49523383973786117
+"('chaves', 'new mexico')",0.35940175571691774
+"('klickitat', 'washington')",0.31917591125198097
+"('eddy', 'new mexico')",0.3530152159319758
+"('st. louis', 'minnesota')",0.49631348146318116
+"('marion', 'oregon')",0.4366160293347302
+"('atoka', 'oklahoma')",N/A
+"('louisa', 'iowa')",0.3532434508515879
+"('chautauqua', 'kansas')",0.4302183330694722
+"('mcdowell', 'north carolina')",0.3590142361526498
+"('josephine', 'oregon')",0.48998952626490494
+"('benton', 'iowa')",0.4033723714857462
+"('hardee', 'florida')",0.39196099417290997
+"('socorro', 'new mexico')",0.4833128516913524
+"('sheridan', 'north dakota')",0.503444734477299
+"('wabash', 'indiana')",0.44695790654746825
+"('cottonwood', 'minnesota')",0.3743473494490793
+"('new castle', 'delaware')",0.3441776040212231
+"('marshall', 'minnesota')",0.4929797379262302
+"('sioux', 'nebraska')",0.62757942691182
+"('transylvania', 'north carolina')",0.5034375
+"('sherman', 'texas')",0.519074579528114
+"('crawford', 'ohio')",0.36946282837305616
+"('wayne', 'nebraska')",0.3758911743014013
+"('mille lacs', 'minnesota')",0.4732441049790727
+"('broome', 'new york')",0.4630796370967742
+"('shelby', 'ohio')",0.2164740256950114
+"('martinsville', 'virginia')",0.43017991048167076
+"('kaufman', 'texas')",0.5015619273660146
+"('webster', 'missouri')",0.4701395582750094
+"('miller', 'missouri')",0.4220018034265104
+"('menominee', 'michigan')",0.6362847222222222
+"('ray', 'missouri')",0.49990972230581265
+"('ontario', 'new york')",0.46647093459159816
+"('kern', 'califonia')",0.46073381408986447
+"('polk', 'florida')",0.44695790654746825
+"('loup', 'nebraska')",0.3678155522163787
+"('stone', 'missouri')",0.3530152159319758
+"('kootenai', 'idaho')",0.43017991048167076
+"('camas', 'idaho')",0.46073381408986447
+"('canadian', 'oklahoma')",0.5612944204860763
+"('coles', 'illinois')",0.437924044085103
+"('mcclain', 'oklahoma')",0.3626147515036404
+"('aitkin', 'minnesota')",0.4302183330694722
+"('henderson', 'ky')",0.43686868686868685
+"('el paso', 'texas')",0.5292641201609015
+"('kent', 'delaware')",0.43432984669619873
+"('colleton', 'south carolina')",0.4751034710408044
+"('wharton', 'texas')",0.3901356350184957
+"('decatur', 'iowa')",0.5089069954767953
+"('newton', '')",0.4879335764724141
+"('banks', 'georgia')",0.39976120969000223
+"('bent', 'colorado')",0.5498457329141926
+"('murray', 'minnesota')",0.5650208623087621
+"('keith', 'nebraska')",0.3455745317894351
+"('woodbury', 'iowa')",0.4897959183673469
+"('berks', 'pennsylvania')",0.40720650910499806
+"('davidson', 'north carolina')",0.48435198160324816
+"('essex', 'new jersey')",0.5015619273660146
+"('lipscomb', 'texas')",0.5153374233128835
+"('roscommon', 'michigan')",0.6082485907713225
+"('winston', 'mississippi')",0.35471487401409924
+"('douglas', 'minnesota')",0.3977315512048193
+"('big horn', 'wyoming')",0.39715518619146556
+"('stanly', 'north carolina')",0.5646462391990562
+"('plumas', 'california')",0.4112355656379476
+"('billings', 'north dakota')",0.4112355656379476
+"('harper', 'kansas')",0.5113049972840847
+"('wadena', 'minnesota')",0.12588299221155588
+"('essex', 'new york')",0.5015619273660146
+"('vermillion', 'indiana')",0.5293249360362133
+"('poinsett', 'arkansas')",0.3907144266824551
+"('kiowa', 'kansas')",0.5376665360501567
+"('northampton', 'pennsylvania')",0.5252284675911224
+"('muskogee', 'oklahoma')",0.49624829467939974
+"('calumet', 'wisconsin')",0.4945806526401206
+"('gilpin', 'colorado')",0.41585121254482466
+"('woods', 'oklahoma')",0.5008138903960934
+"('audubon', 'iowa')",0.5008755034144633
+"('orleans', 'new york')",0.47787621900694754
+"('douglas', 'georgia')",0.5088021916696261
+"('carlton', 'minnesota')",0.3026536781995297
+"('chatham', 'north carolina')",0.38769368100370166
+"('person', 'north carolina')",0.48998952626490494
+"('okfuskee', 'oklahoma')",0.5184830492242866
+"('rhea', 'tennessee')",0.322171248838839
+"('lowndes', 'mississippi')",0.48725285161498905
+"('hinds', 'mississippi')",0.5431854199683043
+"('clarendon', 'south carolina')",0.4850608631501291
+"('wayne', 'missouri')",0.33660606491016265
+"('des moines', 'iowa')",0.4499944943272908
+"('paulding', 'georgia')",0.4751871887965666
+"('luzerne', 'pennsylvania')",0.48995194408038445
+"('sevier', 'arkansas')",0.5088021916696261
+"('carter', 'tennessee')",0.3530152159319758
+"('onondaga', 'new york')",0.4432986943778311
+"('chenango', 'new york')",0.679324894514768
+"('sumner', 'kansas')",0.481438729337889
+"('fayette', 'tennessee')",0.496655083201935
+"('padding', 'georgia')",0.455583408089329
+"('powder river', 'montana')",0.44008846528527423
+"('talbot', 'maryland')",0.46389089782002274
+"('caroline', 'maryland')",0.4048768710767745
+"('door', 'wisconsin')",0.40887440461268487
+"('mahnomen', 'minnesota')",0.4630796370967742
+"('dunklin', 'missouri')",0.4112355656379476
+"('cascade', 'montana')",0.28960843707698114

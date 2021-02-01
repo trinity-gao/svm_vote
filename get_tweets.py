@@ -4,8 +4,8 @@ import csv
 import argparse
 
 ##Twitter API
-CONSUMER_KEY ='P6F9glaUd7uB3kj5ElRWRXIDm'
-CONSUMER_SECRET ='lasmKKLlE0WzOXTe61u1s1PERsuKludoUIkY9W2XWkHf6xxbsW'
+CONSUMER_KEY = <YOUR_CONSUMER_KEY>
+CONSUMER_SECRET = <YOUR_CONSUMER_SECRET>
 auth=tweepy.AppAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)
 api=tweepy.API(auth,wait_on_rate_limit=True,wait_on_rate_limit_notify=True)
 

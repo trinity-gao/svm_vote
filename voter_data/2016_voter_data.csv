@@ -1,0 +1,3109 @@
+state,county,candidate,total votes,turnout rate
+alabama,autauga,Hillary Clinton,24973,N/A
+alabama,baldwin,Hillary Clinton,95215,0.4691803941085745
+alabama,barbour,Hillary Clinton,10469,0.398318304607541
+alabama,bibb,Hillary Clinton,8819,0.3908091819551538
+alabama,blount,Hillary Clinton,25588,0.44480756527483223
+alabama,bullock,Hillary Clinton,4710,0.4528846153846154
+alabama,butler,Hillary Clinton,8732,0.4330919551631783
+alabama,calhoun,Hillary Clinton,47864,0.41451818236929394
+alabama,chambers,Hillary Clinton,13900,0.4088716319567008
+alabama,cherokee,Hillary Clinton,10733,0.41710710399502565
+alabama,chilton,Hillary Clinton,18369,0.4203432494279176
+alabama,choctaw,Hillary Clinton,7292,0.5511299221525205
+alabama,clarke,Hillary Clinton,13031,0.5276135719491457
+alabama,clay,Hillary Clinton,6624,0.4937756243011554
+alabama,cleburne,Hillary Clinton,6593,0.442067855706048
+alabama,coffee,Hillary Clinton,20767,0.4074917096717226
+alabama,colbert,Hillary Clinton,24915,0.4578532443905397
+alabama,conecuh,Hillary Clinton,6585,0.5194036914339801
+alabama,coosa,Hillary Clinton,5252,0.4803365648436071
+alabama,covington,Hillary Clinton,15940,0.4244328469485568
+alabama,crenshaw,Hillary Clinton,6267,0.4524909747292419
+alabama,cullman,Hillary Clinton,37873,0.4632159587089199
+alabama,dale,Hillary Clinton,18749,0.379803504507242
+alabama,dallas,Hillary Clinton,18792,0.4590580418213797
+alabama,dekalb,Hillary Clinton,25826,0.36330130684935363
+alabama,elmore,Hillary Clinton,37260,0.46072806410129585
+alabama,escambia,Hillary Clinton,14845,0.39417434481293645
+alabama,etowah,Hillary Clinton,44164,0.4287850249519408
+alabama,fayette,Hillary Clinton,8249,0.49407043603258266
+alabama,franklin,Hillary Clinton,12040,0.38204029827066477
+alabama,geneva,Hillary Clinton,11758,0.4415155270173858
+alabama,greene,Hillary Clinton,4880,0.5735778091208275
+alabama,hale,Hillary Clinton,8040,0.5354645354645354
+alabama,henry,Hillary Clinton,8072,0.47201918016490263
+alabama,houston,Hillary Clinton,42639,0.40896796470362556
+alabama,jackson,Hillary Clinton,20984,0.4020308458664623
+alabama,jefferson,Hillary Clinton,304191,0.46057793490851007
+alabama,lamar,Hillary Clinton,6966,0.5001795074316077
+alabama,lauderdale,Hillary Clinton,39525,0.42748677792318757
+alabama,lawrence,Hillary Clinton,14829,0.44753282028067
+alabama,lee,Hillary Clinton,59191,0.3771232335588771
+alabama,limestone,Hillary Clinton,40294,0.4400589744989898
+alabama,lowndes,Hillary Clinton,6684,0.6457971014492754
+alabama,macon,Hillary Clinton,9140,0.4736733001658375
+alabama,madison,Hillary Clinton,163389,0.4628885168155432
+alabama,marengo,Hillary Clinton,10994,0.5562076292623698
+alabama,marion,Hillary Clinton,12984,0.4310900096284737
+alabama,marshall,Hillary Clinton,35316,0.3733784426706137
+alabama,mobile,Hillary Clinton,172737,0.4167740347727898
+alabama,monroe,Hillary Clinton,10271,0.4729474605148041
+alabama,montgomery,Hillary Clinton,95878,0.42185155689702963
+alabama,morgan,Hillary Clinton,50644,0.4246627032375458
+alabama,perry,Hillary Clinton,5278,0.5475103734439835
+alabama,pickens,Hillary Clinton,9542,0.4592799383904505
+alabama,pike,Hillary Clinton,13168,0.3931215667542393
+alabama,randolph,Hillary Clinton,10187,0.45087191289722933
+alabama,russell,Hillary Clinton,19256,0.3272381211338454
+alabama,st. clair,Hillary Clinton,38400,0.44369468259653827
+alabama,shelby,Hillary Clinton,101254,0.4845639575227676
+alabama,sumter,Hillary Clinton,6411,0.48546115402089957
+alabama,talladega,Hillary Clinton,33407,0.41178138250665614
+alabama,tallapoosa,Hillary Clinton,19486,0.4798916389607191
+alabama,tuscaloosa,Hillary Clinton,82700,0.4038736710505111
+alabama,walker,Hillary Clinton,29472,0.45389721396559424
+alabama,washington,Hillary Clinton,8533,0.5069510456273765
+alabama,wilcox,Hillary Clinton,6118,0.5614904552129222
+alabama,winston,Hillary Clinton,10313,0.43096531550355205
+arizona,apache,Hillary Clinton,27661,0.3895257139638371
+arizona,cochise,Hillary Clinton,50015,0.3955193192781565
+arizona,coconino,Hillary Clinton,59784,0.4302183330694722
+arizona,gila,Hillary Clinton,36697,0.6926837555211597
+arizona,graham,Hillary Clinton,20306,0.5363444268357105
+arizona,greenlee,Hillary Clinton,5192,0.5421321917093035
+arizona,la paz,Hillary Clinton,5951,0.2907749438092446
+arizona,maricopa,Hillary Clinton,1567834,0.3757176355560455
+arizona,mohave,Hillary Clinton,79943,0.39077790921622496
+arizona,navajo,Hillary Clinton,40294,0.3743473494490793
+arizona,pima,Hillary Clinton,421640,0.41783643493280664
+arizona,pinal,Hillary Clinton,129546,0.3193824670746079
+arizona,santa cruz,Hillary Clinton,16433,0.3530789394525375
+arizona,yavapai,Hillary Clinton,114450,0.518330653744254
+arizona,yuma,Hillary Clinton,53010,0.2583509596171279
+arkansas,arkansas,Hillary Clinton,6212,0.33889798145117295
+arkansas,ashley,Hillary Clinton,8083,0.38789711104712543
+arkansas,baxter,Hillary Clinton,19766,0.4804803344839321
+arkansas,benton,Hillary Clinton,96824,0.38484683474369114
+arkansas,boone,Hillary Clinton,16111,0.4340364772757887
+arkansas,bradley,Hillary Clinton,3653,0.3321211019183562
+arkansas,calhoun,Hillary Clinton,2269,0.43634615384615383
+arkansas,carroll,Hillary Clinton,10758,0.38760583678616467
+arkansas,chicot,Hillary Clinton,4176,0.38067456700091157
+arkansas,clark,Hillary Clinton,8526,0.37871452049926707
+arkansas,clay,Hillary Clinton,5200,0.3419702748914902
+arkansas,cleburne,Hillary Clinton,12085,0.47663182804180637
+arkansas,cleveland,Hillary Clinton,3354,0.4048768710767745
+arkansas,columbia,Hillary Clinton,8887,0.3685258138088327
+arkansas,conway,Hillary Clinton,7927,0.37863011081390907
+arkansas,craighead,Hillary Clinton,35573,0.34055161453995425
+arkansas,crawford,Hillary Clinton,22450,0.36265830964073403
+arkansas,crittenden,Hillary Clinton,15952,0.32542483526795735
+arkansas,cross,Hillary Clinton,6874,0.3983772819472617
+arkansas,dallas,Hillary Clinton,2771,0.3679946879150066
+arkansas,desha,Hillary Clinton,4257,0.35389475434366946
+arkansas,drew,Hillary Clinton,6595,0.3543222478912588
+arkansas,faulkner,Hillary Clinton,47527,0.3920043549624302
+arkansas,franklin,Hillary Clinton,6770,0.3814299397149135
+arkansas,fulton,Hillary Clinton,4772,0.39314549349151423
+arkansas,garland,Hillary Clinton,40805,0.41716932136503976
+arkansas,grant,Hillary Clinton,7445,0.41324378330373
+arkansas,greene,Hillary Clinton,14600,0.3295711060948081
+arkansas,hempstead,Hillary Clinton,7049,0.31917591125198097
+arkansas,hot spring,Hillary Clinton,11944,0.35656924500701553
+arkansas,howard,Hillary Clinton,4674,0.35047990401919615
+arkansas,independence,Hillary Clinton,13614,0.3675982179019846
+arkansas,izard,Hillary Clinton,5448,0.4039445391858827
+arkansas,jackson,Hillary Clinton,5156,0.2969190901238123
+arkansas,jefferson,Hillary Clinton,25894,0.3602793855743544
+arkansas,johnson,Hillary Clinton,9112,0.349199049589944
+arkansas,lafayette,Hillary Clinton,2860,0.4079885877318117
+arkansas,lawrence,Hillary Clinton,5685,0.34050071873502635
+arkansas,lee,Hillary Clinton,3026,0.3128618693134822
+arkansas,lincoln,Hillary Clinton,3826,0.27592672724650225
+arkansas,little river,Hillary Clinton,5227,0.421464279954846
+arkansas,logan,Hillary Clinton,7921,0.3645358737171522
+arkansas,lonoke,Hillary Clinton,27100,0.37976989587858573
+arkansas,madison,Hillary Clinton,6841,0.4355937599490608
+arkansas,marion,Hillary Clinton,7107,0.43829787234042555
+arkansas,miller,Hillary Clinton,16091,0.367441541834125
+arkansas,mississippi,Hillary Clinton,13204,0.3019506505980013
+arkansas,monroe,Hillary Clinton,2884,0.3870101986044015
+arkansas,montgomery,Hillary Clinton,3559,0.3942616594660463
+arkansas,nevada,Hillary Clinton,3246,0.3815232722143865
+arkansas,newton,Hillary Clinton,3753,0.4783329084884017
+arkansas,ouachita,Hillary Clinton,9935,0.4085787136042112
+arkansas,perry,Hillary Clinton,4306,0.41777432812651594
+arkansas,phillips,Hillary Clinton,6953,0.35572495651284153
+arkansas,pike,Hillary Clinton,3981,0.36735258835471074
+arkansas,poinsett,Hillary Clinton,7722,0.32172318973418884
+arkansas,polk,Hillary Clinton,8231,0.4075963157373477
+arkansas,pope,Hillary Clinton,22569,0.3548138598918375
+arkansas,prairie,Hillary Clinton,3444,0.4149897578021448
+arkansas,pulaski,Hillary Clinton,159776,0.4059597129906295
+arkansas,randolph,Hillary Clinton,6379,0.36583127831622414
+arkansas,saline,Hillary Clinton,52100,0.44763295815791737
+arkansas,scott,Hillary Clinton,3510,0.3323548906353565
+arkansas,searcy,Hillary Clinton,3728,0.4758136566687939
+arkansas,sebastian,Hillary Clinton,44637,0.35041017388232526
+arkansas,sevier,Hillary Clinton,4562,0.2642799212142278
+arkansas,sharp,Hillary Clinton,7249,0.431282722513089
+arkansas,stone,Hillary Clinton,5618,0.45357661876311967
+arkansas,union,Hillary Clinton,16894,0.42144389562440754
+arkansas,van buren,Hillary Clinton,7339,0.43663731556401714
+arkansas,washington,Hillary Clinton,81861,0.36474420096776783
+arkansas,white,Hillary Clinton,27219,0.3449154153202813
+arkansas,woodruff,Hillary Clinton,2571,0.38338801073665374
+arkansas,yell,Hillary Clinton,6439,0.29940481726029944
+california,alameda,Hillary Clinton,654266,0.4002757965859466
+california,alpine,Hillary Clinton,602,0.5589600742804085
+california,amador,Hillary Clinton,17734,0.4788960600577894
+california,butte,Hillary Clinton,95564,0.4254265884940191
+california,calaveras,Hillary Clinton,23136,0.5145335260758368
+california,colusa,Hillary Clinton,6632,0.31237341623098297
+california,contra costa,Hillary Clinton,466175,0.41459705355276794
+california,del norte,Hillary Clinton,9558,0.35152629643251193
+california,el dorado,Hillary Clinton,93591,0.5070786535116948
+california,fresno,Hillary Clinton,282319,0.2912042232601125
+california,glenn,Hillary Clinton,9470,0.34122437213994883
+california,humboldt,Hillary Clinton,59246,0.4385279270477121
+california,imperial,Hillary Clinton,48091,0.2687593957649899
+california,inyo,Hillary Clinton,8086,0.4465429644356086
+california,kern,Hillary Clinton,244163,0.2787150226418928
+california,kings,Hillary Clinton,33915,0.22597194922877037
+california,lake,Hillary Clinton,24496,0.38120136943666355
+california,lassen,Hillary Clinton,10524,0.3367033529562324
+california,los angeles,Hillary Clinton,3434308,0.3405221956139439
+california,madera,Hillary Clinton,43112,0.2807209459811429
+california,marin,Hillary Clinton,139273,0.5337848196354382
+california,mariposa,Hillary Clinton,8877,0.5037453183520599
+california,mendocino,Hillary Clinton,37477,0.43024096800486755
+california,merced,Hillary Clinton,70789,0.26577136356639497
+california,modoc,Hillary Clinton,3788,0.41828621908127206
+california,mono,Hillary Clinton,5276,0.3747957661433544
+california,monterey,Hillary Clinton,133408,0.3098533974990245
+california,napa,Hillary Clinton,61372,0.4356888302026096
+california,nevada,Hillary Clinton,54935,0.5567209858526896
+california,orange,Hillary Clinton,1197521,0.38025231163948586
+california,placer,Hillary Clinton,182839,0.49039402855372666
+california,plumas,Hillary Clinton,9676,0.5250990394529766
+california,riverside,Hillary Clinton,751391,0.3203111411977751
+california,sacramento,Hillary Clinton,559330,0.3744659142490262
+california,san benito,Hillary Clinton,21924,0.3765974989693555
+california,san bernardino,Hillary Clinton,653983,0.30915174403461076
+california,san diego,Hillary Clinton,1306400,0.3981894935763598
+california,san francisco,Hillary Clinton,405792,0.470205443737616
+california,san joaquin,Hillary Clinton,224166,0.3103627308863294
+california,san luis obispo,Hillary Clinton,135009,0.4820424383294594
+california,san mateo,Hillary Clinton,314384,0.41092993314206167
+california,santa barbara,Hillary Clinton,176786,0.39976120969000223
+california,santa clara,Hillary Clinton,703709,0.3672256475419888
+california,santa cruz,Hillary Clinton,128821,0.4710039743622556
+california,shasta,Hillary Clinton,80053,0.4489439976670368
+california,sierra,Hillary Clinton,1830,0.6130653266331658
+california,siskiyou,Hillary Clinton,20492,0.47375965228649375
+california,solano,Hillary Clinton,166113,0.38327076733524224
+california,sonoma,Hillary Clinton,231253,0.46170909011046934
+california,stanislaus,Hillary Clinton,172146,0.3228478032148624
+california,sutter,Hillary Clinton,33523,0.3518293066896161
+california,tehama,Hillary Clinton,23908,0.37854270242882926
+california,trinity,Hillary Clinton,5686,0.43424469222544676
+california,tulare,Hillary Clinton,112334,0.2457208729528547
+california,tuolumne,Hillary Clinton,25529,0.4761540613634244
+california,ventura,Hillary Clinton,351726,0.41584909943461945
+california,yolo,Hillary Clinton,82090,0.3871494126025175
+california,yuba,Hillary Clinton,22998,0.3105949085015869
+colorado,adams,Hillary Clinton,193665,0.3948776922088805
+colorado,alamosa,Hillary Clinton,6939,0.4365798414496036
+colorado,arapahoe,Hillary Clinton,303046,0.4802752526213026
+colorado,archuleta,Hillary Clinton,7339,0.5924759828852829
+colorado,baca,Hillary Clinton,2153,0.6056258790436005
+colorado,bent,Hillary Clinton,1927,0.3272202411275259
+colorado,boulder,Hillary Clinton,188142,0.5915912799856616
+colorado,broomfield,Hillary Clinton,37689,0.581028581999815
+colorado,chaffee,Hillary Clinton,11250,0.6044487427466151
+colorado,cheyenne,Hillary Clinton,1102,0.6031746031746031
+colorado,clear creek,Hillary Clinton,5866,0.6345737775854609
+colorado,conejos,Hillary Clinton,4022,0.4986980781153131
+colorado,costilla,Hillary Clinton,1848,0.5167785234899329
+colorado,crowley,Hillary Clinton,1527,0.27132196162046907
+colorado,custer,Hillary Clinton,3066,0.6914749661705006
+colorado,delta,Hillary Clinton,16790,0.5612944204860763
+colorado,denver,Hillary Clinton,331852,0.48567142553985526
+colorado,dolores,Hillary Clinton,1255,0.6335184250378597
+colorado,douglas,Hillary Clinton,187499,0.5822498253241208
+colorado,eagle,Hillary Clinton,25223,0.46826325071939107
+colorado,elbert,Hillary Clinton,15978,0.648721071863581
+colorado,el paso,Hillary Clinton,318967,0.4732441049790727
+colorado,fremont,Hillary Clinton,21973,0.4747634069400631
+colorado,garfield,Hillary Clinton,26470,0.45876806821726923
+colorado,gilpin,Hillary Clinton,3576,0.6160206718346253
+colorado,grand,Hillary Clinton,8588,0.5831862012766535
+colorado,gunnison,Hillary Clinton,9412,0.5844510680576255
+colorado,hinsdale,Hillary Clinton,589,0.7709424083769634
+colorado,huerfano,Hillary Clinton,3783,0.5907245471580262
+colorado,jackson,Hillary Clinton,861,0.6363636363636364
+colorado,jefferson,Hillary Clinton,328882,0.5822074464318591
+colorado,kiowa,Hillary Clinton,855,0.6177745664739884
+colorado,kit carson,Hillary Clinton,3702,0.4506390748630554
+colorado,lake,Hillary Clinton,3199,0.42985756517065304
+colorado,la plata,Hillary Clinton,31150,0.5696052078190429
+colorado,larimer,Hillary Clinton,195980,0.5879935074091742
+colorado,las animas,Hillary Clinton,6793,0.4837285480310475
+colorado,lincoln,Hillary Clinton,2436,0.4394732094533646
+colorado,logan,Hillary Clinton,9722,0.43262726949092206
+colorado,mesa,Hillary Clinton,77653,0.5245938186117209
+colorado,mineral,Hillary Clinton,652,0.8763440860215054
+colorado,moffat,Hillary Clinton,6525,0.5042893577556226
+colorado,montezuma,Hillary Clinton,12858,0.5
+colorado,montrose,Hillary Clinton,21186,0.5223115231004388
+colorado,morgan,Hillary Clinton,11960,0.42333286139034404
+colorado,otero,Hillary Clinton,8452,0.46485535144648554
+colorado,ouray,Hillary Clinton,3310,0.7183159722222222
+colorado,park,Hillary Clinton,10417,0.6228028219538443
+colorado,phillips,Hillary Clinton,2332,0.5389415299283569
+colorado,pitkin,Hillary Clinton,10523,0.5865663322185062
+colorado,prowers,Hillary Clinton,5016,0.4202412868632708
+colorado,pueblo,Hillary Clinton,78646,0.4824730378022895
+colorado,rio blanco,Hillary Clinton,3450,0.5325717814140166
+colorado,rio grande,Hillary Clinton,5534,0.48749119097956306
+colorado,routt,Hillary Clinton,13986,0.5741379310344827
+colorado,saguache,Hillary Clinton,2835,0.4533823764592995
+colorado,san juan,Hillary Clinton,506,0.7343976777939042
+colorado,san miguel,Hillary Clinton,4329,0.5524502297090352
+colorado,sedgwick,Hillary Clinton,1364,0.5747998314369995
+colorado,summit,Hillary Clinton,16174,0.5383258445664836
+colorado,teller,Hillary Clinton,14444,0.6175816658115273
+colorado,washington,Hillary Clinton,2733,0.5710405348934392
+colorado,weld,Hillary Clinton,135428,0.4738243433781519
+colorado,yuma,Hillary Clinton,4791,0.47733386470060774
+connecticut,fairfield,Hillary Clinton,421209,0.4457506960737314
+connecticut,hartford,Hillary Clinton,406864,0.45394236240502517
+connecticut,litchfield,Hillary Clinton,97442,0.5292251876473208
+connecticut,new haven,Hillary Clinton,379006,0.4406093565810185
+connecticut,new london,Hillary Clinton,123528,0.4581287365188625
+connecticut,tolland,Hillary Clinton,77424,0.5102613784649452
+connecticut,windham,Hillary Clinton,50823,0.43629761260913236
+delaware,kent,Hillary Clinton,74598,0.43088350815581533
+delaware,new castle,Hillary Clinton,262391,0.4740680918104819
+delaware,sussex,Hillary Clinton,106008,0.493896643619896
+florida,alachua,Hillary Clinton,128571,0.49631348146318116
+florida,baker,Hillary Clinton,12634,0.46185340888320237
+florida,bay,Hillary Clinton,87453,0.4818665696905581
+florida,bradford,Hillary Clinton,12098,0.4522954987288769
+florida,brevard,Hillary Clinton,314752,0.5563486087396111
+florida,broward,Hillary Clinton,831951,0.4413439502610024
+florida,calhoun,Hillary Clinton,6081,0.422115785089546
+florida,charlotte,Hillary Clinton,96374,0.5590722929308164
+florida,citrus,Hillary Clinton,79700,0.5681210661002088
+florida,clay,Hillary Clinton,106483,0.5261225740147832
+florida,collier,Hillary Clinton,170789,0.47968913692524173
+florida,columbia,Hillary Clinton,28707,0.420788015596142
+florida,desoto,Hillary Clinton,10818,0.3034672351885099
+florida,dixie,Hillary Clinton,7202,0.44040848773925273
+florida,duval,Hillary Clinton,432695,0.4751871887965666
+florida,escambia,Hillary Clinton,152469,0.49293106291079203
+florida,flagler,Hillary Clinton,57503,0.5506051553104293
+florida,franklin,Hillary Clinton,6015,0.5137951652857264
+florida,gadsden,Hillary Clinton,22113,0.48009118541033435
+florida,gilchrist,Hillary Clinton,8420,0.48452065830360225
+florida,glades,Hillary Clinton,4353,0.33231544392701734
+florida,gulf,Hillary Clinton,7293,0.4578441835645678
+florida,hamilton,Hillary Clinton,5460,0.38256726457399104
+florida,hardee,Hillary Clinton,7583,0.27902270302093685
+florida,hendry,Hillary Clinton,11115,0.28319914390542195
+florida,hernando,Hillary Clinton,93796,0.5272400224845418
+florida,highlands,Hillary Clinton,45686,0.4562349581073929
+florida,hillsborough,Hillary Clinton,597660,0.43814370638521544
+florida,holmes,Hillary Clinton,8514,0.4417578996523634
+florida,indian river,Hillary Clinton,80009,0.5426767231439152
+florida,jackson,Hillary Clinton,21041,0.4328622271595795
+florida,jefferson,Hillary Clinton,7645,0.5416223875309953
+florida,lafayette,Hillary Clinton,3392,0.38881247134342045
+florida,lake,Hillary Clinton,170462,0.5242500476697196
+florida,lee,Hillary Clinton,326420,0.46655156050791546
+florida,leon,Hillary Clinton,152132,0.5321086798365885
+florida,levy,Hillary Clinton,19395,0.48976035958687913
+florida,liberty,Hillary Clinton,3296,0.39196099417290997
+florida,madison,Hillary Clinton,8505,0.4602770862647473
+florida,manatee,Hillary Clinton,178958,0.4936118803579112
+florida,marion,Hillary Clinton,174700,0.5105470188379283
+florida,martin,Hillary Clinton,85792,0.5515077880418362
+florida,miami-dade,Hillary Clinton,980204,0.36852004952179435
+florida,monroe,Hillary Clinton,42478,0.5541958041958042
+florida,nassau,Hillary Clinton,46607,0.5979012456543213
+florida,okaloosa,Hillary Clinton,100855,0.5100178004328741
+florida,okeechobee,Hillary Clinton,13653,0.3425754002107693
+florida,orange,Hillary Clinton,546275,0.42304234256768947
+florida,osceola,Hillary Clinton,140206,0.4330874539748437
+florida,palm beach,Hillary Clinton,662332,0.4650371843264132
+florida,pasco,Hillary Clinton,241139,0.48725285161498905
+florida,pinellas,Hillary Clinton,492403,0.519927987667096
+florida,polk,Hillary Clinton,284314,0.43840233885305535
+florida,putnam,Hillary Clinton,33117,0.4603483506859979
+florida,st. johns,Hillary Clinton,136514,0.603078255184174
+florida,st. lucie,Hillary Clinton,140847,0.4737824691706864
+florida,santa rosa,Hillary Clinton,87745,0.5278656768495903
+florida,sarasota,Hillary Clinton,229063,0.5659216179424401
+florida,seminole,Hillary Clinton,224896,0.5016439223943718
+florida,sumter,Hillary Clinton,76665,0.6548310499162937
+florida,suwannee,Hillary Clinton,18694,0.42800558646427184
+florida,taylor,Hillary Clinton,9290,0.41556698725117425
+florida,union,Hillary Clinton,5694,0.37301015394693743
+florida,volusia,Hillary Clinton,260869,0.5048458576045517
+florida,wakulla,Hillary Clinton,15351,0.4869777622688196
+florida,walton,Hillary Clinton,33637,0.5333618748612564
+florida,washington,Hillary Clinton,11156,0.4543825350276963
+georgia,appling,Hillary Clinton,7012,0.3806111925310753
+georgia,atkinson,Hillary Clinton,2610,0.3129496402877698
+georgia,bacon,Hillary Clinton,4020,0.35793785059211114
+georgia,baker,Hillary Clinton,1440,0.45084533500313084
+georgia,baldwin,Hillary Clinton,16116,0.3538167687545281
+georgia,banks,Hillary Clinton,6975,0.3794679288395626
+georgia,barrow,Hillary Clinton,29060,0.38757518771922805
+georgia,bartow,Hillary Clinton,39550,0.3875817057514969
+georgia,ben hill,Hillary Clinton,5936,0.3419945843175664
+georgia,berrien,Hillary Clinton,6590,0.34700647675214574
+georgia,bibb,Hillary Clinton,62596,0.4066127513072851
+georgia,bleckley,Hillary Clinton,4974,0.39122227465785747
+georgia,brantley,Hillary Clinton,6301,0.3417584205673374
+georgia,brooks,Hillary Clinton,6336,0.40433950223356735
+georgia,bryan,Hillary Clinton,15173,0.4361060013796275
+georgia,bulloch,Hillary Clinton,25316,0.34624432408775097
+georgia,burke,Hillary Clinton,9351,0.4131760339342524
+georgia,butts,Hillary Clinton,9514,0.4045068027210884
+georgia,calhoun,Hillary Clinton,2025,0.30991735537190085
+georgia,camden,Hillary Clinton,18901,0.3604378420641126
+georgia,candler,Hillary Clinton,3763,0.3460866366228272
+georgia,carroll,Hillary Clinton,44121,0.3854675391618106
+georgia,catoosa,Hillary Clinton,26757,0.4067773419684393
+georgia,charlton,Hillary Clinton,4016,0.30334617418234006
+georgia,chatham,Hillary Clinton,112142,0.39216111400585396
+georgia,chattahoochee,Hillary Clinton,1390,0.12588299221155588
+georgia,chattooga,Hillary Clinton,8252,0.33133908853643845
+georgia,cherokee,Hillary Clinton,112043,0.47611216637133547
+georgia,clarke,Hillary Clinton,44976,0.3639983489936145
+georgia,clay,Hillary Clinton,1273,0.41371465713357164
+georgia,clayton,Hillary Clinton,92859,0.34049207978879437
+georgia,clinch,Hillary Clinton,2455,0.359654263111632
+georgia,cobb,Hillary Clinton,330819,0.44762614809242113
+georgia,coffee,Hillary Clinton,13915,0.32370251471375067
+georgia,colquitt,Hillary Clinton,13624,0.29965248757313157
+georgia,columbia,Hillary Clinton,64743,0.4501136703351711
+georgia,cook,Hillary Clinton,6057,0.35483304042179264
+georgia,coweta,Hillary Clinton,61745,0.44695790654746825
+georgia,crawford,Hillary Clinton,5176,0.41897361178565645
+georgia,crisp,Hillary Clinton,7512,0.32719195086894026
+georgia,dade,Hillary Clinton,6242,0.3862145774037867
+georgia,dawson,Hillary Clinton,11765,0.503444734477299
+georgia,decatur,Hillary Clinton,10286,0.3802728381825576
+georgia,dekalb,Hillary Clinton,314757,0.42857084503168424
+georgia,dodge,Hillary Clinton,7009,0.3315201967647337
+georgia,dooly,Hillary Clinton,3859,0.27497506056719395
+georgia,dougherty,Hillary Clinton,34087,0.3724825981008163
+georgia,douglas,Hillary Clinton,57738,0.41190528846496827
+georgia,early,Hillary Clinton,4785,0.45736952781494933
+georgia,echols,Hillary Clinton,1182,0.29330024813895783
+georgia,effingham,Hillary Clinton,23458,0.4109958651622398
+georgia,elbert,Hillary Clinton,7987,0.41379131696197285
+georgia,emanuel,Hillary Clinton,7860,0.3497841662587335
+georgia,evans,Hillary Clinton,3613,0.33797942001870906
+georgia,fannin,Hillary Clinton,11812,0.48326650846902874
+georgia,fayette,Hillary Clinton,60913,0.5530456414959007
+georgia,floyd,Hillary Clinton,34608,0.3598028819162872
+georgia,forsyth,Hillary Clinton,98221,0.46495147928994085
+georgia,franklin,Hillary Clinton,8502,0.38182063142767325
+georgia,fulton,Hillary Clinton,431391,0.4291905401009027
+georgia,gilmer,Hillary Clinton,12773,0.4327776648370265
+georgia,glascock,Hillary Clinton,1390,0.4602649006622517
+georgia,glynn,Hillary Clinton,34263,0.4112662193467849
+georgia,gordon,Hillary Clinton,18959,0.33660606491016265
+georgia,grady,Hillary Clinton,9213,0.3672127227071625
+georgia,greene,Hillary Clinton,8852,0.532707468255401
+georgia,gwinnett,Hillary Clinton,328331,0.3695365416086096
+georgia,habersham,Hillary Clinton,16243,0.3709124954329558
+georgia,hall,Hillary Clinton,70694,0.36772867954953314
+georgia,hancock,Hillary Clinton,3580,0.41734670086267195
+georgia,haralson,Hillary Clinton,11357,0.39568671172740577
+georgia,harris,Hillary Clinton,16502,0.49772281707133165
+georgia,hart,Hillary Clinton,10117,0.39815033451397086
+georgia,heard,Hillary Clinton,4223,0.36543786777431636
+georgia,henry,Hillary Clinton,98766,0.4563752807119687
+georgia,houston,Hillary Clinton,60079,0.40234257281195795
+georgia,irwin,Hillary Clinton,3670,0.4017515051997811
+georgia,jackson,Hillary Clinton,27190,0.42874262827588383
+georgia,jasper,Hillary Clinton,6045,0.441789081341811
+georgia,jeff davis,Hillary Clinton,5096,0.3394391527342969
+georgia,jefferson,Hillary Clinton,6968,0.4377709367343092
+georgia,jenkins,Hillary Clinton,3056,0.3434093718395325
+georgia,johnson,Hillary Clinton,3686,0.3796868562010713
+georgia,jones,Hillary Clinton,12551,0.4412995323652473
+georgia,lamar,Hillary Clinton,7612,0.41741610002193463
+georgia,lanier,Hillary Clinton,2871,0.27957931638913236
+georgia,laurens,Hillary Clinton,19530,0.41127911384408034
+georgia,lee,Hillary Clinton,14143,0.4847975868097213
+georgia,liberty,Hillary Clinton,16143,0.26201489993669963
+georgia,lincoln,Hillary Clinton,4102,0.5312095312095312
+georgia,long,Hillary Clinton,4117,0.23315211235700534
+georgia,lowndes,Hillary Clinton,37805,0.3335480227982566
+georgia,lumpkin,Hillary Clinton,12425,0.39715518619146556
+georgia,mcduffie,Hillary Clinton,9268,0.4318330071754729
+georgia,mcintosh,Hillary Clinton,5903,0.42071128216092935
+georgia,macon,Hillary Clinton,4287,0.31319403857393335
+georgia,madison,Hillary Clinton,11998,0.42218234279883177
+georgia,marion,Hillary Clinton,3190,0.37275064267352187
+georgia,meriwether,Hillary Clinton,9217,0.4353185660983328
+georgia,miller,Hillary Clinton,2544,0.43502051983584133
+georgia,mitchell,Hillary Clinton,7880,0.3510178627110339
+georgia,monroe,Hillary Clinton,12687,0.475026209375468
+georgia,montgomery,Hillary Clinton,3576,0.3999105345560277
+georgia,morgan,Hillary Clinton,9475,0.5279139737018053
+georgia,murray,Hillary Clinton,12458,0.31595232056809536
+georgia,muscogee,Hillary Clinton,69032,0.34741472154281283
+georgia,newton,Hillary Clinton,43987,0.41938713245108883
+georgia,oconee,Hillary Clinton,20149,0.5619892338158592
+georgia,oglethorpe,Hillary Clinton,6674,0.4530274232962259
+georgia,paulding,Hillary Clinton,64890,0.42789599667653594
+georgia,peach,Hillary Clinton,10752,0.3986651835372636
+georgia,pickens,Hillary Clinton,14038,0.4658216087071941
+georgia,pierce,Hillary Clinton,7311,0.38289515030899757
+georgia,pike,Hillary Clinton,8725,0.48675034867503486
+georgia,polk,Hillary Clinton,14215,0.34496566117407235
+georgia,pulaski,Hillary Clinton,3605,0.3163668275559456
+georgia,putnam,Hillary Clinton,9488,0.44529966677617683
+georgia,quitman,Hillary Clinton,1044,0.4589010989010989
+georgia,rabun,Hillary Clinton,7992,0.4926339148123035
+georgia,randolph,Hillary Clinton,2899,0.40545454545454546
+georgia,richmond,Hillary Clinton,75515,0.37485542389960835
+georgia,rockdale,Hillary Clinton,37869,0.4286053828915499
+georgia,schley,Hillary Clinton,1909,0.3664810904204262
+georgia,screven,Hillary Clinton,5715,0.40650117362543564
+georgia,seminole,Hillary Clinton,3588,0.41891418563922944
+georgia,spalding,Hillary Clinton,25704,0.40277037826318596
+georgia,stephens,Hillary Clinton,9815,0.3857187770179989
+georgia,stewart,Hillary Clinton,2058,0.34455047714716225
+georgia,sumter,Hillary Clinton,10974,0.3575058639562158
+georgia,talbot,Hillary Clinton,3246,0.4995383194829178
+georgia,taliaferro,Hillary Clinton,897,0.546285018270402
+georgia,tattnall,Hillary Clinton,6903,0.27191082049868043
+georgia,taylor,Hillary Clinton,3408,0.4134417081159772
+georgia,telfair,Hillary Clinton,3796,0.23074585131602943
+georgia,terrell,Hillary Clinton,4189,0.46477310551425716
+georgia,thomas,Hillary Clinton,18802,0.4197249754442361
+georgia,tift,Hillary Clinton,14219,0.35077462009078353
+georgia,toombs,Hillary Clinton,9138,0.33657458563535914
+georgia,towns,Hillary Clinton,6764,0.6032821976453799
+georgia,treutlen,Hillary Clinton,2703,0.3973247096869028
+georgia,troup,Hillary Clinton,26111,0.37518499892233637
+georgia,turner,Hillary Clinton,3398,0.4257078426459534
+georgia,twiggs,Hillary Clinton,4059,0.48628249670540313
+georgia,union,Hillary Clinton,12063,0.5481437724360431
+georgia,upson,Hillary Clinton,10934,0.4168350425069574
+georgia,walker,Hillary Clinton,23956,0.34953382844303077
+georgia,walton,Hillary Clinton,40698,0.46073381408986447
+georgia,ware,Hillary Clinton,12184,0.34489200894499955
+georgia,warren,Hillary Clinton,2334,0.4343133606252326
+georgia,washington,Hillary Clinton,8461,0.40803433641975306
+georgia,wayne,Hillary Clinton,10413,0.35382262996941893
+georgia,webster,Hillary Clinton,1116,0.4241733181299886
+georgia,wheeler,Hillary Clinton,2102,0.26570597901655924
+georgia,white,Hillary Clinton,11823,0.4164934653186318
+georgia,whitfield,Hillary Clinton,30658,0.295729678110139
+georgia,wilcox,Hillary Clinton,2976,0.32978723404255317
+georgia,wilkes,Hillary Clinton,4486,0.4526283926949854
+georgia,wilkinson,Hillary Clinton,4287,0.472136563876652
+georgia,worth,Hillary Clinton,8295,0.4009570765661253
+hawaii,hawaii,Hillary Clinton,64867,0.33099630054853935
+hawaii,honolulu,Hillary Clinton,285790,0.28836684613708097
+hawaii,kauai,Hillary Clinton,26335,0.3708058179974937
+hawaii,maui,Hillary Clinton,51945,0.3169233209683717
+idaho,ada,Hillary Clinton,195669,0.4520355217136177
+idaho,adams,Hillary Clinton,2183,0.5610382934978154
+idaho,bannock,Hillary Clinton,33416,0.39694003611137507
+idaho,bear lake,Hillary Clinton,2928,0.49804388501445823
+idaho,benewah,Hillary Clinton,4185,0.4652067585593597
+idaho,bingham,Hillary Clinton,16625,0.36897707348469716
+idaho,blaine,Hillary Clinton,10724,0.4956553891662045
+idaho,boise,Hillary Clinton,3814,0.5477524055723108
+idaho,bonner,Hillary Clinton,20943,0.5034375
+idaho,bonneville,Hillary Clinton,44221,0.40256169833134575
+idaho,boundary,Hillary Clinton,5163,0.4569430923090539
+idaho,butte,Hillary Clinton,1230,0.4793452844894778
+idaho,camas,Hillary Clinton,590,0.5514018691588785
+idaho,canyon,Hillary Clinton,72785,0.35188694752516414
+idaho,caribou,Hillary Clinton,3035,0.450764889350958
+idaho,cassia,Hillary Clinton,8178,0.3480148091408145
+idaho,clark,Hillary Clinton,283,0.3194130925507901
+idaho,clearwater,Hillary Clinton,3801,0.44435351882160395
+idaho,custer,Hillary Clinton,2414,0.5947277654594728
+idaho,elmore,Hillary Clinton,8522,0.329977542011926
+idaho,franklin,Hillary Clinton,5499,0.42446931686607486
+idaho,fremont,Hillary Clinton,5715,0.446066187948798
+idaho,gem,Hillary Clinton,7954,0.47671561282589153
+idaho,gooding,Hillary Clinton,5191,0.34178298656834344
+idaho,jefferson,Hillary Clinton,11475,0.42301028495594795
+idaho,jerome,Hillary Clinton,6751,0.2938922989856776
+idaho,kootenai,Hillary Clinton,66310,0.44394009386276756
+idaho,latah,Hillary Clinton,18173,0.46842457985359315
+idaho,lemhi,Hillary Clinton,4096,0.5294041618198269
+idaho,lewis,Hillary Clinton,1590,0.4194144025323134
+idaho,lincoln,Hillary Clinton,1748,0.32937629545882796
+idaho,madison,Hillary Clinton,15688,0.4129616467924926
+idaho,minidoka,Hillary Clinton,6871,0.3363191385217817
+idaho,nez perce,Hillary Clinton,17201,0.4300787598449806
+idaho,oneida,Hillary Clinton,2068,0.4868173258003766
+idaho,owyhee,Hillary Clinton,3925,0.3477143869596031
+idaho,payette,Hillary Clinton,8704,0.3819218955682317
+idaho,power,Hillary Clinton,2758,0.35878756341875895
+idaho,shoshone,Hillary Clinton,5120,0.4115755627009646
+idaho,teton,Hillary Clinton,4976,0.46396270396270395
+idaho,twin falls,Hillary Clinton,29874,0.36323180740470545
+idaho,valley,Hillary Clinton,5349,0.5326097779547944
+idaho,washington,Hillary Clinton,4455,0.45040946314831665
+illinois,adams,Hillary Clinton,31951,0.47805790379292284
+illinois,alexander,Hillary Clinton,2846,0.4208813960366755
+illinois,bond,Hillary Clinton,7530,0.4512765192376843
+illinois,boone,Hillary Clinton,23001,0.4292913268258086
+illinois,brown,Hillary Clinton,2379,0.3522878720568636
+illinois,bureau,Hillary Clinton,16571,0.49478964497924816
+illinois,calhoun,Hillary Clinton,2571,0.5290123456790123
+illinois,carroll,Hillary Clinton,7445,0.5084687884168829
+illinois,cass,Hillary Clinton,5124,0.39897220275636536
+illinois,champaign,Hillary Clinton,91628,0.4376116380586679
+illinois,christian,Hillary Clinton,15459,0.46197292532050327
+illinois,clark,Hillary Clinton,7928,0.4996218805142425
+illinois,clay,Hillary Clinton,6350,0.4738452354301918
+illinois,clinton,Hillary Clinton,17419,0.46247179078720296
+illinois,coles,Hillary Clinton,21863,0.4189999808352019
+illinois,cook,Hillary Clinton,2158615,0.41162829456713923
+illinois,crawford,Hillary Clinton,8728,0.45328486107504545
+illinois,cumberland,Hillary Clinton,5567,0.5126151012891345
+illinois,dekalb,Hillary Clinton,43600,0.4184461826383224
+illinois,douglas,Hillary Clinton,8169,0.4118477438870683
+illinois,dupage,Hillary Clinton,428769,0.45925971150663714
+illinois,edgar,Hillary Clinton,7873,0.44725330909504063
+illinois,edwards,Hillary Clinton,3347,0.5140531408385809
+illinois,effingham,Hillary Clinton,17609,0.5148529325770422
+illinois,fayette,Hillary Clinton,9585,0.43497004901070974
+illinois,ford,Hillary Clinton,6396,0.4727622145021805
+illinois,franklin,Hillary Clinton,18711,0.4751034710408044
+illinois,fulton,Hillary Clinton,15797,0.4423319239492622
+illinois,gallatin,Hillary Clinton,2707,0.5184830492242866
+illinois,greene,Hillary Clinton,5585,0.41850880479580366
+illinois,grundy,Hillary Clinton,23237,0.4613903063757123
+illinois,hamilton,Hillary Clinton,4166,0.5050921435499515
+illinois,hancock,Hillary Clinton,9121,0.5007136583223539
+illinois,hardin,Hillary Clinton,2148,0.5281534300467174
+illinois,henderson,Hillary Clinton,3518,0.5027869086751465
+illinois,henry,Hillary Clinton,24643,0.4964543293444538
+illinois,iroquois,Hillary Clinton,13064,0.4580323960451581
+illinois,jackson,Hillary Clinton,24617,0.41572938832032963
+illinois,jasper,Hillary Clinton,5136,0.5333333333333333
+illinois,jefferson,Hillary Clinton,16999,0.4441628344481605
+illinois,jersey,Hillary Clinton,10991,0.49375561545372865
+illinois,johnson,Hillary Clinton,6089,0.47655944274868905
+illinois,kane,Hillary Clinton,199314,0.37694606248581586
+illinois,kankakee,Hillary Clinton,47305,0.42331096196868007
+illinois,kendall,Hillary Clinton,53447,0.43495987890427906
+illinois,knox,Hillary Clinton,22243,0.4329959120109013
+illinois,lake,Hillary Clinton,303520,0.4307625058365538
+illinois,lasalle,Hillary Clinton,49743,0.44805844044713067
+illinois,lawrence,Hillary Clinton,6094,0.37011843303978137
+illinois,lee,Hillary Clinton,15489,0.4486834100982011
+illinois,livingston,Hillary Clinton,15269,0.41712880753995357
+illinois,logan,Hillary Clinton,12401,0.42347356918453766
+illinois,mcdonough,Hillary Clinton,13092,0.4162930458838119
+illinois,mchenry,Hillary Clinton,141750,0.4608676992704147
+illinois,mclean,Hillary Clinton,79835,0.46109818009599113
+illinois,macon,Hillary Clinton,48060,0.4477236522176574
+illinois,macoupin,Hillary Clinton,22360,0.48740081960066267
+illinois,madison,Hillary Clinton,130179,0.4894020962721244
+illinois,marion,Hillary Clinton,17074,0.4451106650329779
+illinois,marshall,Hillary Clinton,5984,0.5018029350104822
+illinois,mason,Hillary Clinton,6486,0.4678640986799394
+illinois,massac,Hillary Clinton,6683,0.4587766870323334
+illinois,menard,Hillary Clinton,6515,0.5272741987698284
+illinois,mercer,Hillary Clinton,8525,0.5414073415470596
+illinois,monroe,Hillary Clinton,19354,0.5736388156139779
+illinois,montgomery,Hillary Clinton,12978,0.4445738558509181
+illinois,morgan,Hillary Clinton,14800,0.42684509560753325
+illinois,moultrie,Hillary Clinton,6283,0.42616835108186935
+illinois,ogle,Hillary Clinton,24193,0.46922942648228244
+illinois,peoria,Hillary Clinton,78503,0.4209705010161893
+illinois,perry,Hillary Clinton,9853,0.4578318851354491
+illinois,piatt,Hillary Clinton,9008,0.5509480122324159
+illinois,pike,Hillary Clinton,7530,0.47673314339981004
+illinois,pope,Hillary Clinton,2142,0.499184339314845
+illinois,pulaski,Hillary Clinton,2735,0.4834718048435567
+illinois,putnam,Hillary Clinton,3111,0.5432163436354112
+illinois,randolph,Hillary Clinton,14194,0.4326647564469914
+illinois,richland,Hillary Clinton,7684,0.4815441499028639
+illinois,rock island,Hillary Clinton,63994,0.43803304721617586
+illinois,st. clair,Hillary Clinton,120580,0.45526282007717345
+illinois,saline,Hillary Clinton,11384,0.4647479077362727
+illinois,sangamon,Hillary Clinton,98373,0.49459019195768683
+illinois,schuyler,Hillary Clinton,3828,0.535309746888547
+illinois,scott,Hillary Clinton,2608,0.510371819960861
+illinois,shelby,Hillary Clinton,11010,0.5046060772721023
+illinois,stark,Hillary Clinton,2743,0.49827429609445956
+illinois,stephenson,Hillary Clinton,20343,0.4454541473241657
+illinois,tazewell,Hillary Clinton,64400,0.47951631397894295
+illinois,union,Hillary Clinton,8537,0.49392501735709327
+illinois,vermilion,Hillary Clinton,30570,0.3861311102690413
+illinois,wabash,Hillary Clinton,5464,0.4700619408121129
+illinois,warren,Hillary Clinton,7807,0.4472643941564022
+illinois,washington,Hillary Clinton,7427,0.520754452390969
+illinois,wayne,Hillary Clinton,8261,0.5001513592056669
+illinois,white,Hillary Clinton,7335,0.5164038299070685
+illinois,whiteside,Hillary Clinton,25582,0.44944570354363217
+illinois,will,Hillary Clinton,300904,0.43871423010248195
+illinois,williamson,Hillary Clinton,31852,0.4723853591979593
+illinois,winnebago,Hillary Clinton,118376,0.4122473428336607
+illinois,woodford,Hillary Clinton,19864,0.5102491651682507
+indiana,adams,Hillary Clinton,13090,0.37458863929031333
+indiana,allen,Hillary Clinton,147137,0.400523189660335
+indiana,bartholomew,Hillary Clinton,32490,0.39885585209555846
+indiana,benton,Hillary Clinton,3666,0.42171862418037503
+indiana,blackford,Hillary Clinton,4839,0.3952785492566574
+indiana,boone,Hillary Clinton,32178,0.5104945028794441
+indiana,brown,Hillary Clinton,7945,0.5298786181139122
+indiana,carroll,Hillary Clinton,8643,0.4346055211947503
+indiana,cass,Hillary Clinton,14209,0.3731257057325175
+indiana,clark,Hillary Clinton,51147,0.44545763331852745
+indiana,clay,Hillary Clinton,11282,0.42742943739344574
+indiana,clinton,Hillary Clinton,11936,0.36870231365644207
+indiana,crawford,Hillary Clinton,4593,0.4351492183799147
+indiana,daviess,Hillary Clinton,10768,0.32806263900313803
+indiana,dearborn,Hillary Clinton,23987,0.48502679203316146
+indiana,decatur,Hillary Clinton,11127,0.4224533961046357
+indiana,dekalb,Hillary Clinton,16902,0.3977315512048193
+indiana,delaware,Hillary Clinton,45123,0.3897742880095364
+indiana,dubois,Hillary Clinton,19984,0.47224519696575845
+indiana,elkhart,Hillary Clinton,65630,0.3233084558732974
+indiana,fayette,Hillary Clinton,9530,0.4074739182486745
+indiana,floyd,Hillary Clinton,37425,0.4891837134827789
+indiana,fountain,Hillary Clinton,7492,0.45304468767007317
+indiana,franklin,Hillary Clinton,11013,0.4800784655623365
+indiana,fulton,Hillary Clinton,8374,0.41170108161258606
+indiana,gibson,Hillary Clinton,15484,0.460230650338842
+indiana,grant,Hillary Clinton,25312,0.3751092932616073
+indiana,greene,Hillary Clinton,13801,0.4257465449160908
+indiana,hamilton,Hillary Clinton,154256,0.5001361744069929
+indiana,hancock,Hillary Clinton,36181,0.4996478532860122
+indiana,harrison,Hillary Clinton,18558,0.4694424769806739
+indiana,hendricks,Hillary Clinton,75559,0.4789004664841294
+indiana,henry,Hillary Clinton,20155,0.41424314047888194
+indiana,howard,Hillary Clinton,36843,0.44746046782773446
+indiana,huntington,Hillary Clinton,16043,0.4393175968015773
+indiana,jackson,Hillary Clinton,17573,0.40052421652421655
+indiana,jasper,Hillary Clinton,13378,0.3996057112133341
+indiana,jay,Hillary Clinton,7986,0.3778208828121304
+indiana,jefferson,Hillary Clinton,13544,0.4193578350930427
+indiana,jennings,Hillary Clinton,11150,0.40058920744413307
+indiana,johnson,Hillary Clinton,66500,0.44642257757011855
+indiana,knox,Hillary Clinton,15516,0.41091101694915255
+indiana,kosciusko,Hillary Clinton,32084,0.4084688148497078
+indiana,lagrange,Hillary Clinton,9566,0.24772115185415372
+indiana,lake,Hillary Clinton,201205,0.412383072218533
+indiana,laporte,Hillary Clinton,45203,0.40784048360175035
+indiana,lawrence,Hillary Clinton,19152,0.4202949438202247
+indiana,madison,Hillary Clinton,53909,0.41664605682134354
+indiana,marion,Hillary Clinton,362372,0.3855665254728715
+indiana,marshall,Hillary Clinton,18082,0.3869214473712366
+indiana,martin,Hillary Clinton,4809,0.4707321848081441
+indiana,miami,Hillary Clinton,13482,0.374458393511832
+indiana,monroe,Hillary Clinton,58454,0.40523546416909884
+indiana,montgomery,Hillary Clinton,15156,0.3963078210391444
+indiana,morgan,Hillary Clinton,31280,0.4496901910608261
+indiana,newton,Hillary Clinton,5795,0.41478777467611483
+indiana,noble,Hillary Clinton,16890,0.35546669472798065
+indiana,ohio,Hillary Clinton,2921,0.49702229028415856
+indiana,orange,Hillary Clinton,8192,0.41723540796577363
+indiana,owen,Hillary Clinton,8557,0.41088062998175356
+indiana,parke,Hillary Clinton,6582,0.38786093105480257
+indiana,perry,Hillary Clinton,8055,0.4171413775245987
+indiana,pike,Hillary Clinton,5977,0.48174417667445796
+indiana,porter,Hillary Clinton,77190,0.46129298289648246
+indiana,posey,Hillary Clinton,12467,0.4867450122984422
+indiana,pulaski,Hillary Clinton,5459,0.42635114026866605
+indiana,putnam,Hillary Clinton,14715,0.393638649617463
+indiana,randolph,Hillary Clinton,10458,0.41602355000397806
+indiana,ripley,Hillary Clinton,12810,0.4515014803327224
+indiana,rush,Hillary Clinton,7214,0.4317692123533637
+indiana,st. joseph,Hillary Clinton,110060,0.41011920510059213
+indiana,scott,Hillary Clinton,9101,0.38465765004226543
+indiana,shelby,Hillary Clinton,17994,0.4058095216616675
+indiana,spencer,Hillary Clinton,9979,0.48347868217054263
+indiana,starke,Hillary Clinton,9226,0.4035870516185477
+indiana,steuben,Hillary Clinton,14566,0.4225826104615742
+indiana,sullivan,Hillary Clinton,8559,0.4100316182811153
+indiana,switzerland,Hillary Clinton,3699,0.34850197851893727
+indiana,tippecanoe,Hillary Clinton,62515,0.33480074763151835
+indiana,tipton,Hillary Clinton,7510,0.49249131090563314
+indiana,union,Hillary Clinton,3291,0.4580375782881002
+indiana,vanderburgh,Hillary Clinton,72507,0.3994787993653032
+indiana,vermillion,Hillary Clinton,6939,0.44500737510421345
+indiana,vigo,Hillary Clinton,39818,0.3702863307077827
+indiana,wabash,Hillary Clinton,13468,0.4227244193345888
+indiana,warren,Hillary Clinton,3930,0.4752116082224909
+indiana,warrick,Hillary Clinton,29589,0.48094990409934657
+indiana,washington,Hillary Clinton,11382,0.40980773385180386
+indiana,wayne,Hillary Clinton,25579,0.3819357343367377
+indiana,wells,Hillary Clinton,13185,0.4734120857419841
+indiana,white,Hillary Clinton,10053,0.4141468237620499
+indiana,whitley,Hillary Clinton,15623,0.46713909819399596
+iowa,adair,Hillary Clinton,3811,0.5333799860041988
+iowa,adams,Hillary Clinton,2106,0.5610015982951518
+iowa,allamakee,Hillary Clinton,6923,0.4989909182643794
+iowa,appanoose,Hillary Clinton,6136,0.4878746918979089
+iowa,audubon,Hillary Clinton,3412,0.5974435300297671
+iowa,benton,Hillary Clinton,13844,0.5406123086535458
+iowa,black hawk,Hillary Clinton,64405,0.48170918691707615
+iowa,boone,Hillary Clinton,14196,0.5368528533071134
+iowa,bremer,Hillary Clinton,13538,0.5470783156873839
+iowa,buchanan,Hillary Clinton,10252,0.4857616678512201
+iowa,buena vista,Hillary Clinton,8278,0.4063021497987631
+iowa,butler,Hillary Clinton,7513,0.5048719844096499
+iowa,calhoun,Hillary Clinton,5159,0.5263748597081931
+iowa,carroll,Hillary Clinton,10544,0.516280663957303
+iowa,cass,Hillary Clinton,7125,0.5336678900456895
+iowa,cedar,Hillary Clinton,9541,0.5226799605565904
+iowa,cerro gordo,Hillary Clinton,22965,0.5342809948119024
+iowa,cherokee,Hillary Clinton,6258,0.5449795349647305
+iowa,chickasaw,Hillary Clinton,6435,0.5295860423010452
+iowa,clarke,Hillary Clinton,4454,0.4831326608091984
+iowa,clay,Hillary Clinton,8617,0.5223057340283671
+iowa,clayton,Hillary Clinton,9129,0.5150062055737334
+iowa,clinton,Hillary Clinton,23067,0.4850288069304849
+iowa,crawford,Hillary Clinton,6935,0.405982905982906
+iowa,dallas,Hillary Clinton,38252,0.47440810606342476
+iowa,davis,Hillary Clinton,3882,0.44229235501879915
+iowa,decatur,Hillary Clinton,3734,0.45889148334767116
+iowa,delaware,Hillary Clinton,9241,0.5313056976944748
+iowa,des moines,Hillary Clinton,19103,0.4790841149621307
+iowa,dickinson,Hillary Clinton,10354,0.6089155492825218
+iowa,dubuque,Hillary Clinton,49721,0.513381517811048
+iowa,emmet,Hillary Clinton,4753,0.4898989898989899
+iowa,fayette,Hillary Clinton,9975,0.49523383973786117
+iowa,floyd,Hillary Clinton,8060,0.5065996228786926
+iowa,franklin,Hillary Clinton,4968,0.4814420001938172
+iowa,fremont,Hillary Clinton,3595,0.5201099537037037
+iowa,greene,Hillary Clinton,4821,0.539020572450805
+iowa,grundy,Hillary Clinton,6872,0.5539701733172108
+iowa,guthrie,Hillary Clinton,5750,0.5399568034557235
+iowa,hamilton,Hillary Clinton,7694,0.5055854908660796
+iowa,hancock,Hillary Clinton,5871,0.5323721436343852
+iowa,hardin,Hillary Clinton,8533,0.4945806526401206
+iowa,harrison,Hillary Clinton,7465,0.527972275266992
+iowa,henry,Hillary Clinton,9404,0.4739202741520939
+iowa,howard,Hillary Clinton,4559,0.48953076344894236
+iowa,humboldt,Hillary Clinton,5087,0.5323357053160318
+iowa,ida,Hillary Clinton,3612,0.518369690011481
+iowa,iowa,Hillary Clinton,8904,0.5468615649183147
+iowa,jackson,Hillary Clinton,10310,0.5323763296499019
+iowa,jasper,Hillary Clinton,19034,0.5179319727891156
+iowa,jefferson,Hillary Clinton,8156,0.4554897799620239
+iowa,johnson,Hillary Clinton,76940,0.5308293605072338
+iowa,jones,Hillary Clinton,10133,0.49591347330299024
+iowa,keokuk,Hillary Clinton,4985,0.49011896568675645
+iowa,kossuth,Hillary Clinton,8607,0.5678189734793508
+iowa,lee,Hillary Clinton,16151,0.4628589442310999
+iowa,linn,Hillary Clinton,117098,0.5316087909892814
+iowa,louisa,Hillary Clinton,5008,0.4437749224634471
+iowa,lucas,Hillary Clinton,4354,0.5056910569105691
+iowa,lyon,Hillary Clinton,6377,0.5428620073210181
+iowa,madison,Hillary Clinton,8636,0.5493638676844784
+iowa,mahaska,Hillary Clinton,10632,0.47651487988526353
+iowa,marion,Hillary Clinton,17816,0.5381014225739225
+iowa,marshall,Hillary Clinton,17980,0.44557890563045205
+iowa,mills,Hillary Clinton,7698,0.5172691842494288
+iowa,mitchell,Hillary Clinton,5417,0.5073997751967029
+iowa,monona,Hillary Clinton,4572,0.5156778705165802
+iowa,monroe,Hillary Clinton,3865,0.48775870772337204
+iowa,montgomery,Hillary Clinton,5044,0.49699477781062174
+iowa,muscatine,Hillary Clinton,19434,0.4512398996935079
+iowa,o'brien,Hillary Clinton,7406,0.5318110010053138
+iowa,osceola,Hillary Clinton,3213,0.5215909090909091
+iowa,page,Hillary Clinton,7044,0.4555684904928211
+iowa,palo alto,Hillary Clinton,4703,0.5145514223194748
+iowa,plymouth,Hillary Clinton,13190,0.5297401502068356
+iowa,pocahontas,Hillary Clinton,3865,0.5547581455432754
+iowa,polk,Hillary Clinton,231555,0.4955125571362539
+iowa,pottawattamie,Hillary Clinton,42680,0.45616322691662303
+iowa,poweshiek,Hillary Clinton,9833,0.5356247957293823
+iowa,ringgold,Hillary Clinton,2707,0.5439019489652401
+iowa,sac,Hillary Clinton,5212,0.5229781256271322
+iowa,scott,Hillary Clinton,86220,0.5015619273660146
+iowa,shelby,Hillary Clinton,6370,0.540334209856646
+iowa,sioux,Hillary Clinton,18194,0.5235080854002417
+iowa,story,Hillary Clinton,50667,0.5243077114118961
+iowa,tama,Hillary Clinton,8752,0.5083347853865365
+iowa,taylor,Hillary Clinton,3029,0.48495036823567084
+iowa,union,Hillary Clinton,5832,0.4691874497184232
+iowa,van buren,Hillary Clinton,3561,0.48807565789473684
+iowa,wapello,Hillary Clinton,15149,0.42726195848375453
+iowa,warren,Hillary Clinton,27300,0.5632582322357019
+iowa,washington,Hillary Clinton,10929,0.4935199819372319
+iowa,wayne,Hillary Clinton,2940,0.4623368454159459
+iowa,webster,Hillary Clinton,17430,0.47024227054443424
+iowa,winnebago,Hillary Clinton,5787,0.5457889276619825
+iowa,winneshiek,Hillary Clinton,11362,0.5476982405398891
+iowa,woodbury,Hillary Clinton,43718,0.4265503649065293
+iowa,worth,Hillary Clinton,4257,0.5673730507796881
+iowa,wright,Hillary Clinton,6026,0.4692780936064169
+kansas,allen,Hillary Clinton,5454,0.4300244421666798
+kansas,anderson,Hillary Clinton,3350,0.42860798362333674
+kansas,atchison,Hillary Clinton,6575,0.40047508831770007
+kansas,barber,Hillary Clinton,2252,0.46683250414593697
+kansas,barton,Hillary Clinton,10269,0.37810670495968185
+kansas,bourbon,Hillary Clinton,6093,0.41356139279169213
+kansas,brown,Hillary Clinton,4036,0.4157395962093119
+kansas,butler,Hillary Clinton,27657,0.41747045238418695
+kansas,chase,Hillary Clinton,1369,0.5154367469879518
+kansas,chautauqua,Hillary Clinton,1481,0.4372601121936817
+kansas,cherokee,Hillary Clinton,8620,0.4197711224738252
+kansas,cheyenne,Hillary Clinton,1407,0.5261780104712042
+kansas,clark,Hillary Clinton,1005,0.4829408938010572
+kansas,clay,Hillary Clinton,3820,0.46062944652116244
+kansas,cloud,Hillary Clinton,3930,0.4277318241184153
+kansas,coffey,Hillary Clinton,4068,0.4906525147750573
+kansas,comanche,Hillary Clinton,867,0.4745484400656814
+kansas,cowley,Hillary Clinton,12621,0.3530152159319758
+kansas,crawford,Hillary Clinton,14891,0.38046449832647744
+kansas,decatur,Hillary Clinton,1452,0.49674991447143346
+kansas,dickinson,Hillary Clinton,8210,0.42747058210975736
+kansas,doniphan,Hillary Clinton,3378,0.4337442218798151
+kansas,douglas,Hillary Clinton,50087,0.42395950601400023
+kansas,edwards,Hillary Clinton,1319,0.4463620981387479
+kansas,elk,Hillary Clinton,1259,0.4891219891219891
+kansas,ellis,Hillary Clinton,11947,0.4119797234387393
+kansas,ellsworth,Hillary Clinton,2679,0.4251031418597271
+kansas,finney,Hillary Clinton,10159,0.27347367287606333
+kansas,ford,Hillary Clinton,7718,0.22287677957781052
+kansas,franklin,Hillary Clinton,10965,0.4305233813655817
+kansas,geary,Hillary Clinton,7504,0.20457457539325535
+kansas,gove,Hillary Clinton,1343,0.4977761304670126
+kansas,graham,Hillary Clinton,1284,0.4955615592435353
+kansas,grant,Hillary Clinton,2389,0.3092957017089591
+kansas,gray,Hillary Clinton,2066,0.33969089115422557
+kansas,greeley,Hillary Clinton,650,0.49923195084485406
+kansas,greenwood,Hillary Clinton,2840,0.4556393390020857
+kansas,hamilton,Hillary Clinton,876,0.3411214953271028
+kansas,harper,Hillary Clinton,2578,0.44594360837225394
+kansas,harvey,Hillary Clinton,14916,0.42859605769783343
+kansas,haskell,Hillary Clinton,1354,0.33113230618733186
+kansas,hodgeman,Hillary Clinton,1017,0.5441412520064205
+kansas,jackson,Hillary Clinton,5818,0.43793752352277004
+kansas,jefferson,Hillary Clinton,8337,0.4435990209641375
+kansas,jewell,Hillary Clinton,1494,0.5042186972662842
+kansas,johnson,Hillary Clinton,290090,0.5004278192946502
+kansas,kearny,Hillary Clinton,1316,0.3349452786968694
+kansas,kingman,Hillary Clinton,3334,0.4366160293347302
+kansas,kiowa,Hillary Clinton,1079,0.4198443579766537
+kansas,labette,Hillary Clinton,8107,0.3930095016482451
+kansas,lane,Hillary Clinton,871,0.5343558282208589
+kansas,leavenworth,Hillary Clinton,30301,0.3829800679988372
+kansas,lincoln,Hillary Clinton,1464,0.46594525779758117
+kansas,linn,Hillary Clinton,4427,0.4621085594989562
+kansas,logan,Hillary Clinton,1357,0.4869034804449229
+kansas,lyon,Hillary Clinton,12288,0.3708689222225576
+kansas,mcpherson,Hillary Clinton,12742,0.4447779949734711
+kansas,marion,Hillary Clinton,5624,0.46660582427611386
+kansas,marshall,Hillary Clinton,4673,0.47465718638903
+kansas,meade,Hillary Clinton,1720,0.3999069983724715
+kansas,miami,Hillary Clinton,15022,0.4585750045790341
+kansas,mitchell,Hillary Clinton,2942,0.4674292977438831
+kansas,montgomery,Hillary Clinton,12004,0.3590142361526498
+kansas,morris,Hillary Clinton,2624,0.4662402274342573
+kansas,morton,Hillary Clinton,1192,0.40365729766339314
+kansas,nemaha,Hillary Clinton,5122,0.5074301565286309
+kansas,neosho,Hillary Clinton,6314,0.38767114876895686
+kansas,ness,Hillary Clinton,1454,0.4814569536423841
+kansas,norton,Hillary Clinton,2234,0.40354046242774566
+kansas,osage,Hillary Clinton,7046,0.4441222817522849
+kansas,osborne,Hillary Clinton,1788,0.4910738808019775
+kansas,ottawa,Hillary Clinton,2903,0.48921469497809233
+kansas,pawnee,Hillary Clinton,2661,0.39311567439799083
+kansas,phillips,Hillary Clinton,2664,0.4915129151291513
+kansas,pottawatomie,Hillary Clinton,10693,0.46243999481036197
+kansas,pratt,Hillary Clinton,3842,0.39620501185933793
+kansas,rawlins,Hillary Clinton,1472,0.587390263367917
+kansas,reno,Hillary Clinton,24210,0.3806843197685389
+kansas,republic,Hillary Clinton,2529,0.539462457337884
+kansas,rice,Hillary Clinton,3804,0.38327455919395464
+kansas,riley,Hillary Clinton,21532,0.2789661203601736
+kansas,rooks,Hillary Clinton,2419,0.4670785865997297
+kansas,rush,Hillary Clinton,1503,0.4851517107811491
+kansas,russell,Hillary Clinton,3193,0.45329358319136853
+kansas,saline,Hillary Clinton,22064,0.3980587778960472
+kansas,scott,Hillary Clinton,2202,0.4450282942603072
+kansas,sedgwick,Hillary Clinton,188783,0.3693783592880217
+kansas,seward,Hillary Clinton,5038,0.2164740256950114
+kansas,shawnee,Hillary Clinton,75406,0.4219957579929374
+kansas,sheridan,Hillary Clinton,1374,0.5551515151515152
+kansas,sherman,Hillary Clinton,2612,0.4379610999329309
+kansas,smith,Hillary Clinton,2042,0.553537544049878
+kansas,stafford,Hillary Clinton,1896,0.4498220640569395
+kansas,stanton,Hillary Clinton,637,0.30772946859903383
+kansas,stevens,Hillary Clinton,1891,0.3266539989635516
+kansas,sumner,Hillary Clinton,9722,0.4151684673527779
+kansas,thomas,Hillary Clinton,3576,0.45294490183660546
+kansas,trego,Hillary Clinton,1482,0.5098039215686274
+kansas,wabaunsee,Hillary Clinton,3380,0.4907797299259474
+kansas,wallace,Hillary Clinton,798,0.5302325581395348
+kansas,washington,Hillary Clinton,2765,0.49658764367816094
+kansas,wichita,Hillary Clinton,956,0.4411628980156899
+kansas,wilson,Hillary Clinton,3591,0.405992085924251
+kansas,woodson,Hillary Clinton,1443,0.45896946564885494
+kansas,wyandotte,Hillary Clinton,48781,0.2980229958089466
+kentucky,adair,Hillary Clinton,8233,0.4296524371151237
+kentucky,allen,Hillary Clinton,8096,0.39186834462729914
+kentucky,anderson,Hillary Clinton,11422,0.5210766423357664
+kentucky,ballard,Hillary Clinton,4101,0.4991480038948393
+kentucky,barren,Hillary Clinton,18488,0.42456253157580487
+kentucky,bath,Hillary Clinton,4587,0.3758911743014013
+kentucky,bell,Hillary Clinton,9718,0.3550602849835586
+kentucky,boone,Hillary Clinton,57618,0.4495751437644837
+kentucky,bourbon,Hillary Clinton,8803,0.43652682733313497
+kentucky,boyd,Hillary Clinton,20454,0.42198427925976356
+kentucky,boyle,Hillary Clinton,12946,0.43469209589685043
+kentucky,bracken,Hillary Clinton,3527,0.4254523522316043
+kentucky,breathitt,Hillary Clinton,5738,0.42939459702162686
+kentucky,breckinridge,Hillary Clinton,8774,0.4391611191751339
+kentucky,bullitt,Hillary Clinton,36069,0.4584440179467951
+kentucky,butler,Hillary Clinton,5576,0.43788283335950995
+kentucky,caldwell,Hillary Clinton,5975,0.46870097270160027
+kentucky,calloway,Hillary Clinton,16049,0.4151748758278146
+kentucky,campbell,Hillary Clinton,42510,0.4614432721115019
+kentucky,carlisle,Hillary Clinton,2601,0.5360676009892827
+kentucky,carroll,Hillary Clinton,3855,0.36088747425575735
+kentucky,carter,Hillary Clinton,10278,0.3745763329567404
+kentucky,casey,Hillary Clinton,6439,0.40885135564162806
+kentucky,christian,Hillary Clinton,22083,0.30219637358877866
+kentucky,clark,Hillary Clinton,16205,0.4544307347167695
+kentucky,clay,Hillary Clinton,6767,0.32263755125393345
+kentucky,clinton,Hillary Clinton,4462,0.4381812825297064
+kentucky,crittenden,Hillary Clinton,4037,0.44033595113438045
+kentucky,cumberland,Hillary Clinton,3066,0.45509870862401663
+kentucky,daviess,Hillary Clinton,45807,0.4604412725536513
+kentucky,edmonson,Hillary Clinton,5244,0.43732799599699773
+kentucky,elliott,Hillary Clinton,2855,0.3782458929517753
+kentucky,estill,Hillary Clinton,5545,0.3857928059556112
+kentucky,fayette,Hillary Clinton,136315,0.43162380984044657
+kentucky,fleming,Hillary Clinton,6260,0.4294141857593634
+kentucky,floyd,Hillary Clinton,16540,0.44070235272175
+kentucky,franklin,Hillary Clinton,23865,0.4766327142001198
+kentucky,fulton,Hillary Clinton,2382,0.3801468241302266
+kentucky,gallatin,Hillary Clinton,3338,0.3875536978985255
+kentucky,garrard,Hillary Clinton,7623,0.4430173766490382
+kentucky,grant,Hillary Clinton,9559,0.3864408150064683
+kentucky,graves,Hillary Clinton,16606,0.44582259450171824
+kentucky,grayson,Hillary Clinton,10576,0.40462162368964727
+kentucky,green,Hillary Clinton,5333,0.4869874897269656
+kentucky,greenup,Hillary Clinton,16277,0.4520635449647281
+kentucky,hancock,Hillary Clinton,4295,0.4970489526675153
+kentucky,hardin,Hillary Clinton,43156,0.40609003312255343
+kentucky,harlan,Hillary Clinton,10757,0.39107831018686834
+kentucky,harrison,Hillary Clinton,7781,0.41741322890402877
+kentucky,hart,Hillary Clinton,7264,0.39433255523587213
+kentucky,henderson,Hillary Clinton,19710,0.425297773174521
+kentucky,henry,Hillary Clinton,7149,0.4593587354623145
+kentucky,hickman,Hillary Clinton,2157,0.46769297484822203
+kentucky,hopkins,Hillary Clinton,20345,0.4417544240581913
+kentucky,jackson,Hillary Clinton,5501,0.4128330206378987
+kentucky,jefferson,Hillary Clinton,353099,0.46159990378405796
+kentucky,jessamine,Hillary Clinton,23326,0.45023065490551833
+kentucky,johnson,Hillary Clinton,9572,0.4138706329989623
+kentucky,kenton,Hillary Clinton,71998,0.43773635379807635
+kentucky,knott,Hillary Clinton,5763,0.36753826530612244
+kentucky,knox,Hillary Clinton,12012,0.3817575083426029
+kentucky,larue,Hillary Clinton,6367,0.4512402551381999
+kentucky,laurel,Hillary Clinton,24833,0.4144428311553931
+kentucky,lawrence,Hillary Clinton,6042,0.38093436731605823
+kentucky,lee,Hillary Clinton,2667,0.39534538986065815
+kentucky,leslie,Hillary Clinton,4492,0.422021796317174
+kentucky,letcher,Hillary Clinton,9134,0.3962861729359191
+kentucky,lewis,Hillary Clinton,5298,0.3877625704457293
+kentucky,lincoln,Hillary Clinton,9561,0.3927779147153069
+kentucky,livingston,Hillary Clinton,4645,0.5000538271073313
+kentucky,logan,Hillary Clinton,10899,0.40750018694384205
+kentucky,lyon,Hillary Clinton,3962,0.467547793249941
+kentucky,mccracken,Hillary Clinton,31307,0.4820317792695695
+kentucky,mccreary,Hillary Clinton,5776,0.32298831292288765
+kentucky,mclean,Hillary Clinton,4566,0.4860031931878659
+kentucky,madison,Hillary Clinton,37371,0.4236498435586995
+kentucky,magoffin,Hillary Clinton,5116,0.4001877346683354
+kentucky,marion,Hillary Clinton,8111,0.42218405163439515
+kentucky,marshall,Hillary Clinton,16698,0.5376219453298561
+kentucky,martin,Hillary Clinton,3953,0.32177452177452176
+kentucky,mason,Hillary Clinton,7219,0.4234017595307918
+kentucky,meade,Hillary Clinton,12231,0.4411541929666366
+kentucky,menifee,Hillary Clinton,2779,0.43605837125372665
+kentucky,mercer,Hillary Clinton,10585,0.495158347756935
+kentucky,metcalfe,Hillary Clinton,4620,0.4654911838790932
+kentucky,monroe,Hillary Clinton,4991,0.4700508570352232
+kentucky,montgomery,Hillary Clinton,11452,0.41528865680301713
+kentucky,morgan,Hillary Clinton,4775,0.3599155800105525
+kentucky,muhlenberg,Hillary Clinton,13060,0.41798687790046407
+kentucky,nelson,Hillary Clinton,20802,0.4610985503391408
+kentucky,nicholas,Hillary Clinton,2841,0.40246493837654057
+kentucky,ohio,Hillary Clinton,10398,0.43287123766704133
+kentucky,oldham,Hillary Clinton,32853,0.5089069954767953
+kentucky,owen,Hillary Clinton,5001,0.46581594634873325
+kentucky,owsley,Hillary Clinton,1759,0.39572553430821145
+kentucky,pendleton,Hillary Clinton,6007,0.414647615103196
+kentucky,perry,Hillary Clinton,10572,0.38621999780805905
+kentucky,pike,Hillary Clinton,24665,0.39923277383014194
+kentucky,powell,Hillary Clinton,4957,0.40544740716505806
+kentucky,pulaski,Hillary Clinton,28041,0.43908740722182205
+kentucky,robertson,Hillary Clinton,1013,0.4746954076850984
+kentucky,rockcastle,Hillary Clinton,6691,0.3951689109378691
+kentucky,rowan,Hillary Clinton,8848,0.35906176446716986
+kentucky,russell,Hillary Clinton,8174,0.46219960418433703
+kentucky,scott,Hillary Clinton,24200,0.4640015338893682
+kentucky,shelby,Hillary Clinton,20580,0.4494725577128879
+kentucky,simpson,Hillary Clinton,7531,0.42070275403608737
+kentucky,spencer,Hillary Clinton,9515,0.5265050907481187
+kentucky,taylor,Hillary Clinton,11306,0.4418822793715313
+kentucky,todd,Hillary Clinton,4779,0.3839479392624729
+kentucky,trigg,Hillary Clinton,6751,0.47482064988043327
+kentucky,trimble,Hillary Clinton,3798,0.4349020954998282
+kentucky,union,Hillary Clinton,6211,0.41542371747709184
+kentucky,warren,Hillary Clinton,48454,0.3903739868838723
+kentucky,washington,Hillary Clinton,5636,0.46939285416840176
+kentucky,wayne,Hillary Clinton,7992,0.3877917414721723
+kentucky,webster,Hillary Clinton,5805,0.4412770809578107
+kentucky,whitley,Hillary Clinton,13774,0.3814561466670359
+kentucky,wolfe,Hillary Clinton,2635,0.3639000138102472
+kentucky,woodford,Hillary Clinton,13563,0.5244779582366589
+louisiana,acadia,Hillary Clinton,27389,0.43697251072927135
+louisiana,allen,Hillary Clinton,9245,0.3606960321485701
+louisiana,ascension,Hillary Clinton,54678,0.45803943907383515
+louisiana,assumption,Hillary Clinton,10904,0.476198794654555
+louisiana,avoyelles,Hillary Clinton,16586,0.4047438932135972
+louisiana,beauregard,Hillary Clinton,15078,0.41274533957460785
+louisiana,bienville,Hillary Clinton,7005,0.5067640888374448
+louisiana,bossier,Hillary Clinton,49848,0.3970243879127706
+louisiana,caddo,Hillary Clinton,105804,0.42095128210228966
+louisiana,calcasieu,Hillary Clinton,83785,0.42219702695893174
+louisiana,caldwell,Hillary Clinton,4692,0.4670980587356894
+louisiana,cameron,Hillary Clinton,3692,0.540952380952381
+louisiana,catahoula,Hillary Clinton,4856,0.48419583208694783
+louisiana,claiborne,Hillary Clinton,6421,0.394871164135047
+louisiana,concordia,Hillary Clinton,8872,0.4385999604508602
+louisiana,east baton rouge,Hillary Clinton,196491,0.44104535904756775
+louisiana,east carroll,Hillary Clinton,2939,0.40387522330630754
+louisiana,east feliciana,Hillary Clinton,10042,0.5139201637666325
+louisiana,evangeline,Hillary Clinton,14882,0.4412881034278259
+louisiana,franklin,Hillary Clinton,9162,0.44942607671931717
+louisiana,grant,Hillary Clinton,8821,0.39552506501659046
+louisiana,iberia,Hillary Clinton,32454,0.4400721385276689
+louisiana,iberville,Hillary Clinton,16043,0.48415620473201354
+louisiana,jackson,Hillary Clinton,7464,0.4680504170063335
+louisiana,jefferson,Hillary Clinton,181639,0.4173930028149595
+louisiana,lafayette,Hillary Clinton,105603,0.441240619724901
+louisiana,lafourche,Hillary Clinton,41645,0.4235917570234148
+louisiana,lincoln,Hillary Clinton,18669,0.3935784458405363
+louisiana,livingston,Hillary Clinton,57730,0.42103036844715425
+louisiana,madison,Hillary Clinton,4732,0.40955513242167213
+louisiana,morehouse,Hillary Clinton,11852,0.450629253640546
+louisiana,natchitoches,Hillary Clinton,16621,0.42613578094554405
+louisiana,orleans,Hillary Clinton,165812,0.4254404195596061
+louisiana,ouachita,Hillary Clinton,68017,0.4335606833248343
+louisiana,plaquemines,Hillary Clinton,10573,0.4511242906515339
+louisiana,pointe coupee,Hillary Clinton,11761,0.5298463756363473
+louisiana,rapides,Hillary Clinton,56844,0.43135528911822735
+louisiana,red river,Hillary Clinton,4422,0.5076340259442085
+louisiana,richland,Hillary Clinton,9597,0.46709821863136375
+louisiana,sabine,Hillary Clinton,9787,0.4043379467052262
+louisiana,st. bernard,Hillary Clinton,15815,0.34818696197793975
+louisiana,st. charles,Hillary Clinton,26192,0.49821197595678307
+louisiana,st. helena,Hillary Clinton,5964,0.5703356603232285
+louisiana,st. james,Hillary Clinton,12085,0.5625901959871514
+louisiana,st. john the baptist,Hillary Clinton,20743,0.4765985800611171
+louisiana,st. landry,Hillary Clinton,39977,0.47791366304438787
+louisiana,st. martin,Hillary Clinton,25750,0.4783489067637607
+louisiana,st. mary,Hillary Clinton,22877,0.43265375595733413
+louisiana,st. tammany,Hillary Clinton,124392,0.4997067448680352
+louisiana,tangipahoa,Hillary Clinton,52416,0.407222101370459
+louisiana,tensas,Hillary Clinton,2548,0.5339480301760269
+louisiana,terrebonne,Hillary Clinton,43896,0.38567173620812356
+louisiana,union,Hillary Clinton,10894,0.4844576866634055
+louisiana,vermilion,Hillary Clinton,25632,0.42778463900664243
+louisiana,vernon,Hillary Clinton,16633,0.3234041725807392
+louisiana,washington,Hillary Clinton,18628,0.40182924198628067
+louisiana,webster,Hillary Clinton,18145,0.45293427523027385
+louisiana,west baton rouge,Hillary Clinton,12712,0.4974563669092901
+louisiana,west carroll,Hillary Clinton,4759,0.4216355098786214
+louisiana,west feliciana,Hillary Clinton,5799,0.3769745823311448
+louisiana,winn,Hillary Clinton,6372,0.435186449938533
+maine,cumberland,Hillary Clinton,171818,0.5935237384623888
+maine,franklin,Hillary Clinton,16488,0.5492887363827165
+maine,hancock,Hillary Clinton,32130,0.5924000221251176
+maine,knox,Hillary Clinton,23147,0.5817875634645353
+maine,lincoln,Hillary Clinton,21503,0.6364847264977505
+maine,oxford,Hillary Clinton,31201,0.5458155482471485
+maine,penobscot,Hillary Clinton,80540,0.5301160410454884
+maine,waldo,Hillary Clinton,22707,0.5804447852760736
+maine,washington,Hillary Clinton,16365,0.5150113293051359
+maine,york,Hillary Clinton,114274,0.5678973079618135
+maryland,allegany,Hillary Clinton,30654,0.42303552206673845
+maryland,anne arundel,Hillary Clinton,270081,0.4796945794784264
+maryland,baltimore,Hillary Clinton,390682,0.62757942691182
+maryland,calvert,Hillary Clinton,47408,0.523978469666324
+maryland,caroline,Hillary Clinton,14113,0.43298051848443014
+maryland,carroll,Hillary Clinton,91848,0.5495536462197544
+maryland,cecil,Hillary Clinton,45269,0.44215780117598796
+maryland,charles,Hillary Clinton,78303,0.503022516301031
+maryland,dorchester,Hillary Clinton,15225,0.46963200592245286
+maryland,frederick,Hillary Clinton,125677,0.5129652532030482
+maryland,garrett,Hillary Clinton,14011,0.4761435465234826
+maryland,harford,Hillary Clinton,133672,0.5356350026847466
+maryland,howard,Hillary Clinton,162193,0.5210233314166214
+maryland,kent,Hillary Clinton,10021,0.5082931777834137
+maryland,montgomery,Hillary Clinton,478873,0.46365850966388916
+maryland,prince george's,Hillary Clinton,390385,0.4307948492435971
+maryland,queen anne's,Hillary Clinton,26523,0.5414625183733464
+maryland,st. mary's,Hillary Clinton,49842,0.4490877145560211
+maryland,somerset,Hillary Clinton,9900,0.3854089617316152
+maryland,talbot,Hillary Clinton,20553,0.549354502445674
+maryland,washington,Hillary Clinton,65991,0.44269058416293233
+maryland,wicomico,Hillary Clinton,42547,0.418164663331597
+maryland,worcester,Hillary Clinton,28273,0.5494597325870647
+maryland,baltimore city,Hillary Clinton,239402,N/A
+massachusetts,barnstable,Hillary Clinton,133862,0.6258831010347069
+massachusetts,essex,Hillary Clinton,379868,0.48897556203458775
+massachusetts,franklin,Hillary Clinton,38177,0.5387209663308216
+massachusetts,hampden,Hillary Clinton,203117,0.4329809662064364
+massachusetts,nantucket,Hillary Clinton,6406,0.5855575868372943
+massachusetts,norfolk,Hillary Clinton,361562,0.5206061321637663
+massachusetts,plymouth,Hillary Clinton,266863,0.5240612622024622
+massachusetts,worcester,Hillary Clinton,383705,0.4690099337869767
+michigan,alcona,Hillary Clinton,6198,0.6
+michigan,alger,Hillary Clinton,4518,0.48816855753646676
+michigan,allegan,Hillary Clinton,55786,0.4888705832865956
+michigan,alpena,Hillary Clinton,14698,0.511733166214052
+michigan,antrim,Hillary Clinton,13582,0.5896244844801389
+michigan,arenac,Hillary Clinton,7696,0.5027765074802378
+michigan,baraga,Hillary Clinton,3490,0.40652300524170065
+michigan,barry,Hillary Clinton,30329,0.5103658331370108
+michigan,bay,Hillary Clinton,52977,0.50340659653924
+michigan,benzie,Hillary Clinton,10228,0.5881541115583668
+michigan,berrien,Hillary Clinton,72031,0.4646501786843158
+michigan,branch,Hillary Clinton,17663,0.40475262952863267
+michigan,calhoun,Hillary Clinton,58902,0.4384971003595703
+michigan,cass,Hillary Clinton,22595,0.44008803708464805
+michigan,charlevoix,Hillary Clinton,14589,0.556619610835559
+michigan,cheboygan,Hillary Clinton,13672,0.5382889090121659
+michigan,chippewa,Hillary Clinton,15456,0.40702604482132043
+michigan,clare,Hillary Clinton,13389,0.4373203553697413
+michigan,clinton,Hillary Clinton,40655,0.5279253074315989
+michigan,crawford,Hillary Clinton,6844,0.494044611275536
+michigan,delta,Hillary Clinton,18492,0.5078127145407112
+michigan,dickinson,Hillary Clinton,13165,0.513035345465882
+michigan,eaton,Hillary Clinton,56221,0.5173981465291135
+michigan,emmet,Hillary Clinton,18802,0.5710727736605515
+michigan,genesee,Hillary Clinton,196296,0.47823301117523953
+michigan,gladwin,Hillary Clinton,12472,0.4943909303524002
+michigan,gogebic,Hillary Clinton,7329,0.4717430484037075
+michigan,grand traverse,Hillary Clinton,51589,0.5635616827432517
+michigan,gratiot,Hillary Clinton,16465,0.39836926278096346
+michigan,hillsdale,Hillary Clinton,19940,0.4345836148464573
+michigan,houghton,Hillary Clinton,15624,0.4312686319973501
+michigan,huron,Hillary Clinton,15917,0.5011176526146774
+michigan,ingham,Hillary Clinton,131138,0.45677404073898625
+michigan,ionia,Hillary Clinton,26854,0.41922692643936554
+michigan,iosco,Hillary Clinton,13361,0.527206723750148
+michigan,iron,Hillary Clinton,5910,0.5220848056537103
+michigan,isabella,Hillary Clinton,25392,0.3588113103565221
+michigan,jackson,Hillary Clinton,69677,0.43749372111713886
+michigan,kalamazoo,Hillary Clinton,126299,0.48637147830373234
+michigan,kalkaska,Hillary Clinton,8833,0.5121173469387755
+michigan,kent,Hillary Clinton,308184,0.4836808105919355
+michigan,keweenaw,Hillary Clinton,1434,0.6754592557701365
+michigan,lake,Hillary Clinton,5328,0.4555014106181072
+michigan,lapeer,Hillary Clinton,45183,0.5113049972840847
+michigan,leelanau,Hillary Clinton,14757,0.6821522673692969
+michigan,lenawee,Hillary Clinton,45939,0.46690246059090773
+michigan,livingston,Hillary Clinton,105866,0.5656111256551496
+michigan,luce,Hillary Clinton,2579,0.4010886469673406
+michigan,mackinac,Hillary Clinton,6097,0.5634414564273172
+michigan,macomb,Hillary Clinton,419312,0.4847761746207917
+michigan,manistee,Hillary Clinton,12599,0.515149037085497
+michigan,marquette,Hillary Clinton,32976,0.4897959183673469
+michigan,mason,Hillary Clinton,14685,0.5109958939383394
+michigan,mecosta,Hillary Clinton,17168,0.39920939425648183
+michigan,menominee,Hillary Clinton,10768,0.45868120633838816
+michigan,midland,Hillary Clinton,42506,0.5080681791016232
+michigan,missaukee,Hillary Clinton,7317,0.49166778658782423
+michigan,monroe,Hillary Clinton,74218,0.4969300917959465
+michigan,montcalm,Hillary Clinton,26609,0.4239599764192279
+michigan,montmorency,Hillary Clinton,5009,0.5393560891568859
+michigan,muskegon,Hillary Clinton,78088,0.45282318625432744
+michigan,newaygo,Hillary Clinton,22640,0.47282903805187754
+michigan,oakland,Hillary Clinton,664614,0.533997213567068
+michigan,oceana,Hillary Clinton,11930,0.45321581886563084
+michigan,ogemaw,Hillary Clinton,10387,0.49753317047468504
+michigan,ontonagon,Hillary Clinton,3426,0.56750041411297
+michigan,osceola,Hillary Clinton,10609,0.45773827501402253
+michigan,oscoda,Hillary Clinton,4073,0.49208650477226046
+michigan,otsego,Hillary Clinton,12538,0.5180349543445028
+michigan,ottawa,Hillary Clinton,142734,0.5082051848080353
+michigan,presque isle,Hillary Clinton,7218,0.5638621982657605
+michigan,roscommon,Hillary Clinton,13041,0.5453747072599532
+michigan,saginaw,Hillary Clinton,94320,0.4879335764724141
+michigan,st. clair,Hillary Clinton,78003,0.4884345648090169
+michigan,st. joseph,Hillary Clinton,23757,0.3907144266824551
+michigan,sanilac,Hillary Clinton,19249,0.46423403434304455
+michigan,schoolcraft,Hillary Clinton,4154,0.5115133604235932
+michigan,shiawassee,Hillary Clinton,34111,0.49793445733888037
+michigan,tuscola,Hillary Clinton,25796,0.4801399694747422
+michigan,van buren,Hillary Clinton,33274,0.4432986943778311
+michigan,washtenaw,Hillary Clinton,188578,0.5195344031958123
+michigan,wayne,Hillary Clinton,777838,0.44073337896459347
+michigan,wexford,Hillary Clinton,15298,0.4651403204718903
+minnesota,aitkin,Hillary Clinton,9231,0.5823239969719909
+minnesota,anoka,Hillary Clinton,185758,0.5397180512296035
+minnesota,becker,Hillary Clinton,17222,0.5149349678576768
+minnesota,beltrami,Hillary Clinton,21564,0.4728428900339875
+minnesota,benton,Hillary Clinton,20058,0.5088021916696261
+minnesota,big stone,Hillary Clinton,2755,0.5517724814740637
+minnesota,blue earth,Hillary Clinton,33593,0.5115191935803146
+minnesota,brown,Hillary Clinton,13779,0.5459191759112519
+minnesota,carlton,Hillary Clinton,18211,0.5143042729249626
+minnesota,carver,Hillary Clinton,55696,0.5646963398560276
+minnesota,cass,Hillary Clinton,15999,0.5574952958394314
+minnesota,chippewa,Hillary Clinton,6222,0.5148957298907646
+minnesota,chisago,Hillary Clinton,30228,0.5584437177852907
+minnesota,clay,Hillary Clinton,29398,0.4728723318695813
+minnesota,clearwater,Hillary Clinton,4245,0.48255086961464133
+minnesota,cook,Hillary Clinton,3395,0.6472831267874166
+minnesota,cottonwood,Hillary Clinton,5721,0.5008755034144633
+minnesota,crow wing,Hillary Clinton,35842,0.5668601432886808
+minnesota,dakota,Hillary Clinton,231440,0.5588569800377176
+minnesota,dodge,Hillary Clinton,10654,0.5219990200881921
+minnesota,douglas,Hillary Clinton,21785,0.5921446045120957
+minnesota,faribault,Hillary Clinton,7412,0.5301480580788213
+minnesota,fillmore,Hillary Clinton,11055,0.533053667004195
+minnesota,freeborn,Hillary Clinton,16051,0.5258829696612279
+minnesota,goodhue,Hillary Clinton,25717,0.5583369518019974
+minnesota,grant,Hillary Clinton,3473,0.5919550025566729
+minnesota,hennepin,Hillary Clinton,679977,0.5563549337260677
+minnesota,houston,Hillary Clinton,10604,0.5674836776196083
+minnesota,hubbard,Hillary Clinton,11505,0.5572507991862831
+minnesota,isanti,Hillary Clinton,21016,0.548992973015334
+minnesota,itasca,Hillary Clinton,23880,0.5275366160779376
+minnesota,jackson,Hillary Clinton,5484,0.5431854199683043
+minnesota,kanabec,Hillary Clinton,8177,0.5146651560926485
+minnesota,kandiyohi,Hillary Clinton,21772,0.5108040259953546
+minnesota,kittson,Hillary Clinton,2385,0.5409389884327512
+minnesota,koochiching,Hillary Clinton,6363,0.49722591232320074
+minnesota,lac qui parle,Hillary Clinton,3860,0.5612912607241529
+minnesota,lake,Hillary Clinton,6521,0.6186320083483541
+minnesota,lake of the woods,Hillary Clinton,2242,0.5796277145811789
+minnesota,le sueur,Hillary Clinton,14971,0.5393983066114214
+minnesota,lincoln,Hillary Clinton,3019,0.5287215411558669
+minnesota,lyon,Hillary Clinton,12215,0.47297297297297297
+minnesota,mcleod,Hillary Clinton,18807,0.5251298374937176
+minnesota,mahnomen,Hillary Clinton,2088,0.38438880706921946
+minnesota,marshall,Hillary Clinton,4817,0.5119566372621958
+minnesota,martin,Hillary Clinton,10531,0.525603912956678
+minnesota,meeker,Hillary Clinton,12282,0.5329572575395964
+minnesota,mille lacs,Hillary Clinton,13017,0.5105907272299365
+minnesota,morrison,Hillary Clinton,17614,0.5374218154080854
+minnesota,mower,Hillary Clinton,17715,0.44857186265572774
+minnesota,murray,Hillary Clinton,4668,0.5561115082201572
+minnesota,nicollet,Hillary Clinton,18097,0.5397900137206944
+minnesota,nobles,Hillary Clinton,8632,0.3969100606952363
+minnesota,norman,Hillary Clinton,3261,0.49252378794743995
+minnesota,olmsted,Hillary Clinton,80129,0.5292641201609015
+minnesota,otter tail,Hillary Clinton,32500,0.5650208623087621
+minnesota,pennington,Hillary Clinton,6715,0.47165835499051767
+minnesota,pine,Hillary Clinton,13811,0.4755035290067137
+minnesota,pipestone,Hillary Clinton,4808,0.5172673480365788
+minnesota,polk,Hillary Clinton,14796,0.4697590246690161
+minnesota,pope,Hillary Clinton,6319,0.5778163862472567
+minnesota,ramsey,Hillary Clinton,273143,0.5089959394816923
+minnesota,red lake,Hillary Clinton,1881,0.46663358967998014
+minnesota,redwood,Hillary Clinton,7611,0.493419773095624
+minnesota,renville,Hillary Clinton,7606,0.5139883768076767
+minnesota,rice,Hillary Clinton,32443,0.496655083201935
+minnesota,rock,Hillary Clinton,4839,0.512497352255878
+minnesota,roseau,Hillary Clinton,7804,0.49958389347673005
+minnesota,scott,Hillary Clinton,75029,0.5308818430753773
+minnesota,sherburne,Hillary Clinton,48283,0.5281737132855658
+minnesota,sibley,Hillary Clinton,7774,0.5221304318624488
+minnesota,stearns,Hillary Clinton,79592,0.510195316756729
+minnesota,steele,Hillary Clinton,19179,0.524030711221618
+minnesota,stevens,Hillary Clinton,5398,0.5466882722300993
+minnesota,swift,Hillary Clinton,4994,0.5326365187713311
+minnesota,todd,Hillary Clinton,11993,0.4929710621506084
+minnesota,traverse,Hillary Clinton,1798,0.533056626148829
+minnesota,wabasha,Hillary Clinton,11832,0.5532332725487445
+minnesota,wadena,Hillary Clinton,6934,0.5073534791834345
+minnesota,waseca,Hillary Clinton,9653,0.5100390996512734
+minnesota,washington,Hillary Clinton,144235,0.5760505779077105
+minnesota,watonwan,Hillary Clinton,4998,0.4536213468869123
+minnesota,wilkin,Hillary Clinton,3302,0.5194274028629857
+minnesota,winona,Hillary Clinton,26074,0.5129950616798159
+minnesota,wright,Hillary Clinton,69618,0.5315446695120368
+minnesota,yellow medicine,Hillary Clinton,5276,0.5363423808071567
+mississippi,adams,Hillary Clinton,13836,0.43838915116758026
+mississippi,alcorn,Hillary Clinton,14783,0.39658225131451874
+mississippi,amite,Hillary Clinton,7050,0.5616187365569983
+mississippi,attala,Hillary Clinton,8256,0.4423252076078221
+mississippi,benton,Hillary Clinton,4013,0.4920907418761496
+mississippi,bolivar,Hillary Clinton,13824,0.41600962985254286
+mississippi,calhoun,Hillary Clinton,6396,0.4369150898285402
+mississippi,carroll,Hillary Clinton,5528,0.5418014309516809
+mississippi,chickasaw,Hillary Clinton,7890,0.4535786145444093
+mississippi,choctaw,Hillary Clinton,4065,0.4855470616340182
+mississippi,claiborne,Hillary Clinton,4272,0.4638940167227712
+mississippi,clarke,Hillary Clinton,7791,0.4862688802896018
+mississippi,clay,Hillary Clinton,10003,0.5000249937515621
+mississippi,coahoma,Hillary Clinton,8912,0.36375510204081635
+mississippi,copiah,Hillary Clinton,12982,0.44974883076390093
+mississippi,covington,Hillary Clinton,8811,0.45788078781894714
+mississippi,desoto,Hillary Clinton,65695,0.37914596210560336
+mississippi,forrest,Hillary Clinton,28064,0.37125130633788844
+mississippi,franklin,Hillary Clinton,4290,0.5550524000517532
+mississippi,george,Hillary Clinton,9891,0.4230900846950124
+mississippi,greene,Hillary Clinton,5369,0.39626540704111
+mississippi,grenada,Hillary Clinton,10513,0.49025368401417646
+mississippi,hancock,Hillary Clinton,17637,0.3808875931324911
+mississippi,harrison,Hillary Clinton,63313,0.3155017590719276
+mississippi,hinds,Hillary Clinton,94681,0.38769368100370166
+mississippi,holmes,Hillary Clinton,8076,0.43970163880873303
+mississippi,humphreys,Hillary Clinton,4253,0.48856978747846064
+mississippi,issaquena,Hillary Clinton,699,0.5228122662677637
+mississippi,itawamba,Hillary Clinton,9737,0.413583655438984
+mississippi,jackson,Hillary Clinton,49567,0.3506586301059751
+mississippi,jasper,Hillary Clinton,8475,0.5119608553823849
+mississippi,jefferson,Hillary Clinton,3860,0.5144608823137412
+mississippi,jones,Hillary Clinton,28352,0.41311981815267595
+mississippi,kemper,Hillary Clinton,4639,0.45880723963999603
+mississippi,lafayette,Hillary Clinton,19643,0.3724780036407767
+mississippi,lamar,Hillary Clinton,24592,0.4033723714857462
+mississippi,lauderdale,Hillary Clinton,29506,0.3766018277428907
+mississippi,lawrence,Hillary Clinton,6364,0.5014577259475219
+mississippi,leake,Hillary Clinton,8449,0.3709443737103218
+mississippi,lee,Hillary Clinton,32913,0.3883998111871607
+mississippi,leflore,Hillary Clinton,11140,0.3683740617043087
+mississippi,lincoln,Hillary Clinton,15193,0.4400961705579051
+mississippi,lowndes,Hillary Clinton,25575,0.42841348811498065
+mississippi,madison,Hillary Clinton,49802,0.4860960635608523
+mississippi,marion,Hillary Clinton,11693,0.4601369431764521
+mississippi,marshall,Hillary Clinton,14839,0.4134462678665961
+mississippi,monroe,Hillary Clinton,15884,0.4434022834491807
+mississippi,montgomery,Hillary Clinton,4996,0.49004413928396273
+mississippi,neshoba,Hillary Clinton,10553,0.35795936365794917
+mississippi,newton,Hillary Clinton,9438,0.43757244193054845
+mississippi,noxubee,Hillary Clinton,5574,0.5094132699689271
+mississippi,oktibbeha,Hillary Clinton,18124,0.3660674611189659
+mississippi,panola,Hillary Clinton,15064,0.4404420794105608
+mississippi,pearl river,Hillary Clinton,21883,0.3982782469423413
+mississippi,perry,Hillary Clinton,5432,0.45000414215889323
+mississippi,pike,Hillary Clinton,16310,0.40887440461268487
+mississippi,pontotoc,Hillary Clinton,12984,0.420779725832064
+mississippi,prentiss,Hillary Clinton,9872,0.38805031446540883
+mississippi,quitman,Hillary Clinton,3365,0.4480095859406204
+mississippi,rankin,Hillary Clinton,62768,0.42000173974720134
+mississippi,scott,Hillary Clinton,10522,0.3700759707371975
+mississippi,sharkey,Hillary Clinton,2190,0.4799474030243261
+mississippi,simpson,Hillary Clinton,11419,0.42029518937023813
+mississippi,smith,Hillary Clinton,7627,0.4743454194912619
+mississippi,stone,Hillary Clinton,7045,0.38558371189316404
+mississippi,sunflower,Hillary Clinton,9598,0.35710830821892325
+mississippi,tallahatchie,Hillary Clinton,5870,0.40255109038540665
+mississippi,tate,Hillary Clinton,11627,0.4084665378535043
+mississippi,tippah,Hillary Clinton,9235,0.41942955763466255
+mississippi,tishomingo,Hillary Clinton,8371,0.42970073404856013
+mississippi,tunica,Hillary Clinton,3567,0.3475253312548714
+mississippi,union,Hillary Clinton,11496,0.40606124827805445
+mississippi,walthall,Hillary Clinton,6919,0.4738716526265324
+mississippi,warren,Hillary Clinton,19416,0.408921463322171
+mississippi,washington,Hillary Clinton,16825,0.35082049250401387
+mississippi,wayne,Hillary Clinton,9599,0.46831243596623895
+mississippi,webster,Hillary Clinton,5069,0.5134204395827003
+mississippi,wilkinson,Hillary Clinton,4218,0.4640774562658158
+mississippi,winston,Hillary Clinton,8881,0.48143329538678376
+mississippi,yalobusha,Hillary Clinton,6077,0.48779900465564296
+mississippi,yazoo,Hillary Clinton,10070,0.3673707635620736
+missouri,adair,Hillary Clinton,10226,0.4033447718218751
+missouri,andrew,Hillary Clinton,9140,0.5278964999422433
+missouri,atchison,Hillary Clinton,2724,0.5144475920679886
+missouri,audrain,Hillary Clinton,10061,0.38770712909441235
+missouri,barry,Hillary Clinton,14605,0.4138214376788598
+missouri,barton,Hillary Clinton,5939,0.5022410147991543
+missouri,bates,Hillary Clinton,8023,0.49034347879232365
+missouri,benton,Hillary Clinton,9312,0.49555638337501995
+missouri,bollinger,Hillary Clinton,5676,0.4608639168561221
+missouri,boone,Hillary Clinton,83868,0.48088346597555104
+missouri,buchanan,Hillary Clinton,35659,0.40029411104375745
+missouri,butler,Hillary Clinton,17259,0.40297462000046697
+missouri,caldwell,Hillary Clinton,4312,0.47900466562986005
+missouri,callaway,Hillary Clinton,19193,0.4293832076780241
+missouri,camden,Hillary Clinton,22514,0.5032748407287359
+missouri,cape girardeau,Hillary Clinton,37038,0.4734016718218768
+missouri,carroll,Hillary Clinton,4361,0.49115891429215003
+missouri,carter,Hillary Clinton,2844,0.45286624203821657
+missouri,cass,Hillary Clinton,50990,0.5031626520885345
+missouri,cedar,Hillary Clinton,6288,0.456247279059643
+missouri,chariton,Hillary Clinton,3969,0.5238912354804647
+missouri,christian,Hillary Clinton,41531,0.49990972230581265
+missouri,clark,Hillary Clinton,3215,0.4722385428907168
+missouri,clay,Hillary Clinton,110176,0.46851306126441034
+missouri,clinton,Hillary Clinton,10208,0.49599144842330306
+missouri,cole,Hillary Clinton,37374,0.4865265953292197
+missouri,cooper,Hillary Clinton,7986,0.4533893493811741
+missouri,crawford,Hillary Clinton,9696,0.39557749581820406
+missouri,dade,Hillary Clinton,3951,0.5216530235014524
+missouri,dallas,Hillary Clinton,7453,0.4560083210964268
+missouri,daviess,Hillary Clinton,3593,0.43378003138959315
+missouri,dekalb,Hillary Clinton,4594,0.366347687400319
+missouri,dent,Hillary Clinton,6791,0.4337634133878385
+missouri,douglas,Hillary Clinton,6666,0.4991015274034142
+missouri,dunklin,Hillary Clinton,10578,0.3429516275450655
+missouri,franklin,Hillary Clinton,50113,0.4900978963530919
+missouri,gasconade,Hillary Clinton,7445,0.5050196716863383
+missouri,gentry,Hillary Clinton,3043,0.45731890592125035
+missouri,greene,Hillary Clinton,129231,0.4497932561118227
+missouri,grundy,Hillary Clinton,4310,0.42966802910975976
+missouri,harrison,Hillary Clinton,3689,0.42785896543725355
+missouri,henry,Hillary Clinton,9866,0.4541311852704258
+missouri,hickory,Hillary Clinton,4724,0.5098208504208935
+missouri,holt,Hillary Clinton,2355,0.5253178674994423
+missouri,howard,Hillary Clinton,4868,0.48036313400434183
+missouri,howell,Hillary Clinton,17455,0.4356126778138258
+missouri,iron,Hillary Clinton,4269,0.4184063510732138
+missouri,jackson,Hillary Clinton,173275,0.2522994890671435
+missouri,jasper,Hillary Clinton,48326,0.40764922225596384
+missouri,jefferson,Hillary Clinton,106238,0.4761559009663135
+missouri,johnson,Hillary Clinton,21132,0.39502018842530284
+missouri,knox,Hillary Clinton,1870,0.4786281034041464
+missouri,laclede,Hillary Clinton,16051,0.45253601736727844
+missouri,lafayette,Hillary Clinton,15876,0.4866356056890633
+missouri,lawrence,Hillary Clinton,16715,0.44008846528527423
+missouri,lewis,Hillary Clinton,4456,0.4395344249358848
+missouri,lincoln,Hillary Clinton,24962,0.4574559715579013
+missouri,linn,Hillary Clinton,5587,0.45448629301228344
+missouri,livingston,Hillary Clinton,6421,0.4298433525237649
+missouri,mcdonald,Hillary Clinton,8242,0.3633558171317727
+missouri,macon,Hillary Clinton,7621,0.4986260141324261
+missouri,madison,Hillary Clinton,5321,0.43693545738216455
+missouri,maries,Hillary Clinton,4500,0.5035810205908684
+missouri,marion,Hillary Clinton,12938,0.45084852075129805
+missouri,mercer,Hillary Clinton,1745,0.476775956284153
+missouri,miller,Hillary Clinton,11416,0.45899002894821483
+missouri,mississippi,Hillary Clinton,5169,0.3701396348012889
+missouri,moniteau,Hillary Clinton,6830,0.4302904302904303
+missouri,monroe,Hillary Clinton,4156,0.48118559685075835
+missouri,montgomery,Hillary Clinton,5429,0.4691496716211545
+missouri,morgan,Hillary Clinton,8821,0.43962123099925243
+missouri,new madrid,Hillary Clinton,7357,0.40720650910499806
+missouri,newton,Hillary Clinton,26606,0.45763528157143346
+missouri,nodaway,Hillary Clinton,9458,0.4180331491712707
+missouri,oregon,Hillary Clinton,4668,0.4302304147465438
+missouri,osage,Hillary Clinton,7090,0.5237110356034865
+missouri,ozark,Hillary Clinton,4505,0.4810978214438274
+missouri,pemiscot,Hillary Clinton,6027,0.346180356117174
+missouri,perry,Hillary Clinton,8740,0.4583595552758548
+missouri,pettis,Hillary Clinton,18111,0.42815602836879435
+missouri,phelps,Hillary Clinton,18553,0.4144439976768083
+missouri,pike,Hillary Clinton,7382,0.40099951110869686
+missouri,platte,Hillary Clinton,48885,0.5068692000622116
+missouri,polk,Hillary Clinton,13763,0.4403314563603788
+missouri,pulaski,Hillary Clinton,13488,0.2535147733253139
+missouri,putnam,Hillary Clinton,2346,0.48271604938271606
+missouri,ralls,Hillary Clinton,5266,0.5178483626708624
+missouri,randolph,Hillary Clinton,10309,0.41168483686753726
+missouri,ray,Hillary Clinton,10869,0.47685692975913657
+missouri,reynolds,Hillary Clinton,3038,0.4828353464717101
+missouri,ripley,Hillary Clinton,5524,0.40063823614737454
+missouri,st. charles,Hillary Clinton,201005,0.522120744562027
+missouri,st. clair,Hillary Clinton,4630,0.49197747316969503
+missouri,ste. genevieve,Hillary Clinton,8469,0.4756796225567288
+missouri,st. francois,Hillary Clinton,24728,0.3733542698393526
+missouri,st. louis county,Hillary Clinton,514858,N/A
+missouri,saline,Hillary Clinton,9274,0.3992938947730991
+missouri,schuyler,Hillary Clinton,1936,0.43022222222222223
+missouri,scotland,Hillary Clinton,1968,0.40821406347230865
+missouri,scott,Hillary Clinton,17256,0.44238213653959546
+missouri,shannon,Hillary Clinton,3904,0.47189653088359723
+missouri,shelby,Hillary Clinton,3255,0.5335190952302901
+missouri,stoddard,Hillary Clinton,13291,0.4469666397632499
+missouri,stone,Hillary Clinton,16567,0.5291787779090938
+missouri,sullivan,Hillary Clinton,2486,0.390512095507383
+missouri,taney,Hillary Clinton,23515,0.43372805075992327
+missouri,texas,Hillary Clinton,10956,0.4269680436477007
+missouri,vernon,Hillary Clinton,8599,0.41424992773870317
+missouri,warren,Hillary Clinton,15784,0.4707145413336514
+missouri,washington,Hillary Clinton,9282,0.37437986528455613
+missouri,wayne,Hillary Clinton,5655,0.42104087558633013
+missouri,webster,Hillary Clinton,16743,0.44524518668226787
+missouri,worth,Hillary Clinton,1046,0.5122428991185113
+missouri,wright,Hillary Clinton,8119,0.44742643006723243
+missouri,st. louis city,Hillary Clinton,131191,N/A
+montana,beaverhead,Hillary Clinton,4849,0.5216783216783217
+montana,big horn,Hillary Clinton,4237,0.3182842548076923
+montana,blaine,Hillary Clinton,2684,0.40179640718562876
+montana,broadwater,Hillary Clinton,3133,0.5483024151207561
+montana,carbon,Hillary Clinton,5991,0.5758915697394982
+montana,carter,Hillary Clinton,786,0.6852659110723627
+montana,cascade,Hillary Clinton,34571,0.4222257505068517
+montana,chouteau,Hillary Clinton,2603,0.45081399376515413
+montana,custer,Hillary Clinton,5185,0.42911528593892245
+montana,daniels,Hillary Clinton,962,0.5497142857142857
+montana,dawson,Hillary Clinton,4374,0.45671922313876995
+montana,deer lodge,Hillary Clinton,4206,0.46209624258404747
+montana,fallon,Hillary Clinton,1484,0.46799116997792495
+montana,fergus,Hillary Clinton,5840,0.5164942071283276
+montana,flathead,Hillary Clinton,46571,0.4859295276453218
+montana,gallatin,Hillary Clinton,53819,0.5334846652524732
+montana,garfield,Hillary Clinton,718,0.559190031152648
+montana,glacier,Hillary Clinton,5075,0.37217659137577
+montana,golden valley,Hillary Clinton,474,0.5794621026894865
+montana,granite,Hillary Clinton,1777,0.5618084097375909
+montana,hill,Hillary Clinton,6445,0.39207932838544834
+montana,jefferson,Hillary Clinton,6714,0.5801935706878673
+montana,judith basin,Hillary Clinton,1208,0.6255825996892802
+montana,lake,Hillary Clinton,13181,0.44746579760328614
+montana,lewis and clark,Hillary Clinton,34478,0.5206191015477538
+montana,liberty,Hillary Clinton,961,0.40192388122124634
+montana,lincoln,Hillary Clinton,9330,0.4895068205666317
+montana,mccone,Hillary Clinton,1060,0.6235294117647059
+montana,madison,Hillary Clinton,4778,0.5953152255170695
+montana,meagher,Hillary Clinton,977,0.5365183964854475
+montana,mineral,Hillary Clinton,2012,0.4799618320610687
+montana,missoula,Hillary Clinton,59203,0.5187693871470882
+montana,musselshell,Hillary Clinton,2441,0.5274416594641314
+montana,park,Hillary Clinton,9359,0.5848278447791039
+montana,petroleum,Hillary Clinton,322,0.679324894514768
+montana,phillips,Hillary Clinton,2171,0.5236372407139411
+montana,pondera,Hillary Clinton,2723,0.4467596390484003
+montana,powder river,Hillary Clinton,1053,0.5955882352941176
+montana,powell,Hillary Clinton,2794,0.41094278570377996
+montana,prairie,Hillary Clinton,689,0.6043859649122807
+montana,ravalli,Hillary Clinton,22556,0.5481675901623408
+montana,richland,Hillary Clinton,4871,0.40925894807595364
+montana,roosevelt,Hillary Clinton,3652,0.3198738722956994
+montana,rosebud,Hillary Clinton,3453,0.3694233443885739
+montana,sanders,Hillary Clinton,5953,0.5271407066324272
+montana,sheridan,Hillary Clinton,1835,0.49959161448407297
+montana,silver bow,Hillary Clinton,16452,0.4742440402409847
+montana,stillwater,Hillary Clinton,4873,0.5170291777188329
+montana,sweet grass,Hillary Clinton,2107,0.5820441988950277
+montana,teton,Hillary Clinton,3188,0.5258990432200594
+montana,toole,Hillary Clinton,2037,0.4012211936182785
+montana,treasure,Hillary Clinton,443,0.6476608187134503
+montana,valley,Hillary Clinton,3894,0.5109565673796089
+montana,wheatland,Hillary Clinton,946,0.4481288488867835
+montana,wibaux,Hillary Clinton,541,0.5046641791044776
+montana,yellowstone,Hillary Clinton,69108,0.4415028525065643
+nebraska,adams,Hillary Clinton,13513,0.4280736211866823
+nebraska,antelope,Hillary Clinton,3281,0.5114575214341387
+nebraska,arthur,Hillary Clinton,273,0.6053215077605322
+nebraska,banner,Hillary Clinton,402,0.5654008438818565
+nebraska,blaine,Hillary Clinton,317,0.6645702306079665
+nebraska,boone,Hillary Clinton,2905,0.5470809792843692
+nebraska,box butte,Hillary Clinton,4924,0.4347902869757174
+nebraska,boyd,Hillary Clinton,1156,0.5774225774225774
+nebraska,brown,Hillary Clinton,1597,0.5355466130114017
+nebraska,buffalo,Hillary Clinton,21129,0.43494997735600477
+nebraska,burt,Hillary Clinton,3558,0.5442031202202509
+nebraska,butler,Hillary Clinton,3981,0.49404318689501114
+nebraska,cass,Hillary Clinton,12933,0.5087526061130562
+nebraska,cedar,Hillary Clinton,4420,0.5189011505048133
+nebraska,chase,Hillary Clinton,1898,0.47893010345697706
+nebraska,cherry,Hillary Clinton,3118,0.5353708791208791
+nebraska,cheyenne,Hillary Clinton,4711,0.4647331557660057
+nebraska,clay,Hillary Clinton,3065,0.48720394213956447
+nebraska,colfax,Hillary Clinton,3214,0.299897359335635
+nebraska,cuming,Hillary Clinton,4074,0.44892561983471074
+nebraska,custer,Hillary Clinton,5652,0.5219800517177687
+nebraska,dakota,Hillary Clinton,6279,0.30554744525547445
+nebraska,dawes,Hillary Clinton,3676,0.4103594552355436
+nebraska,dawson,Hillary Clinton,8635,0.3614180478821363
+nebraska,deuel,Hillary Clinton,984,0.5151832460732985
+nebraska,dixon,Hillary Clinton,2782,0.48223262263823885
+nebraska,dodge,Hillary Clinton,15529,0.42467251893784014
+nebraska,douglas,Hillary Clinton,240433,0.437924044085103
+nebraska,dundy,Hillary Clinton,953,0.5384180790960452
+nebraska,fillmore,Hillary Clinton,2941,0.5296236268683594
+nebraska,franklin,Hillary Clinton,1673,0.561975142761169
+nebraska,frontier,Hillary Clinton,1328,0.5047510452299506
+nebraska,furnas,Hillary Clinton,2340,0.4843717656799834
+nebraska,gage,Hillary Clinton,10048,0.46272162099930925
+nebraska,garden,Hillary Clinton,1075,0.5610647181628392
+nebraska,garfield,Hillary Clinton,980,0.48659384309831183
+nebraska,gosper,Hillary Clinton,1010,0.49876543209876545
+nebraska,grant,Hillary Clinton,405,0.6269349845201239
+nebraska,greeley,Hillary Clinton,1175,0.48254620123203285
+nebraska,hall,Hillary Clinton,22060,0.3608584701956422
+nebraska,hamilton,Hillary Clinton,5004,0.5474236954381358
+nebraska,harlan,Hillary Clinton,1832,0.5324033711130486
+nebraska,hayes,Hillary Clinton,514,0.5617486338797815
+nebraska,hitchcock,Hillary Clinton,1468,0.5098992705800626
+nebraska,holt,Hillary Clinton,5118,0.49868459514761765
+nebraska,hooker,Hillary Clinton,417,0.5840336134453782
+nebraska,howard,Hillary Clinton,2994,0.46913193356314636
+nebraska,jefferson,Hillary Clinton,3494,0.4838665004846974
+nebraska,johnson,Hillary Clinton,2089,0.39874021759877837
+nebraska,kearney,Hillary Clinton,3296,0.5025922537358951
+nebraska,keith,Hillary Clinton,4034,0.49582104228121926
+nebraska,keya paha,Hillary Clinton,479,0.6010037641154329
+nebraska,kimball,Hillary Clinton,1677,0.45129171151776104
+nebraska,knox,Hillary Clinton,4115,0.48594709494567784
+nebraska,lancaster,Hillary Clinton,136223,0.4450335842350112
+nebraska,lincoln,Hillary Clinton,16131,0.45438156671643054
+nebraska,logan,Hillary Clinton,453,0.572692793931732
+nebraska,loup,Hillary Clinton,385,0.6353135313531353
+nebraska,mcpherson,Hillary Clinton,287,0.5869120654396728
+nebraska,madison,Hillary Clinton,14343,0.40981170890596874
+nebraska,merrick,Hillary Clinton,3788,0.48532991672005127
+nebraska,morrill,Hillary Clinton,2209,0.4485279187817259
+nebraska,nance,Hillary Clinton,1621,0.4536803806325217
+nebraska,nemaha,Hillary Clinton,3161,0.45124910778015703
+nebraska,nuckolls,Hillary Clinton,2205,0.510180472003702
+nebraska,otoe,Hillary Clinton,7457,0.4707107688423179
+nebraska,pawnee,Hillary Clinton,1327,0.493125232255667
+nebraska,perkins,Hillary Clinton,1455,0.49624829467939974
+nebraska,phelps,Hillary Clinton,4695,0.5093848323749594
+nebraska,pierce,Hillary Clinton,3630,0.5048678720445062
+nebraska,platte,Hillary Clinton,14433,0.439013261954009
+nebraska,polk,Hillary Clinton,2582,0.4993231483272094
+nebraska,red willow,Hillary Clinton,5170,0.4750528346963154
+nebraska,richardson,Hillary Clinton,3805,0.47414330218068534
+nebraska,rock,Hillary Clinton,798,0.5631616090331687
+nebraska,saline,Hillary Clinton,5136,0.3617920540997464
+nebraska,sarpy,Hillary Clinton,80580,0.4600023976297717
+nebraska,saunders,Hillary Clinton,10860,0.518401833023056
+nebraska,scotts bluff,Hillary Clinton,14317,0.3950062077527935
+nebraska,seward,Hillary Clinton,7922,0.4661645286571731
+nebraska,sheridan,Hillary Clinton,2608,0.5
+nebraska,sherman,Hillary Clinton,1573,0.5181159420289855
+nebraska,sioux,Hillary Clinton,736,0.5768025078369906
+nebraska,stanton,Hillary Clinton,2801,0.4712314939434724
+nebraska,thayer,Hillary Clinton,2690,0.5244687073503607
+nebraska,thomas,Hillary Clinton,393,0.5670995670995671
+nebraska,thurston,Hillary Clinton,2088,0.2952071256892408
+nebraska,valley,Hillary Clinton,2205,0.5290307101727447
+nebraska,washington,Hillary Clinton,10832,0.5438570065772957
+nebraska,wayne,Hillary Clinton,3776,0.4031603672859278
+nebraska,webster,Hillary Clinton,1708,0.4755011135857461
+nebraska,wheeler,Hillary Clinton,465,0.5969191270860077
+nebraska,york,Hillary Clinton,6381,0.46249184605348986
+nevada,churchill,Hillary Clinton,10938,0.45656801769837624
+nevada,clark,Hillary Clinton,767156,0.3658843802000938
+nevada,douglas,Hillary Clinton,27885,0.5882414986077125
+nevada,elko,Hillary Clinton,18559,0.3587805443860192
+nevada,esmeralda,Hillary Clinton,423,0.5096385542168674
+nevada,eureka,Hillary Clinton,854,0.4208969935929029
+nevada,humboldt,Hillary Clinton,6433,0.37803373097490744
+nevada,lander,Hillary Clinton,2413,0.41086327260343947
+nevada,lincoln,Hillary Clinton,2132,0.4151090342679128
+nevada,lyon,Hillary Clinton,23762,0.4571901335283026
+nevada,mineral,Hillary Clinton,1997,0.4518099547511312
+nevada,nye,Hillary Clinton,19595,0.4560582786389238
+nevada,pershing,Hillary Clinton,1982,0.29948624962224235
+nevada,storey,Hillary Clinton,2558,0.6599587203302374
+nevada,washoe,Hillary Clinton,209909,0.4744210119492918
+nevada,white pine,Hillary Clinton,3773,0.38215334751342045
+nevada,carson city,Hillary Clinton,25016,N/A
+new hampshire,carroll,Hillary Clinton,29616,0.6248233085086183
+new hampshire,grafton,Hillary Clinton,51191,0.5723565782265008
+new hampshire,hillsborough,Hillary Clinton,214157,0.5236304509945352
+new hampshire,merrimack,Hillary Clinton,83648,0.5627215790217223
+new hampshire,strafford,Hillary Clinton,69000,0.5431445709157889
+new hampshire,sullivan,Hillary Clinton,22683,0.5257022341707611
+new jersey,atlantic,Hillary Clinton,117291,0.4341650842300474
+new jersey,bergen,Hillary Clinton,419296,0.45261234187292404
+new jersey,burlington,Hillary Clinton,218943,0.48998952626490494
+new jersey,camden,Hillary Clinton,226592,0.4463653233209492
+new jersey,cape may,Hillary Clinton,48722,0.5174384027187765
+new jersey,cumberland,Hillary Clinton,54004,0.34906148197941983
+new jersey,essex,Hillary Clinton,310934,0.3933687482525533
+new jersey,gloucester,Hillary Clinton,139542,0.479619719326466
+new jersey,hudson,Hillary Clinton,219375,0.33013941477098296
+new jersey,hunterdon,Hillary Clinton,70836,0.5646462391990562
+new jersey,mercer,Hillary Clinton,156529,0.4252072671165151
+new jersey,middlesex,Hillary Clinton,326102,0.3950137242503749
+new jersey,monmouth,Hillary Clinton,314377,0.503745519397384
+new jersey,morris,Hillary Clinton,250416,0.5066493478115724
+new jersey,ocean,Hillary Clinton,274362,0.4673244863232446
+new jersey,passaic,Hillary Clinton,194802,0.3860301330284229
+new jersey,salem,Hillary Clinton,29494,0.462781648151635
+new jersey,somerset,Hillary Clinton,157092,0.4765764836511683
+new jersey,sussex,Hillary Clinton,74126,0.5183491370870745
+new jersey,union,Hillary Clinton,221975,0.4036606322910321
+new jersey,warren,Hillary Clinton,49236,0.46126173390043285
+new mexico,bernalillo,Hillary Clinton,274662,0.40615572985058734
+new mexico,catron,Hillary Clinton,2049,0.5894706559263522
+new mexico,chaves,Hillary Clinton,20271,0.30795290543106724
+new mexico,cibola,Hillary Clinton,8063,0.2981437657151309
+new mexico,colfax,Hillary Clinton,5332,0.42899670126317485
+new mexico,curry,Hillary Clinton,13370,0.2658580234639093
+new mexico,dona ana,Hillary Clinton,70648,N/A
+new mexico,eddy,Hillary Clinton,19667,0.34076063415056745
+new mexico,grant,Hillary Clinton,12811,0.45166408122972784
+new mexico,guadalupe,Hillary Clinton,1827,0.42
+new mexico,harding,Hillary Clinton,527,0.7329624478442281
+new mexico,hidalgo,Hillary Clinton,1872,0.4220018034265104
+new mexico,lea,Hillary Clinton,17712,0.24780345850355365
+new mexico,lincoln,Hillary Clinton,8902,0.46000413393964446
+new mexico,los alamos,Hillary Clinton,10885,0.6109333782342706
+new mexico,luna,Hillary Clinton,7295,0.29938030943489147
+new mexico,mckinley,Hillary Clinton,21703,0.2954316517383137
+new mexico,mora,Hillary Clinton,2441,0.5296159687567802
+new mexico,otero,Hillary Clinton,20060,0.3097208498023715
+new mexico,quay,Hillary Clinton,3572,0.4229721728833629
+new mexico,rio arriba,Hillary Clinton,14878,0.3779019558039116
+new mexico,roosevelt,Hillary Clinton,5950,0.31091602654543554
+new mexico,sandoval,Hillary Clinton,61690,0.4453476368204099
+new mexico,san juan,Hillary Clinton,46110,0.3595433775712303
+new mexico,san miguel,Hillary Clinton,10751,0.38103845472266523
+new mexico,santa fe,Hillary Clinton,71434,0.4823427730286702
+new mexico,sierra,Hillary Clinton,5181,0.4611071555713777
+new mexico,socorro,Hillary Clinton,6868,0.400419776119403
+new mexico,taos,Hillary Clinton,15260,0.4652864591273592
+new mexico,torrance,Hillary Clinton,6324,0.4054885868171326
+new mexico,union,Hillary Clinton,1702,0.4088397790055249
+new mexico,valencia,Hillary Clinton,27592,0.3646792931629241
+new york,albany,Hillary Clinton,139830,0.4548308086640016
+new york,allegany,Hillary Clinton,18692,0.3948958465373727
+new york,bronx,Hillary Clinton,399522,0.2774448699830903
+new york,broome,Hillary Clinton,86072,0.43930423420848475
+new york,cattaraugus,Hillary Clinton,31161,0.39987937273823887
+new york,cayuga,Hillary Clinton,33172,0.4236634396791744
+new york,chautauqua,Hillary Clinton,54234,0.4154938749243463
+new york,chemung,Hillary Clinton,36119,0.4165734386713569
+new york,chenango,Hillary Clinton,20160,0.4133519232346428
+new york,clinton,Hillary Clinton,32105,0.39774275874030574
+new york,columbia,Hillary Clinton,30902,0.5030113617866329
+new york,cortland,Hillary Clinton,20244,0.41921722924000826
+new york,delaware,Hillary Clinton,19792,0.43128282233989235
+new york,dutchess,Hillary Clinton,130934,0.4452946717952381
+new york,erie,Hillary Clinton,423625,0.4601398586207046
+new york,essex,Hillary Clinton,17218,0.45352298169366523
+new york,franklin,Hillary Clinton,16952,0.3354174910961615
+new york,fulton,Hillary Clinton,21214,0.39430493856991505
+new york,genesee,Hillary Clinton,26432,0.45212274639937056
+new york,greene,Hillary Clinton,22050,0.4630796370967742
+new york,hamilton,Hillary Clinton,3225,0.6863162374973398
+new york,herkimer,Hillary Clinton,26255,0.4190608440273255
+new york,jefferson,Hillary Clinton,38236,0.32856983269027507
+new york,lewis,Hillary Clinton,11325,0.42214932717038806
+new york,livingston,Hillary Clinton,30031,0.46672572423225167
+new york,madison,Hillary Clinton,30064,0.41967725724496063
+new york,monroe,Hillary Clinton,347790,0.46647093459159816
+new york,montgomery,Hillary Clinton,19054,0.38443224921313857
+new york,nassau,Hillary Clinton,636967,0.47014186176965544
+new york,niagara,Hillary Clinton,92402,0.4351237061942569
+new york,oneida,Hillary Clinton,91009,0.3935286079977861
+new york,onondaga,Hillary Clinton,208440,0.44703041325220844
+new york,ontario,Hillary Clinton,52258,0.47824216855341306
+new york,orange,Hillary Clinton,152021,0.4045231145041418
+new york,orleans,Hillary Clinton,16380,0.3948795834237362
+new york,oswego,Hillary Clinton,48180,0.40238860817638955
+new york,otsego,Hillary Clinton,25668,0.4242364141213804
+new york,putnam,Hillary Clinton,48563,0.4896204063114382
+new york,queens,Hillary Clinton,686393,0.29767615938326975
+new york,rensselaer,Hillary Clinton,71562,0.4488446774881457
+new york,rockland,Hillary Clinton,135087,0.418330912705663
+new york,saratoga,Hillary Clinton,114094,0.5046665310202674
+new york,schenectady,Hillary Clinton,67280,0.4348135174784952
+new york,schoharie,Hillary Clinton,14050,0.4473809902881707
+new york,schuyler,Hillary Clinton,8772,0.48660342819104674
+new york,seneca,Hillary Clinton,13980,0.40171259446567625
+new york,steuben,Hillary Clinton,42002,0.430564525222704
+new york,suffolk,Hillary Clinton,681254,0.4566146570265964
+new york,sullivan,Hillary Clinton,29955,0.40029666452854396
+new york,tioga,Hillary Clinton,22299,0.4518083274237666
+new york,tompkins,Hillary Clinton,42678,0.41432537910412987
+new york,ulster,Hillary Clinton,81355,0.4528326041701455
+new york,warren,Hillary Clinton,31408,0.48755045017075443
+new york,washington,Hillary Clinton,24528,0.3940494168299971
+new york,wayne,Hillary Clinton,39687,0.4347306963446561
+new york,westchester,Hillary Clinton,420655,0.43421420704334246
+new york,wyoming,Hillary Clinton,17298,0.42262399218177377
+new york,yates,Hillary Clinton,10066,0.40058898439987267
+north carolina,alamance,Hillary Clinton,71157,0.45312251252889446
+north carolina,alexander,Hillary Clinton,18271,0.4943452380952381
+north carolina,alleghany,Hillary Clinton,5315,0.48959100957995577
+north carolina,anson,Hillary Clinton,10545,0.4118818842277947
+north carolina,ashe,Hillary Clinton,13424,0.5041309899354064
+north carolina,avery,Hillary Clinton,8249,0.4717488276335354
+north carolina,beaufort,Hillary Clinton,23938,0.5051383232395704
+north carolina,bertie,Hillary Clinton,9347,0.4635948814601726
+north carolina,bladen,Hillary Clinton,15897,0.46642020948860136
+north carolina,brunswick,Hillary Clinton,68351,0.5592868072432106
+north carolina,buncombe,Hillary Clinton,138947,0.5514776506822674
+north carolina,burke,Hillary Clinton,38920,0.43563425526913735
+north carolina,cabarrus,Hillary Clinton,93289,0.47500458257805656
+north carolina,caldwell,Hillary Clinton,36320,0.4455457690326063
+north carolina,camden,Hillary Clinton,5006,0.4868702587045322
+north carolina,carteret,Hillary Clinton,37781,0.5498457329141926
+north carolina,caswell,Hillary Clinton,11070,0.48524963836409063
+north carolina,catawba,Hillary Clinton,72351,0.46519896866781973
+north carolina,chatham,Hillary Clinton,39849,0.5837569400700233
+north carolina,cherokee,Hillary Clinton,14181,0.5232455169360195
+north carolina,chowan,Hillary Clinton,7228,0.5072992700729927
+north carolina,clay,Hillary Clinton,6010,0.5657535536100913
+north carolina,cleveland,Hillary Clinton,44673,0.461259679917398
+north carolina,columbus,Hillary Clinton,23732,0.4187384208204676
+north carolina,craven,Hillary Clinton,47001,0.4569725725063926
+north carolina,cumberland,Hillary Clinton,127506,0.3849783969348104
+north carolina,currituck,Hillary Clinton,12669,0.5046204094638732
+north carolina,dare,Hillary Clinton,19609,0.5528645539641367
+north carolina,davidson,Hillary Clinton,74856,0.45787406872759745
+north carolina,davie,Hillary Clinton,21756,0.5223780253553592
+north carolina,duplin,Hillary Clinton,20856,0.3541939099570334
+north carolina,durham,Hillary Clinton,156134,0.519074579528114
+north carolina,edgecombe,Hillary Clinton,24886,0.46305565375955937
+north carolina,forsyth,Hillary Clinton,178312,0.48538102432185976
+north carolina,franklin,Hillary Clinton,30368,0.4769743042030533
+north carolina,gaston,Hillary Clinton,96431,0.452899929081012
+north carolina,gates,Hillary Clinton,5392,0.4676090538548261
+north carolina,graham,Hillary Clinton,4168,0.48532836516068933
+north carolina,granville,Hillary Clinton,27353,0.4702898799903717
+north carolina,greene,Hillary Clinton,8095,0.3863961813842482
+north carolina,guilford,Hillary Clinton,257405,0.4978309767083839
+north carolina,halifax,Hillary Clinton,25167,0.4822927446245832
+north carolina,harnett,Hillary Clinton,46065,0.35978724401330897
+north carolina,haywood,Hillary Clinton,30727,0.5151560875834088
+north carolina,henderson,Hillary Clinton,58176,0.520139118617397
+north carolina,hertford,Hillary Clinton,10186,0.4179214704796291
+north carolina,hoke,Hillary Clinton,18230,0.34566449875803484
+north carolina,hyde,Hillary Clinton,2304,0.4246221894581644
+north carolina,iredell,Hillary Clinton,82567,0.4872560533009153
+north carolina,jackson,Hillary Clinton,18713,0.4530444256143324
+north carolina,johnston,Hillary Clinton,85909,0.46411206673005445
+north carolina,jones,Hillary Clinton,5135,0.5252122327912447
+north carolina,lee,Hillary Clinton,25084,0.4224958312981085
+north carolina,lenoir,Hillary Clinton,26807,0.4623411117435022
+north carolina,lincoln,Hillary Clinton,40023,0.49652015333655886
+north carolina,mcdowell,Hillary Clinton,19875,0.44199079324838214
+north carolina,macon,Hillary Clinton,17734,0.5202112056321502
+north carolina,madison,Hillary Clinton,11269,0.5329140262933888
+north carolina,martin,Hillary Clinton,11964,0.5143151921588858
+north carolina,mecklenburg,Hillary Clinton,472857,0.4576457699000617
+north carolina,mitchell,Hillary Clinton,8096,0.5371906310132042
+north carolina,montgomery,Hillary Clinton,11540,0.4205845907136089
+north carolina,moore,Hillary Clinton,48692,0.5179283716081818
+north carolina,nash,Hillary Clinton,47665,0.5082315057684516
+north carolina,new hanover,Hillary Clinton,111905,0.5099989973658066
+north carolina,northampton,Hillary Clinton,9848,0.4796181756197341
+north carolina,onslow,Hillary Clinton,57135,0.29586151185310233
+north carolina,orange,Hillary Clinton,82340,0.5827400246287987
+north carolina,pamlico,Hillary Clinton,6870,0.5392041441017189
+north carolina,pasquotank,Hillary Clinton,17391,0.4415752589884217
+north carolina,pender,Hillary Clinton,27885,0.48558144394525127
+north carolina,perquimans,Hillary Clinton,6708,0.49825447522840377
+north carolina,person,Hillary Clinton,19615,0.5005103342689462
+north carolina,pitt,Hillary Clinton,80527,0.4573552714529934
+north carolina,polk,Hillary Clinton,10934,0.5356128147349858
+north carolina,randolph,Hillary Clinton,64575,0.4529195160441873
+north carolina,richmond,Hillary Clinton,19328,0.42545510576944245
+north carolina,robeson,Hillary Clinton,40858,0.3038673211363974
+north carolina,rockingham,Hillary Clinton,42278,0.461263187754345
+north carolina,rowan,Hillary Clinton,64369,0.4647681899246915
+north carolina,rutherford,Hillary Clinton,30307,0.4566026365348399
+north carolina,sampson,Hillary Clinton,25928,0.40793593354206326
+north carolina,scotland,Hillary Clinton,13928,0.3943263214518275
+north carolina,stanly,Hillary Clinton,29917,0.4935007093134506
+north carolina,stokes,Hillary Clinton,22550,0.4885287809527936
+north carolina,surry,Hillary Clinton,32196,0.44717908830800857
+north carolina,swain,Hillary Clinton,6124,0.4274745218483875
+north carolina,transylvania,Hillary Clinton,17869,0.5389208915161203
+north carolina,tyrrell,Hillary Clinton,1739,0.4201497946363856
+north carolina,union,Hillary Clinton,105710,0.476280586981694
+north carolina,vance,Hillary Clinton,19977,0.44933534267527386
+north carolina,wake,Hillary Clinton,527624,0.5161050513587246
+north carolina,warren,Hillary Clinton,9842,0.48705893997129707
+north carolina,washington,Hillary Clinton,6165,0.5033885849595819
+north carolina,watauga,Hillary Clinton,29985,0.5647637164974667
+north carolina,wayne,Hillary Clinton,50689,0.4076579112447926
+north carolina,wilkes,Hillary Clinton,31296,0.45822718088377407
+north carolina,wilson,Hillary Clinton,38135,0.46941161989167896
+north carolina,yadkin,Hillary Clinton,17624,0.46848666897046704
+north carolina,yancey,Hillary Clinton,9960,0.5675213675213675
+north dakota,adams,Hillary Clinton,1218,0.5081351689612015
+north dakota,barnes,Hillary Clinton,5344,0.48546511627906974
+north dakota,benson,Hillary Clinton,2011,0.29486803519061583
+north dakota,billings,Hillary Clinton,605,0.6381856540084389
+north dakota,bottineau,Hillary Clinton,3494,N/A
+north dakota,bowman,Hillary Clinton,1787,0.545315837656393
+north dakota,burke,Hillary Clinton,1052,0.44880546075085326
+north dakota,burleigh,Hillary Clinton,47979,0.514735385308601
+north dakota,cass,Hillary Clinton,80821,0.4734070594299504
+north dakota,cavalier,Hillary Clinton,2006,0.5241703684348054
+north dakota,dickey,Hillary Clinton,2407,0.47625643055005934
+north dakota,divide,Hillary Clinton,1219,0.4957299715331436
+north dakota,dunn,Hillary Clinton,2243,0.48995194408038445
+north dakota,eddy,Hillary Clinton,1231,0.5340563991323211
+north dakota,emmons,Hillary Clinton,1981,0.5831616131881071
+north dakota,foster,Hillary Clinton,1719,0.5169924812030076
+north dakota,golden valley,Hillary Clinton,957,0.5093134646088345
+north dakota,grand forks,Hillary Clinton,30365,0.43161530589037983
+north dakota,grant,Hillary Clinton,1381,0.5763772954924875
+north dakota,griggs,Hillary Clinton,1265,0.5528846153846154
+north dakota,hettinger,Hillary Clinton,1296,0.48776815957847197
+north dakota,kidder,Hillary Clinton,1376,0.5618619844834626
+north dakota,lamoure,Hillary Clinton,2151,0.5200676982591876
+north dakota,logan,Hillary Clinton,1067,0.5537104307213285
+north dakota,mchenry,Hillary Clinton,2820,0.4719665271966527
+north dakota,mcintosh,Hillary Clinton,1446,0.5322046374677953
+north dakota,mckenzie,Hillary Clinton,4672,0.3651711739878068
+north dakota,mclean,Hillary Clinton,5315,0.5499793046357616
+north dakota,mercer,Hillary Clinton,4682,0.5328932392442522
+north dakota,morton,Hillary Clinton,15832,0.5233892029488578
+north dakota,mountrail,Hillary Clinton,4106,0.39821549801183204
+north dakota,nelson,Hillary Clinton,1717,0.5892244337680165
+north dakota,oliver,Hillary Clinton,1017,0.5453083109919571
+north dakota,pembina,Hillary Clinton,3153,0.44844261129284596
+north dakota,pierce,Hillary Clinton,2071,0.4846711912005617
+north dakota,ramsey,Hillary Clinton,5305,0.45481824417009603
+north dakota,ransom,Hillary Clinton,2359,0.43276463034305634
+north dakota,renville,Hillary Clinton,1293,0.5068600548804391
+north dakota,richland,Hillary Clinton,7592,0.46616726022350485
+north dakota,rolette,Hillary Clinton,3755,0.2554769356375017
+north dakota,sargent,Hillary Clinton,1997,0.516554578375582
+north dakota,sheridan,Hillary Clinton,787,0.6003051106025934
+north dakota,sioux,Hillary Clinton,1232,0.2814713273931917
+north dakota,slope,Hillary Clinton,430,0.5505761843790012
+north dakota,stark,Hillary Clinton,12322,0.3867424123536612
+north dakota,steele,Hillary Clinton,999,0.5216710182767624
+north dakota,stutsman,Hillary Clinton,10155,0.4824915664940371
+north dakota,towner,Hillary Clinton,1157,0.5139937805419813
+north dakota,traill,Hillary Clinton,3933,0.4924251909352698
+north dakota,walsh,Hillary Clinton,4636,0.42720235901216363
+north dakota,ward,Hillary Clinton,27412,0.38770632080675504
+north dakota,wells,Hillary Clinton,2383,0.581929181929182
+north dakota,williams,Hillary Clinton,12807,0.36279425512025154
+ohio,adams,Hillary Clinton,11359,0.4067535629878966
+ohio,allen,Hillary Clinton,45894,0.4408857293818147
+ohio,ashland,Hillary Clinton,24590,0.4612643031326205
+ohio,ashtabula,Hillary Clinton,40867,0.41529815861143854
+ohio,athens,Hillary Clinton,29443,0.44687794068542636
+ohio,auglaize,Hillary Clinton,23627,0.5166178335592776
+ohio,belmont,Hillary Clinton,31122,0.45122004262537513
+ohio,brown,Hillary Clinton,19607,0.44870357232761976
+ohio,butler,Hillary Clinton,173839,0.4623402252139639
+ohio,carroll,Hillary Clinton,13074,0.47167905332275056
+ohio,champaign,Hillary Clinton,18104,0.4646459461540436
+ohio,clark,Hillary Clinton,61429,0.4525289879628129
+ohio,clermont,Hillary Clinton,99121,0.4907101660932201
+ohio,clinton,Hillary Clinton,18675,0.4463538803508688
+ohio,columbiana,Hillary Clinton,46201,0.4412112993487022
+ohio,coshocton,Hillary Clinton,15552,0.42518522568827405
+ohio,crawford,Hillary Clinton,19237,0.454517531424251
+ohio,cuyahoga,Hillary Clinton,603822,0.47970389413532116
+ohio,darke,Hillary Clinton,25484,0.49025605509705467
+ohio,defiance,Hillary Clinton,18192,0.47466471846788083
+ohio,delaware,Hillary Clinton,103860,0.5370467084817805
+ohio,erie,Hillary Clinton,37578,0.4986464968152866
+ohio,fairfield,Hillary Clinton,72913,0.4820566728813783
+ohio,fayette,Hillary Clinton,11162,0.390129670406487
+ohio,franklin,Hillary Clinton,581140,0.46218106452592916
+ohio,fulton,Hillary Clinton,21225,0.5017611876787783
+ohio,gallia,Hillary Clinton,12931,0.42748520612251645
+ohio,geauga,Hillary Clinton,49941,0.5318870215349224
+ohio,greene,Hillary Clinton,81858,0.4983076848154281
+ohio,guernsey,Hillary Clinton,16557,0.42031376929325753
+ohio,hamilton,Hillary Clinton,409109,0.5053679494321993
+ohio,hancock,Hillary Clinton,36023,0.47600359417532173
+ohio,hardin,Hillary Clinton,12294,0.3888537449392713
+ohio,harrison,Hillary Clinton,7079,0.45982461838259175
+ohio,henry,Hillary Clinton,13932,0.5069684509297333
+ohio,highland,Hillary Clinton,18501,0.43065642458100556
+ohio,hocking,Hillary Clinton,12838,0.45045614035087717
+ohio,holmes,Hillary Clinton,11054,0.25190283031767013
+ohio,huron,Hillary Clinton,24834,0.4259179858336049
+ohio,jackson,Hillary Clinton,13693,0.420559599496299
+ohio,jefferson,Hillary Clinton,32201,0.47708719164382546
+ohio,knox,Hillary Clinton,28687,0.470270979164276
+ohio,lake,Hillary Clinton,116246,0.5057780330322491
+ohio,lawrence,Hillary Clinton,26607,0.43673161203486366
+ohio,licking,Hillary Clinton,82761,0.4850859557707299
+ohio,logan,Hillary Clinton,21571,0.476707182320442
+ohio,lorain,Hillary Clinton,140562,0.4602297841966885
+ohio,lucas,Hillary Clinton,197556,0.455583408089329
+ohio,madison,Hillary Clinton,17290,0.39171707560207525
+ohio,mahoning,Hillary Clinton,115072,0.4963294600726344
+ohio,marion,Hillary Clinton,26322,0.4022863780165365
+ohio,medina,Hillary Clinton,91373,0.5187933638417951
+ohio,meigs,Hillary Clinton,9985,0.43075927523727353
+ohio,mercer,Hillary Clinton,21726,0.533506863443263
+ohio,miami,Hillary Clinton,52734,0.5066922892145088
+ohio,monroe,Hillary Clinton,6795,0.47674173858135127
+ohio,montgomery,Hillary Clinton,258301,0.48573180111212033
+ohio,morgan,Hillary Clinton,6443,0.4372582287071598
+ohio,morrow,Hillary Clinton,16548,0.4735712445983459
+ohio,muskingum,Hillary Clinton,36991,0.42915980230642503
+ohio,noble,Hillary Clinton,6013,0.4156355844335384
+ohio,ottawa,Hillary Clinton,22218,0.5451734799038132
+ohio,paulding,Hillary Clinton,9047,0.47718761538055804
+ohio,perry,Hillary Clinton,14995,0.4169099452275697
+ohio,pickaway,Hillary Clinton,24745,0.43420660127393007
+ohio,pike,Hillary Clinton,11879,0.4224846178468542
+ohio,portage,Hillary Clinton,76139,0.46827681218249134
+ohio,preble,Hillary Clinton,20565,0.49797806136038936
+ohio,putnam,Hillary Clinton,18767,0.5515488156115911
+ohio,richland,Hillary Clinton,55214,0.45373413976727367
+ohio,ross,Hillary Clinton,30380,0.3942945398382847
+ohio,sandusky,Hillary Clinton,28044,0.47152585119798235
+ohio,scioto,Hillary Clinton,30784,0.399833748960931
+ohio,seneca,Hillary Clinton,23987,0.4310332434860737
+ohio,shelby,Hillary Clinton,23740,0.484193351009586
+ohio,stark,Hillary Clinton,175239,0.4676594211600817
+ohio,summit,Hillary Clinton,257979,0.47616226273007156
+ohio,trumbull,Hillary Clinton,96029,0.4722861583254643
+ohio,tuscarawas,Hillary Clinton,41289,0.44521722252773915
+ohio,union,Hillary Clinton,27429,0.5043208060601603
+ohio,van wert,Hillary Clinton,13770,0.4862459832621208
+ohio,vinton,Hillary Clinton,5502,0.420577893288488
+ohio,warren,Hillary Clinton,117267,0.5238314333702605
+ohio,washington,Hillary Clinton,29840,0.4890199934447722
+ohio,wayne,Hillary Clinton,49853,0.42897585488839557
+ohio,williams,Hillary Clinton,17308,0.467695300889021
+ohio,wood,Hillary Clinton,64341,0.4976679429168117
+ohio,wyandot,Hillary Clinton,10592,0.47763347763347763
+oklahoma,adair,Hillary Clinton,6513,0.2926007457657577
+oklahoma,alfalfa,Hillary Clinton,2258,0.3816123035321954
+oklahoma,atoka,Hillary Clinton,5018,0.36129310965512274
+oklahoma,beaver,Hillary Clinton,2243,0.41118240146654444
+oklahoma,beckham,Hillary Clinton,7552,0.3206249469304577
+oklahoma,blaine,Hillary Clinton,3793,0.38854742880557264
+oklahoma,bryan,Hillary Clinton,13818,0.30692343572999264
+oklahoma,caddo,Hillary Clinton,9348,0.3176026908572011
+oklahoma,canadian,Hillary Clinton,55278,0.41513089712972556
+oklahoma,carter,Hillary Clinton,18534,0.3816092900675342
+oklahoma,cherokee,Hillary Clinton,16490,0.3408715065321647
+oklahoma,choctaw,Hillary Clinton,5426,0.36211959423384943
+oklahoma,cimarron,Hillary Clinton,1079,0.4849438202247191
+oklahoma,cleveland,Hillary Clinton,109450,0.3996844884440241
+oklahoma,coal,Hillary Clinton,2399,0.4277817403708987
+oklahoma,comanche,Hillary Clinton,32564,0.2626023144228055
+oklahoma,cotton,Hillary Clinton,2602,0.4332334332334332
+oklahoma,craig,Hillary Clinton,5785,0.39329662111632335
+oklahoma,creek,Hillary Clinton,28830,0.4071976384514343
+oklahoma,custer,Hillary Clinton,10541,0.35653644512092003
+oklahoma,delaware,Hillary Clinton,15716,0.37684634567427583
+oklahoma,dewey,Hillary Clinton,2248,0.4510433386837881
+oklahoma,ellis,Hillary Clinton,1827,0.4326308311626806
+oklahoma,garfield,Hillary Clinton,21710,0.3432519605363015
+oklahoma,garvin,Hillary Clinton,10546,0.37772206303724926
+oklahoma,grady,Hillary Clinton,22286,0.40847522865155156
+oklahoma,grant,Hillary Clinton,2201,0.4891111111111111
+oklahoma,greer,Hillary Clinton,1896,0.3143757254186702
+oklahoma,harmon,Hillary Clinton,977,0.3511861969805895
+oklahoma,harper,Hillary Clinton,1499,0.3917929952953476
+oklahoma,haskell,Hillary Clinton,4738,0.3716078431372549
+oklahoma,hughes,Hillary Clinton,4526,0.33298999411418484
+oklahoma,jackson,Hillary Clinton,7806,0.30661062885423623
+oklahoma,jefferson,Hillary Clinton,2350,0.3750398978614746
+oklahoma,johnston,Hillary Clinton,4018,0.36637184280113066
+oklahoma,kay,Hillary Clinton,16803,0.37153407332065624
+oklahoma,kingfisher,Hillary Clinton,6131,0.3933153707980498
+oklahoma,kiowa,Hillary Clinton,3493,0.3831724440544098
+oklahoma,latimer,Hillary Clinton,4056,0.3817771084337349
+oklahoma,lincoln,Hillary Clinton,14025,0.4015403114979386
+oklahoma,logan,Hillary Clinton,18979,0.4185374674723239
+oklahoma,love,Hillary Clinton,3789,0.3860417727967397
+oklahoma,mcclain,Hillary Clinton,16858,0.443947014984331
+oklahoma,mccurtain,Hillary Clinton,10726,0.32333524251650436
+oklahoma,mcintosh,Hillary Clinton,7963,0.40182671443709944
+oklahoma,major,Hillary Clinton,3407,0.4384249131385922
+oklahoma,marshall,Hillary Clinton,5492,0.3376367883929669
+oklahoma,mayes,Hillary Clinton,15717,0.3843821076573162
+oklahoma,murray,Hillary Clinton,5528,0.39884559884559884
+oklahoma,muskogee,Hillary Clinton,24216,0.34934145039599535
+oklahoma,noble,Hillary Clinton,4878,0.42233766233766235
+oklahoma,nowata,Hillary Clinton,4237,0.4027949424850271
+oklahoma,okfuskee,Hillary Clinton,3943,0.32567935904848433
+oklahoma,oklahoma,Hillary Clinton,273942,0.35239453904367657
+oklahoma,okmulgee,Hillary Clinton,13949,0.3570715474209651
+oklahoma,osage,Hillary Clinton,18966,0.4006506400777388
+oklahoma,ottawa,Hillary Clinton,10690,0.33550938421944637
+oklahoma,pawnee,Hillary Clinton,6364,0.3871281708133098
+oklahoma,payne,Hillary Clinton,27760,0.3411870260437791
+oklahoma,pittsburg,Hillary Clinton,17271,0.3862375883352715
+oklahoma,pontotoc,Hillary Clinton,14831,0.38686873956594325
+oklahoma,pottawatomie,Hillary Clinton,25452,0.3560766099134011
+oklahoma,pushmataha,Hillary Clinton,4483,0.40163053216269484
+oklahoma,roger mills,Hillary Clinton,1759,0.46620726212562946
+oklahoma,rogers,Hillary Clinton,40862,0.4536190053285968
+oklahoma,seminole,Hillary Clinton,8037,0.3164297807000276
+oklahoma,sequoyah,Hillary Clinton,14437,0.3455315686180652
+oklahoma,stephens,Hillary Clinton,17904,0.4016511127063891
+oklahoma,texas,Hillary Clinton,5780,0.26951412850881284
+oklahoma,tillman,Hillary Clinton,2706,0.3576053918329589
+oklahoma,tulsa,Hillary Clinton,247054,0.38573859821693446
+oklahoma,wagoner,Hillary Clinton,31300,0.40790794052102747
+oklahoma,washington,Hillary Clinton,22224,0.4266379988865639
+oklahoma,washita,Hillary Clinton,4631,0.396252246085394
+oklahoma,woods,Hillary Clinton,3668,0.3942814145974417
+oklahoma,woodward,Hillary Clinton,7595,0.35149018881895594
+oregon,baker,Hillary Clinton,8779,0.5527641354993074
+oregon,benton,Hillary Clinton,48753,0.5519228374446696
+oregon,clackamas,Hillary Clinton,214039,0.5355701406491229
+oregon,clatsop,Hillary Clinton,19664,0.5202529301267297
+oregon,columbia,Hillary Clinton,26618,0.5361559843693349
+oregon,coos,Hillary Clinton,31313,0.4998643104576728
+oregon,crook,Hillary Clinton,12172,0.5673269634117921
+oregon,curry,Hillary Clinton,12611,0.5656932669447808
+oregon,deschutes,Hillary Clinton,98557,0.5656198707574349
+oregon,douglas,Hillary Clinton,53521,0.4994307789929454
+oregon,gilliam,Hillary Clinton,1019,0.5455032119914347
+oregon,grant,Hillary Clinton,4340,0.6021923130289996
+oregon,harney,Hillary Clinton,3974,0.5558041958041958
+oregon,hood river,Hillary Clinton,10910,0.475858158503075
+oregon,jackson,Hillary Clinton,109327,0.5171497093229519
+oregon,jefferson,Hillary Clinton,9459,0.4196353311743046
+oregon,josephine,Hillary Clinton,44560,0.527162597009275
+oregon,klamath,Hillary Clinton,30507,0.4645500228414801
+oregon,lake,Hillary Clinton,3930,0.5052063247204011
+oregon,lane,Hillary Clinton,191950,0.5303277284456798
+oregon,lincoln,Hillary Clinton,25256,0.5373731355986298
+oregon,linn,Hillary Clinton,58719,0.4883645497188862
+oregon,malheur,Hillary Clinton,10435,0.3454039919234716
+oregon,marion,Hillary Clinton,136840,0.41585121254482466
+oregon,morrow,Hillary Clinton,4167,0.3743935309973046
+oregon,multnomah,Hillary Clinton,399103,0.5051885550526071
+oregon,polk,Hillary Clinton,40295,0.5103087561105342
+oregon,sherman,Hillary Clinton,1017,0.6021314387211367
+oregon,tillamook,Hillary Clinton,13803,0.5400023473260045
+oregon,umatilla,Hillary Clinton,27597,0.3609007807289419
+oregon,union,Hillary Clinton,12968,0.5045325448391238
+oregon,wallowa,Hillary Clinton,4366,0.6408337002788786
+oregon,wasco,Hillary Clinton,11964,0.46996896727815535
+oregon,washington,Hillary Clinton,269232,0.4701395582750094
+oregon,wheeler,Hillary Clinton,818,0.6168929110105581
+oregon,yamhill,Hillary Clinton,48753,0.48088892396011085
+pennsylvania,adams,Hillary Clinton,47489,0.46645646707527894
+pennsylvania,allegheny,Hillary Clinton,650114,0.5290525029153819
+pennsylvania,armstrong,Hillary Clinton,31618,0.4728985940771762
+pennsylvania,beaver,Hillary Clinton,83571,0.49673385203368975
+pennsylvania,bedford,Hillary Clinton,23637,0.484881431033068
+pennsylvania,berks,Hillary Clinton,183065,0.4409738448419562
+pennsylvania,blair,Hillary Clinton,54909,0.44069633054030627
+pennsylvania,bradford,Hillary Clinton,25708,0.41703977678281745
+pennsylvania,bucks,Hillary Clinton,344297,0.5506320408907427
+pennsylvania,butler,Hillary Clinton,97071,0.5220667326391877
+pennsylvania,cambria,Hillary Clinton,63072,0.46366924456729497
+pennsylvania,cameron,Hillary Clinton,2186,0.45770519262981574
+pennsylvania,carbon,Hillary Clinton,28776,0.4513669944943767
+pennsylvania,centre,Hillary Clinton,76148,0.4745428938217442
+pennsylvania,chester,Hillary Clinton,268800,0.5218860121734572
+pennsylvania,clarion,Hillary Clinton,17535,0.45104949068834244
+pennsylvania,clearfield,Hillary Clinton,34271,0.42457692212393766
+pennsylvania,clinton,Hillary Clinton,15394,0.39071065989847714
+pennsylvania,columbia,Hillary Clinton,28228,0.4233289842683823
+pennsylvania,crawford,Hillary Clinton,37492,0.4333834238816322
+pennsylvania,cumberland,Hillary Clinton,121617,0.4948930594439742
+pennsylvania,dauphin,Hillary Clinton,130872,0.47923540289653405
+pennsylvania,delaware,Hillary Clinton,297634,0.5284460029295575
+pennsylvania,elk,Hillary Clinton,14426,0.4669061721202706
+pennsylvania,erie,Hillary Clinton,123679,0.4446102079993098
+pennsylvania,fayette,Hillary Clinton,53767,0.4034986341668418
+pennsylvania,forest,Hillary Clinton,2401,0.32529467551822244
+pennsylvania,franklin,Hillary Clinton,69731,0.45561523182269614
+pennsylvania,fulton,Hillary Clinton,6771,0.4666758563650148
+pennsylvania,greene,Hillary Clinton,15764,0.42147478744452166
+pennsylvania,huntingdon,Hillary Clinton,19706,0.43310841996527394
+pennsylvania,indiana,Hillary Clinton,37770,0.43540410619387415
+pennsylvania,jefferson,Hillary Clinton,19478,0.4392476998015515
+pennsylvania,juniata,Hillary Clinton,10454,0.4276539169564328
+pennsylvania,lackawanna,Hillary Clinton,103456,0.4883155624153344
+pennsylvania,lancaster,Hillary Clinton,241112,0.4499944943272908
+pennsylvania,lawrence,Hillary Clinton,40753,0.46246113342865575
+pennsylvania,lebanon,Hillary Clinton,61845,0.4498505226252737
+pennsylvania,lehigh,Hillary Clinton,160993,0.44756331489255236
+pennsylvania,luzerne,Hillary Clinton,134983,0.42439610260989313
+pennsylvania,lycoming,Hillary Clinton,50565,0.4374210626481427
+pennsylvania,mckean,Hillary Clinton,16296,0.38433962264150945
+pennsylvania,mercer,Hillary Clinton,52309,0.4603692881785538
+pennsylvania,mifflin,Hillary Clinton,18601,0.400650483554828
+pennsylvania,monroe,Hillary Clinton,69752,0.4189787423189433
+pennsylvania,montgomery,Hillary Clinton,434687,0.5319354365011381
+pennsylvania,montour,Hillary Clinton,8556,0.4675665336903656
+pennsylvania,northampton,Hillary Clinton,143519,0.4782531907094538
+pennsylvania,northumberland,Hillary Clinton,36622,0.39430220288981244
+pennsylvania,perry,Hillary Clinton,21158,0.46147135161072217
+pennsylvania,philadelphia,Hillary Clinton,707631,0.45041484598027454
+pennsylvania,pike,Hillary Clinton,26101,0.471801453309714
+pennsylvania,potter,Hillary Clinton,7784,0.45557766592531895
+pennsylvania,schuylkill,Hillary Clinton,62869,0.43623583616089706
+pennsylvania,snyder,Hillary Clinton,16363,0.4039349280406823
+pennsylvania,somerset,Hillary Clinton,35773,0.4745499648461855
+pennsylvania,sullivan,Hillary Clinton,3136,0.5003989149513324
+pennsylvania,susquehanna,Hillary Clinton,18863,0.4515380011968881
+pennsylvania,tioga,Hillary Clinton,18325,0.4413641947060382
+pennsylvania,union,Hillary Clinton,17468,0.3837518398910345
+pennsylvania,venango,Hillary Clinton,23348,0.4409109793405597
+pennsylvania,warren,Hillary Clinton,18434,0.45703376803689194
+pennsylvania,washington,Hillary Clinton,101450,0.48840254575915426
+pennsylvania,wayne,Hillary Clinton,24018,0.4634621693070644
+pennsylvania,westmoreland,Hillary Clinton,182051,0.5100567909605153
+pennsylvania,wyoming,Hillary Clinton,13144,0.47260175463828563
+pennsylvania,york,Hillary Clinton,205986,0.4663049162291931
+rhode island,bristol,Hillary Clinton,25475,0.5185539520019541
+rhode island,newport,Hillary Clinton,41045,0.4929797379262302
+rhode island,providence,Hillary Clinton,248474,0.3920712839666302
+south carolina,abbeville,Hillary Clinton,10775,0.43454589449911274
+south carolina,aiken,Hillary Clinton,74851,0.4517587272463908
+south carolina,allendale,Hillary Clinton,3592,0.3809119830328738
+south carolina,anderson,Hillary Clinton,80483,0.415503355704698
+south carolina,bamberg,Hillary Clinton,6214,0.4232393406892794
+south carolina,barnwell,Hillary Clinton,9485,0.43547128231027044
+south carolina,beaufort,Hillary Clinton,78524,0.4367394157823311
+south carolina,berkeley,Hillary Clinton,79517,0.391582047216176
+south carolina,calhoun,Hillary Clinton,7549,0.5114845179212684
+south carolina,charleston,Hillary Clinton,176345,0.45296807171662684
+south carolina,cherokee,Hillary Clinton,21759,0.38503326727066817
+south carolina,chester,Hillary Clinton,14192,0.4378895402653502
+south carolina,chesterfield,Hillary Clinton,16581,0.35940175571691774
+south carolina,clarendon,Hillary Clinton,15395,0.4524082400305622
+south carolina,colleton,Hillary Clinton,17251,0.46077619594540453
+south carolina,darlington,Hillary Clinton,29674,0.4394845971563981
+south carolina,dillon,Hillary Clinton,11698,0.3756462541344209
+south carolina,dorchester,Hillary Clinton,62567,0.40944577871722215
+south carolina,edgefield,Hillary Clinton,11644,0.4347696213874991
+south carolina,fairfield,Hillary Clinton,11267,0.49256798111392847
+south carolina,florence,Hillary Clinton,57931,0.41762606783693185
+south carolina,georgetown,Hillary Clinton,31657,0.5151165061181984
+south carolina,greenville,Hillary Clinton,215165,0.4383071908739051
+south carolina,greenwood,Hillary Clinton,28763,0.4111231811554844
+south carolina,hampton,Hillary Clinton,8806,0.4411160647197315
+south carolina,horry,Hillary Clinton,132920,0.43017991048167076
+south carolina,jasper,Hillary Clinton,11427,0.41613255644573927
+south carolina,kershaw,Hillary Clinton,28995,0.4554593864375363
+south carolina,lancaster,Hillary Clinton,38938,0.4513975029271629
+south carolina,laurens,Hillary Clinton,26566,0.3999638668493398
+south carolina,lee,Hillary Clinton,8156,0.4579706889774833
+south carolina,lexington,Hillary Clinton,122093,0.4334534481228366
+south carolina,mccormick,Hillary Clinton,5216,0.5401822700911351
+south carolina,marion,Hillary Clinton,14276,0.44935473717343405
+south carolina,marlboro,Hillary Clinton,10389,0.37661772702555735
+south carolina,newberry,Hillary Clinton,16807,0.4449592290585619
+south carolina,oconee,Hillary Clinton,33635,0.44336501324756467
+south carolina,orangeburg,Hillary Clinton,38910,0.43641135499500894
+south carolina,pickens,Hillary Clinton,49049,0.4036954732510288
+south carolina,richland,Hillary Clinton,168722,0.41556324013319934
+south carolina,saluda,Hillary Clinton,8564,0.42482265985415946
+south carolina,spartanburg,Hillary Clinton,121090,0.4083181030354939
+south carolina,sumter,Hillary Clinton,44086,0.41143806404046623
+south carolina,union,Hillary Clinton,12092,0.4358576938326785
+south carolina,williamsburg,Hillary Clinton,15054,0.46292936437159815
+south carolina,york,Hillary Clinton,114357,0.4563947223486028
+south dakota,aurora,Hillary Clinton,1407,0.5127551020408163
+south dakota,beadle,Hillary Clinton,6772,0.3735863628840955
+south dakota,bennett,Hillary Clinton,1149,0.3377425044091711
+south dakota,bon homme,Hillary Clinton,2974,0.42834509577992225
+south dakota,brookings,Hillary Clinton,12680,0.37514792899408284
+south dakota,brown,Hillary Clinton,16114,0.41963541666666665
+south dakota,brule,Hillary Clinton,2288,0.43639137898149916
+south dakota,buffalo,Hillary Clinton,490,0.23355576739752146
+south dakota,butte,Hillary Clinton,4351,0.4262760850396787
+south dakota,campbell,Hillary Clinton,831,0.5881104033970276
+south dakota,charles mix,Hillary Clinton,3433,0.36677350427350425
+south dakota,clark,Hillary Clinton,1657,0.4540970128802412
+south dakota,clay,Hillary Clinton,5069,0.3681725740848344
+south dakota,codington,Hillary Clinton,11669,0.41825871895050004
+south dakota,corson,Hillary Clinton,1175,0.281437125748503
+south dakota,custer,Hillary Clinton,4721,0.5590952155376598
+south dakota,davison,Hillary Clinton,7952,0.39927696324563167
+south dakota,day,Hillary Clinton,2747,0.4998180494905386
+south dakota,deuel,Hillary Clinton,2080,0.481147351376359
+south dakota,dewey,Hillary Clinton,1708,0.29938650306748466
+south dakota,douglas,Hillary Clinton,1605,0.5436991869918699
+south dakota,edmunds,Hillary Clinton,1918,0.47997997997998
+south dakota,fall river,Hillary Clinton,3563,0.5239705882352941
+south dakota,faulk,Hillary Clinton,1118,0.4846120502817512
+south dakota,grant,Hillary Clinton,3564,0.4937655860349127
+south dakota,gregory,Hillary Clinton,2091,0.4988072519083969
+south dakota,haakon,Hillary Clinton,1044,0.5643243243243243
+south dakota,hamlin,Hillary Clinton,2762,0.4621820615796519
+south dakota,hand,Hillary Clinton,1818,0.5499092558983666
+south dakota,hanson,Hillary Clinton,2006,0.5922645408916445
+south dakota,harding,Hillary Clinton,770,0.6062992125984252
+south dakota,hughes,Hillary Clinton,8175,0.46567929364853317
+south dakota,hutchinson,Hillary Clinton,3365,0.4630521535709371
+south dakota,hyde,Hillary Clinton,690,0.49783549783549785
+south dakota,jackson,Hillary Clinton,1095,0.3340451494813911
+south dakota,jerauld,Hillary Clinton,967,0.479187314172448
+south dakota,jones,Hillary Clinton,558,0.608505997818975
+south dakota,kingsbury,Hillary Clinton,2551,0.5151453957996769
+south dakota,lake,Hillary Clinton,6786,0.5501864764066807
+south dakota,lawrence,Hillary Clinton,11842,0.47698070648890323
+south dakota,lincoln,Hillary Clinton,25231,0.4764251590853302
+south dakota,lyman,Hillary Clinton,1421,0.3661427467147642
+south dakota,mccook,Hillary Clinton,2587,0.4718219952580704
+south dakota,mcpherson,Hillary Clinton,1137,0.47434292866082606
+south dakota,marshall,Hillary Clinton,1947,0.40385812072184196
+south dakota,meade,Hillary Clinton,11621,0.43410534180052296
+south dakota,mellette,Hillary Clinton,683,0.33728395061728395
+south dakota,miner,Hillary Clinton,1064,0.48210240144993205
+south dakota,minnehaha,Hillary Clinton,78263,0.42664318928908246
+south dakota,moody,Hillary Clinton,2933,0.4545172787850612
+south dakota,pennington,Hillary Clinton,47743,0.441704907112723
+south dakota,perkins,Hillary Clinton,1606,0.5382037533512064
+south dakota,potter,Hillary Clinton,1337,0.5825708061002178
+south dakota,roberts,Hillary Clinton,3889,0.38093838769713
+south dakota,sanborn,Hillary Clinton,1123,0.4782793867120954
+south dakota,oglala lakota,Hillary Clinton,2905,0.20232622927984398
+south dakota,spink,Hillary Clinton,2951,0.450259383582545
+south dakota,stanley,Hillary Clinton,1567,0.5268997982515131
+south dakota,sully,Hillary Clinton,861,0.6145610278372591
+south dakota,todd,Hillary Clinton,2125,0.21163230753908974
+south dakota,tripp,Hillary Clinton,2630,0.4850608631501291
+south dakota,turner,Hillary Clinton,4150,0.5103923256671996
+south dakota,union,Hillary Clinton,7897,0.5291122278056951
+south dakota,walworth,Hillary Clinton,2477,0.45836417468541824
+south dakota,yankton,Hillary Clinton,9623,0.42425712018340533
+south dakota,ziebach,Hillary Clinton,767,0.2703560098695805
+tennessee,anderson,Hillary Clinton,29881,0.3960056191687871
+tennessee,bedford,Hillary Clinton,15355,0.3270639856862912
+tennessee,benton,Hillary Clinton,6328,0.3901356350184957
+tennessee,bledsoe,Hillary Clinton,4664,0.3194301760153414
+tennessee,blount,Hillary Clinton,52208,0.4112355656379476
+tennessee,bradley,Hillary Clinton,38666,0.37259814597105245
+tennessee,campbell,Hillary Clinton,12532,0.31509604747058234
+tennessee,cannon,Hillary Clinton,5314,0.38675400291120815
+tennessee,carroll,Hillary Clinton,10384,0.37109570438138806
+tennessee,carter,Hillary Clinton,21084,0.37399556541019957
+tennessee,cheatham,Hillary Clinton,15924,0.402192306720885
+tennessee,chester,Hillary Clinton,6507,0.3800151842550955
+tennessee,claiborne,Hillary Clinton,10740,0.340358104896213
+tennessee,clay,Hillary Clinton,2920,0.3810518073861412
+tennessee,cocke,Hillary Clinton,12126,0.34509647674881894
+tennessee,coffee,Hillary Clinton,19971,0.369197493206145
+tennessee,crockett,Hillary Clinton,5397,0.3700123406005759
+tennessee,cumberland,Hillary Clinton,26360,0.45278870433035023
+tennessee,davidson,Hillary Clinton,249068,0.36638800340691946
+tennessee,decatur,Hillary Clinton,4592,0.39586206896551723
+tennessee,dekalb,Hillary Clinton,6955,0.3605121293800539
+tennessee,dickson,Hillary Clinton,18699,0.3642615030973624
+tennessee,dyer,Hillary Clinton,13336,0.3532434508515879
+tennessee,fayette,Hillary Clinton,19394,0.49373727087576375
+tennessee,fentress,Hillary Clinton,7333,0.4081825772335096
+tennessee,franklin,Hillary Clinton,16404,0.39677817284667294
+tennessee,gibson,Hillary Clinton,19547,0.3962577793995419
+tennessee,giles,Hillary Clinton,11137,0.38439236530562937
+tennessee,grainger,Hillary Clinton,8008,0.35049019607843135
+tennessee,greene,Hillary Clinton,23583,0.3438456827924066
+tennessee,grundy,Hillary Clinton,4763,0.3571267901327135
+tennessee,hamblen,Hillary Clinton,20692,0.3266143671175793
+tennessee,hamilton,Hillary Clinton,142408,0.40263507591393594
+tennessee,hancock,Hillary Clinton,2231,0.33921240687243426
+tennessee,hardeman,Hillary Clinton,9273,0.3591819343843204
+tennessee,hardin,Hillary Clinton,9949,0.3863089228857653
+tennessee,hawkins,Hillary Clinton,20774,0.3685293595884336
+tennessee,haywood,Hillary Clinton,6834,0.37890884896872923
+tennessee,henderson,Hillary Clinton,10217,0.3638791936747632
+tennessee,henry,Hillary Clinton,12945,0.4029321131758334
+tennessee,hickman,Hillary Clinton,7813,0.3205596356624133
+tennessee,houston,Hillary Clinton,3168,0.38995568685376664
+tennessee,humphreys,Hillary Clinton,7153,0.39395274549760423
+tennessee,jackson,Hillary Clinton,4466,0.38720305184671405
+tennessee,jefferson,Hillary Clinton,19072,0.3597743864480957
+tennessee,johnson,Hillary Clinton,6579,0.3687366887120278
+tennessee,knox,Hillary Clinton,180697,0.4003948619201989
+tennessee,lake,Hillary Clinton,1970,0.2591423309655354
+tennessee,lauderdale,Hillary Clinton,8087,0.3005984462699327
+tennessee,lawrence,Hillary Clinton,15666,0.3678155522163787
+tennessee,lewis,Hillary Clinton,4622,0.38922105263157897
+tennessee,lincoln,Hillary Clinton,13348,0.39715552381802494
+tennessee,loudon,Hillary Clinton,23391,0.4594037237803441
+tennessee,mcminn,Hillary Clinton,18755,0.3572244866862215
+tennessee,mcnairy,Hillary Clinton,10038,0.38810702134240643
+tennessee,macon,Hillary Clinton,7504,0.3251863407869648
+tennessee,madison,Hillary Clinton,38120,0.39069786510059545
+tennessee,marion,Hillary Clinton,10862,0.38250519421065604
+tennessee,marshall,Hillary Clinton,11455,0.3626147515036404
+tennessee,maury,Hillary Clinton,35369,0.40456391192450675
+tennessee,meigs,Hillary Clinton,4320,0.36597763470010164
+tennessee,monroe,Hillary Clinton,17093,0.37464109589041095
+tennessee,montgomery,Hillary Clinton,57620,0.29948336261291697
+tennessee,moore,Hillary Clinton,2926,0.4673374860245967
+tennessee,morgan,Hillary Clinton,6705,0.311947520238206
+tennessee,obion,Hillary Clinton,12249,0.400804947482085
+tennessee,overton,Hillary Clinton,8229,0.3729097747768161
+tennessee,perry,Hillary Clinton,2855,0.3636016301579216
+tennessee,pickett,Hillary Clinton,2615,0.5088538626191866
+tennessee,polk,Hillary Clinton,6520,0.38881269008289104
+tennessee,putnam,Hillary Clinton,27212,0.3624690305565176
+tennessee,rhea,Hillary Clinton,11062,0.3417045068421215
+tennessee,roane,Hillary Clinton,21669,0.41063104036384307
+tennessee,robertson,Hillary Clinton,27113,0.39473262771703527
+tennessee,rutherford,Hillary Clinton,107436,0.360285314741597
+tennessee,scott,Hillary Clinton,7123,0.32535513634495045
+tennessee,sequatchie,Hillary Clinton,5694,0.3889078614848713
+tennessee,sevier,Hillary Clinton,36312,0.38056111594369973
+tennessee,shelby,Hillary Clinton,337383,0.36004149116338535
+tennessee,smith,Hillary Clinton,7436,0.38512533664802157
+tennessee,stewart,Hillary Clinton,5299,0.4018351406688405
+tennessee,sullivan,Hillary Clinton,62278,0.3987093387281609
+tennessee,sumner,Hillary Clinton,71505,0.4078402518736525
+tennessee,tipton,Hillary Clinton,23481,0.38160011701038465
+tennessee,trousdale,Hillary Clinton,3160,0.3924978263569743
+tennessee,unicoi,Hillary Clinton,7195,0.403782479375947
+tennessee,union,Hillary Clinton,6247,0.3260608591262592
+tennessee,van buren,Hillary Clinton,2419,0.4247585601404741
+tennessee,warren,Hillary Clinton,13612,0.3380855397148676
+tennessee,washington,Hillary Clinton,49750,0.39441242458596604
+tennessee,wayne,Hillary Clinton,5857,0.34931711099182916
+tennessee,weakley,Hillary Clinton,12184,0.3597071327350024
+tennessee,white,Hillary Clinton,9825,0.37297851340065297
+tennessee,williamson,Hillary Clinton,106271,0.5022140308593842
+tennessee,wilson,Hillary Clinton,56734,0.44138607082840603
+texas,anderson,Hillary Clinton,16977,0.29454015510331544
+texas,andrews,Hillary Clinton,4943,0.2735170429393537
+texas,angelina,Hillary Clinton,29911,0.3405594962939348
+texas,aransas,Hillary Clinton,10512,0.4238709677419355
+texas,archer,Hillary Clinton,4283,0.4887595572292594
+texas,armstrong,Hillary Clinton,1021,0.5370857443450815
+texas,atascosa,Hillary Clinton,13673,0.2827161259640634
+texas,austin,Hillary Clinton,12274,0.41647721488921313
+texas,bailey,Hillary Clinton,1793,0.2482348054824865
+texas,bandera,Hillary Clinton,10218,0.4832576617480136
+texas,bastrop,Hillary Clinton,28454,0.35516445110154155
+texas,baylor,Hillary Clinton,1499,0.41535051260737044
+texas,bee,Hillary Clinton,8485,0.2601404175736579
+texas,bell,Hillary Clinton,94994,0.2826563039312536
+texas,bexar,Hillary Clinton,589645,0.3111855708732269
+texas,blanco,Hillary Clinton,5685,0.515459243811769
+texas,borden,Hillary Clinton,365,0.5572519083969466
+texas,bosque,Hillary Clinton,7838,0.43875951634572324
+texas,bowie,Hillary Clinton,34602,0.3718645889306824
+texas,brazoria,Hillary Clinton,121181,0.35101831548517354
+texas,brazos,Hillary Clinton,67211,0.31079081467506403
+texas,brewster,Hillary Clinton,4252,0.46505523351197636
+texas,briscoe,Hillary Clinton,736,0.4861294583883752
+texas,brooks,Hillary Clinton,2596,0.3610570236439499
+texas,brown,Hillary Clinton,14026,0.371687513249947
+texas,burleson,Hillary Clinton,6960,0.395207540741582
+texas,burnet,Hillary Clinton,19204,0.42929315509455895
+texas,caldwell,Hillary Clinton,12092,0.2991662337019718
+texas,calhoun,Hillary Clinton,6965,0.3182254306209165
+texas,callahan,Hillary Clinton,5579,0.4105526528810067
+texas,cameron,Hillary Clinton,92079,0.21952318512337585
+texas,camp,Hillary Clinton,4542,0.35766595794944483
+texas,carson,Hillary Clinton,2964,0.492931980708465
+texas,cass,Hillary Clinton,12344,0.4095554080955541
+texas,castro,Hillary Clinton,1997,0.25645306279696933
+texas,chambers,Hillary Clinton,16786,0.4301014656144307
+texas,cherokee,Hillary Clinton,16790,0.3255895128762023
+texas,childress,Hillary Clinton,2084,0.2906960524480402
+texas,clay,Hillary Clinton,5018,0.48440969205521767
+texas,cochran,Hillary Clinton,901,0.3026536781995297
+texas,coke,Hillary Clinton,1423,0.4409668422683607
+texas,coleman,Hillary Clinton,3643,0.43807118807118806
+texas,collin,Hillary Clinton,361419,0.39488857057633875
+texas,collingsworth,Hillary Clinton,1156,0.3840531561461794
+texas,colorado,Hillary Clinton,8513,0.40632905350579923
+texas,comal,Hillary Clinton,62178,0.4827671881672425
+texas,comanche,Hillary Clinton,5237,0.3909667786487495
+texas,concho,Hillary Clinton,1068,0.26227897838899805
+texas,cooke,Hillary Clinton,15955,0.4073270359969364
+texas,coryell,Hillary Clinton,18253,0.23971370411714493
+texas,cottle,Hillary Clinton,612,0.4252953439888812
+texas,crane,Hillary Clinton,1384,0.27707707707707707
+texas,crockett,Hillary Clinton,1395,0.37349397590361444
+texas,crosby,Hillary Clinton,1728,0.2919905373436972
+texas,culberson,Hillary Clinton,767,0.34028393966282167
+texas,dallam,Hillary Clinton,1544,0.21147787974250104
+texas,dallas,Hillary Clinton,758973,0.29672534922180127
+texas,dawson,Hillary Clinton,3563,0.2743512743512744
+texas,deaf smith,Hillary Clinton,4216,0.22395750332005313
+texas,delta,Hillary Clinton,2281,0.4421399496026362
+texas,denton,Hillary Clinton,298645,0.3830825158033002
+texas,dickens,Hillary Clinton,909,0.41243194192377497
+texas,dimmit,Hillary Clinton,3225,0.29560036663611367
+texas,donley,Hillary Clinton,1465,0.43202595104688885
+texas,duval,Hillary Clinton,4168,0.3676781933662668
+texas,eastland,Hillary Clinton,6963,0.38359409431467606
+texas,ector,Hillary Clinton,36530,0.2284509984177908
+texas,edwards,Hillary Clinton,1073,0.5617801047120419
+texas,ellis,Hillary Clinton,63673,0.3899333708938589
+texas,el paso,Hillary Clinton,214008,0.2572526920367641
+texas,erath,Hillary Clinton,13893,0.33728241606176107
+texas,falls,Hillary Clinton,5248,0.3048327137546468
+texas,fannin,Hillary Clinton,12044,0.35950092531789146
+texas,fayette,Hillary Clinton,11174,0.44794548005612345
+texas,fisher,Hillary Clinton,1729,0.4459633737425845
+texas,floyd,Hillary Clinton,1959,0.3352729762108506
+texas,foard,Hillary Clinton,513,0.41877551020408166
+texas,fort bend,Hillary Clinton,262066,0.3663562742282943
+texas,franklin,Hillary Clinton,4380,0.4130906347260209
+texas,freestone,Hillary Clinton,7684,0.38914210473007194
+texas,frio,Hillary Clinton,4400,0.22726098858530033
+texas,gaines,Hillary Clinton,4620,0.22852055201068408
+texas,galveston,Hillary Clinton,122903,0.3829064036339392
+texas,garza,Hillary Clinton,1484,0.2322015334063527
+texas,gillespie,Hillary Clinton,13214,0.5098780676030251
+texas,glasscock,Hillary Clinton,604,0.43768115942028984
+texas,goliad,Hillary Clinton,3708,0.4935445228270997
+texas,gonzales,Hillary Clinton,6334,0.30882496343247196
+texas,gray,Hillary Clinton,7405,0.31828927573608423
+texas,grayson,Hillary Clinton,47416,0.3774317827235967
+texas,gregg,Hillary Clinton,41749,0.33722940226171244
+texas,grimes,Hillary Clinton,9533,0.34920693065680064
+texas,guadalupe,Hillary Clinton,57822,0.3840003187716665
+texas,hale,Hillary Clinton,8858,0.2602691426220838
+texas,hall,Hillary Clinton,1091,0.3526179702650291
+texas,hamilton,Hillary Clinton,3620,0.44801980198019803
+texas,hansford,Hillary Clinton,1947,0.3443579766536965
+texas,hardeman,Hillary Clinton,1513,0.38596938775510203
+texas,hardin,Hillary Clinton,22780,0.4085512392840489
+texas,harris,Hillary Clinton,1312112,0.2878798449969569
+texas,harrison,Hillary Clinton,26548,0.398110519607108
+texas,hartley,Hillary Clinton,1952,0.3423360224482638
+texas,haskell,Hillary Clinton,1770,0.30407146538395463
+texas,hays,Hillary Clinton,72164,0.3707143664402914
+texas,hemphill,Hillary Clinton,1695,0.3963058218377367
+texas,henderson,Hillary Clinton,30045,0.37796256227041714
+texas,hidalgo,Hillary Clinton,173437,0.2065545031542266
+texas,hill,Hillary Clinton,12970,0.3724015160215918
+texas,hockley,Hillary Clinton,7311,0.3136422136422136
+texas,hood,Hillary Clinton,26262,0.4755282742136998
+texas,hopkins,Hillary Clinton,13538,0.3763378089122397
+texas,houston,Hillary Clinton,8353,0.36721325889128237
+texas,howard,Hillary Clinton,8723,0.23497562158230748
+texas,hudspeth,Hillary Clinton,871,0.24597571307540242
+texas,hunt,Hillary Clinton,31554,0.3518902643024423
+texas,hutchinson,Hillary Clinton,8155,0.3742027256458496
+texas,irion,Hillary Clinton,766,0.4964355152300713
+texas,jack,Hillary Clinton,3350,0.3771248452099516
+texas,jackson,Hillary Clinton,5302,0.3580497028633171
+texas,jasper,Hillary Clinton,13419,0.38050813815005957
+texas,jeff davis,Hillary Clinton,1191,0.5416098226466576
+texas,jefferson,Hillary Clinton,87618,0.34344915174511587
+texas,jim hogg,Hillary Clinton,2119,0.4001132930513595
+texas,jim wells,Hillary Clinton,12379,0.29812393131517473
+texas,johnson,Hillary Clinton,57606,0.36151746211051494
+texas,jones,Hillary Clinton,5960,0.29850746268656714
+texas,karnes,Hillary Clinton,4198,0.2723674819957179
+texas,kaufman,Hillary Clinton,41265,0.3617991319977204
+texas,kendall,Hillary Clinton,20120,0.503780860333517
+texas,kenedy,Hillary Clinton,186,0.4217687074829932
+texas,kent,Hillary Clinton,434,0.5809906291834003
+texas,kerr,Hillary Clinton,23297,0.4578812893081761
+texas,kimble,Hillary Clinton,1952,0.44454566158050557
+texas,king,Hillary Clinton,159,0.5638297872340425
+texas,kinney,Hillary Clinton,1430,0.39843967679019227
+texas,kleberg,Hillary Clinton,9512,0.3028045713558081
+texas,knox,Hillary Clinton,1367,0.3604957805907173
+texas,lamar,Hillary Clinton,18611,0.37694691430538957
+texas,lamb,Hillary Clinton,3995,0.301304774115695
+texas,lampasas,Hillary Clinton,8205,0.4029564875748944
+texas,la salle,Hillary Clinton,2059,0.2696084850072018
+texas,lee,Hillary Clinton,6535,0.3874199668010434
+texas,leon,Hillary Clinton,7439,0.43686868686868685
+texas,liberty,Hillary Clinton,24267,0.3051032852634623
+texas,limestone,Hillary Clinton,7739,0.33013394761539117
+texas,lipscomb,Hillary Clinton,1332,0.37426243326777187
+texas,live oak,Hillary Clinton,4302,0.35340507680933214
+texas,llano,Hillary Clinton,10447,0.5202430157860665
+texas,loving,Hillary Clinton,65,0.5462184873949579
+texas,lubbock,Hillary Clinton,99013,0.33188307182816745
+texas,lynn,Hillary Clinton,2009,0.34963452836756004
+texas,mcculloch,Hillary Clinton,3103,0.375893397940642
+texas,mclennan,Hillary Clinton,79075,0.322171248838839
+texas,mcmullen,Hillary Clinton,499,0.6026570048309179
+texas,madison,Hillary Clinton,4289,0.3070589919816724
+texas,marion,Hillary Clinton,4238,0.4181136543014996
+texas,martin,Hillary Clinton,1762,0.31207934821112293
+texas,mason,Hillary Clinton,2057,0.5070248952427903
+texas,matagorda,Hillary Clinton,12196,0.3317195234727738
+texas,maverick,Hillary Clinton,13588,0.23541233541233542
+texas,medina,Hillary Clinton,17246,0.35630759059542993
+texas,menard,Hillary Clinton,864,0.40487347703842547
+texas,midland,Hillary Clinton,49212,0.30316396431915626
+texas,milam,Hillary Clinton,8664,0.35563582628684015
+texas,mills,Hillary Clinton,2245,0.45919410922479037
+texas,mitchell,Hillary Clinton,2196,0.24796747967479674
+texas,montague,Hillary Clinton,8604,0.4469146062746728
+texas,montgomery,Hillary Clinton,204632,0.3819521309260051
+texas,moore,Hillary Clinton,5284,0.24322209436133488
+texas,morris,Hillary Clinton,4973,0.4020210185933711
+texas,motley,Hillary Clinton,615,0.5366492146596858
+texas,nacogdoches,Hillary Clinton,22622,0.3455745317894351
+texas,navarro,Hillary Clinton,16433,0.3410680558726469
+texas,newton,Hillary Clinton,5534,0.39087441729057776
+texas,nolan,Hillary Clinton,4857,0.32142148104030177
+texas,nueces,Hillary Clinton,104405,0.28960843707698114
+texas,ochiltree,Hillary Clinton,3002,0.28061319872873436
+texas,oldham,Hillary Clinton,948,0.45930232558139533
+texas,orange,Hillary Clinton,32000,0.38115657197308084
+texas,palo pinto,Hillary Clinton,10270,0.3672316384180791
+texas,panola,Hillary Clinton,10416,0.4401064773735581
+texas,parker,Hillary Clinton,56817,0.4522206303724928
+texas,parmer,Hillary Clinton,2466,0.2517868082499489
+texas,pecos,Hillary Clinton,4185,0.26107298814722396
+texas,polk,Hillary Clinton,19852,0.4258897732392251
+texas,potter,Hillary Clinton,28651,0.23625404050399104
+texas,presidio,Hillary Clinton,2208,0.3128808275471163
+texas,rains,Hillary Clinton,4701,0.42214439655172414
+texas,randall,Hillary Clinton,54305,0.4165516077565047
+texas,reagan,Hillary Clinton,904,0.23745731547149987
+texas,real,Hillary Clinton,1681,0.5098574461631786
+texas,red river,Hillary Clinton,5161,0.4180639935196436
+texas,reeves,Hillary Clinton,3184,0.20444330294079877
+texas,refugio,Hillary Clinton,2948,0.4024024024024024
+texas,roberts,Hillary Clinton,554,0.6087912087912087
+texas,robertson,Hillary Clinton,7035,0.4213079410707869
+texas,rockwall,Hillary Clinton,39948,0.44302983253853834
+texas,runnels,Hillary Clinton,3782,0.36410898238182343
+texas,rusk,Hillary Clinton,18994,0.35861417917492683
+texas,sabine,Hillary Clinton,4651,0.44549808429118776
+texas,san augustine,Hillary Clinton,3569,0.4274763444723919
+texas,san jacinto,Hillary Clinton,10343,0.37801980921749934
+texas,san patricio,Hillary Clinton,21656,0.3226604288034328
+texas,san saba,Hillary Clinton,2357,0.3980074299223235
+texas,schleicher,Hillary Clinton,1059,0.3314553990610329
+texas,scurry,Hillary Clinton,5289,0.3010244735344337
+texas,shackelford,Hillary Clinton,1504,0.45124512451245125
+texas,shelby,Hillary Clinton,9086,0.35809718992629963
+texas,sherman,Hillary Clinton,935,0.3057553956834532
+texas,smith,Hillary Clinton,84768,0.38116821799541345
+texas,somervell,Hillary Clinton,3897,0.4521930842422836
+texas,starr,Hillary Clinton,11740,0.18492848591771155
+texas,stephens,Hillary Clinton,3461,0.36877996803409696
+texas,sterling,Hillary Clinton,633,0.4748687171792948
+texas,stonewall,Hillary Clinton,701,0.5014306151645207
+texas,sutton,Hillary Clinton,1416,0.36168582375478925
+texas,swisher,Hillary Clinton,2204,0.2947706299317908
+texas,tarrant,Hillary Clinton,668514,0.33680323243722543
+texas,taylor,Hillary Clinton,45759,0.3361345155105669
+texas,terrell,Hillary Clinton,438,0.5051903114186851
+texas,terry,Hillary Clinton,3355,0.26295164197821147
+texas,throckmorton,Hillary Clinton,808,0.5182809493264914
+texas,titus,Hillary Clinton,9419,0.28869613191932814
+texas,tom green,Hillary Clinton,38479,0.3274418367173273
+texas,travis,Hillary Clinton,468720,0.39728599217667326
+texas,trinity,Hillary Clinton,5985,0.411651420317766
+texas,tyler,Hillary Clinton,8016,0.3751052877866167
+texas,upshur,Hillary Clinton,16013,0.39717736934791775
+texas,upton,Hillary Clinton,1347,0.36883899233296824
+texas,uvalde,Hillary Clinton,8964,0.3326282978960258
+texas,val verde,Hillary Clinton,13617,0.2785175185616985
+texas,van zandt,Hillary Clinton,21890,0.40969492794310314
+texas,victoria,Hillary Clinton,31123,0.33779413041590695
+texas,walker,Hillary Clinton,19796,0.2794624202382969
+texas,waller,Hillary Clinton,16784,0.3450586953393228
+texas,ward,Hillary Clinton,3445,0.29619121313730545
+texas,washington,Hillary Clinton,14828,0.42565162475599955
+texas,webb,Hillary Clinton,56905,0.2108646916050618
+texas,wharton,Hillary Clinton,14732,0.3559915907498248
+texas,wheeler,Hillary Clinton,2306,0.40756451042771297
+texas,wichita,Hillary Clinton,38119,0.29107138766503005
+texas,wilbarger,Hillary Clinton,4105,0.31443891229414017
+texas,willacy,Hillary Clinton,5095,0.23304212596624435
+texas,williamson,Hillary Clinton,203081,0.40044919182936234
+texas,wilson,Hillary Clinton,19432,0.41188689643477894
+texas,winkler,Hillary Clinton,1876,0.2337112246169179
+texas,wise,Hillary Clinton,24776,0.3941645321921186
+texas,wood,Hillary Clinton,18727,0.43432984669619873
+texas,yoakum,Hillary Clinton,2303,0.2664275798241555
+texas,young,Hillary Clinton,7707,0.4243241755216649
+texas,zapata,Hillary Clinton,3142,0.21679431449665357
+texas,zavala,Hillary Clinton,3396,0.27587327376116977
+utah,beaver,Hillary Clinton,2491,0.3920982213127656
+utah,box elder,Hillary Clinton,19735,0.3807934241500405
+utah,cache,Hillary Clinton,46157,0.38561534541383663
+utah,carbon,Hillary Clinton,7952,0.3899759697905939
+utah,daggett,Hillary Clinton,474,0.4281842818428184
+utah,davis,Hillary Clinton,138411,0.4136647967554999
+utah,duchesne,Hillary Clinton,6942,0.33458646616541354
+utah,emery,Hillary Clinton,4289,0.41403610387103
+utah,garfield,Hillary Clinton,2344,0.4723901652559452
+utah,grand,Hillary Clinton,4533,0.4746099884828814
+utah,iron,Hillary Clinton,17654,0.3669278573358552
+utah,juab,Hillary Clinton,4177,0.3958866458155625
+utah,kane,Hillary Clinton,3505,0.4979400483023157
+utah,millard,Hillary Clinton,5242,0.41537242472266245
+utah,morgan,Hillary Clinton,5192,0.47033245765014947
+utah,piute,Hillary Clinton,729,0.48893360160965793
+utah,rich,Hillary Clinton,1109,0.4821739130434783
+utah,salt lake,Hillary Clinton,418868,0.3800038647413118
+utah,san juan,Hillary Clinton,5447,0.35743815210971847
+utah,sanpete,Hillary Clinton,10164,0.35471487401409924
+utah,sevier,Hillary Clinton,8654,0.41490075750311634
+utah,summit,Hillary Clinton,20641,0.5207114026236125
+utah,tooele,Hillary Clinton,21829,0.34848896055173295
+utah,uintah,Hillary Clinton,12797,0.3386255986875182
+utah,utah,Hillary Clinton,201551,0.35195148314814717
+utah,wasatch,Hillary Clinton,12120,0.4162373789408613
+utah,washington,Hillary Clinton,61963,0.40066602004526347
+utah,wayne,Hillary Clinton,1421,0.5282527881040893
+utah,weber,Hillary Clinton,85039,0.35013916795678385
+vermont,addison,Hillary Clinton,19031,0.5153402475019633
+vermont,bennington,Hillary Clinton,17381,0.48076231571377204
+vermont,chittenden,Hillary Clinton,83418,0.5171830147619549
+vermont,essex,Hillary Clinton,2925,0.47230744388826096
+vermont,franklin,Hillary Clinton,21411,0.4370662202988487
+vermont,grand isle,Hillary Clinton,4110,0.598166205792461
+vermont,orange,Hillary Clinton,14649,0.5071139266798214
+vermont,rutland,Hillary Clinton,29619,0.4974304715840387
+vermont,washington,Hillary Clinton,31086,0.5300075018754689
+vermont,windham,Hillary Clinton,22635,0.5234010081857282
+vermont,windsor,Hillary Clinton,29928,0.5388451774364884
+virginia,accomack,Hillary Clinton,15818,0.480585768973689
+virginia,albemarle,Hillary Clinton,56726,0.5396462988860032
+virginia,alleghany,Hillary Clinton,7325,0.47487844408427876
+virginia,amelia,Hillary Clinton,7040,0.5506883604505632
+virginia,amherst,Hillary Clinton,15396,0.4836034677723332
+virginia,appomattox,Hillary Clinton,8011,0.5171056028918152
+virginia,arlington,Hillary Clinton,121356,0.5309869261599314
+virginia,augusta,Hillary Clinton,36343,0.48919129919776017
+virginia,bath,Hillary Clinton,2253,0.5051569506726458
+virginia,bedford,Hillary Clinton,42525,0.5477978590475209
+virginia,bland,Hillary Clinton,3139,0.4805572565829761
+virginia,botetourt,Hillary Clinton,18739,0.5613840623127622
+virginia,brunswick,Hillary Clinton,7669,0.45526862570495696
+virginia,buchanan,Hillary Clinton,9247,0.4064258087201125
+virginia,buckingham,Hillary Clinton,7295,0.42868895810072283
+virginia,campbell,Hillary Clinton,27535,0.4974167208613339
+virginia,caroline,Hillary Clinton,14863,0.4970903010033445
+virginia,carroll,Hillary Clinton,13668,0.45758285905590895
+virginia,charles city,Hillary Clinton,4107,0.5828839057621346
+virginia,charlotte,Hillary Clinton,5808,0.4768864438788078
+virginia,chesterfield,Hillary Clinton,176461,0.5268829404475762
+virginia,clarke,Hillary Clinton,8213,0.5767961233232671
+virginia,craig,Hillary Clinton,2794,0.5440031152647975
+virginia,culpeper,Hillary Clinton,22218,0.44838651086759096
+virginia,cumberland,Hillary Clinton,4906,0.502870028700287
+virginia,dickenson,Hillary Clinton,6440,0.4236563383987896
+virginia,dinwiddie,Hillary Clinton,13575,0.48227227511723747
+virginia,essex,Hillary Clinton,5408,0.48738284066330206
+virginia,fairfax,Hillary Clinton,551183,23.727206198880758
+virginia,fauquier,Hillary Clinton,37467,0.5475790304429797
+virginia,floyd,Hillary Clinton,8051,0.5178157962438898
+virginia,fluvanna,Hillary Clinton,13597,0.5203000038265794
+virginia,franklin,Hillary Clinton,26971,3.237426479414236
+virginia,frederick,Hillary Clinton,40440,0.48435198160324816
+virginia,giles,Hillary Clinton,8212,0.4899176709223243
+virginia,gloucester,Hillary Clinton,19619,0.5300999729802756
+virginia,goochland,Hillary Clinton,14037,0.6332957365215429
+virginia,grayson,Hillary Clinton,7285,0.4564822357290557
+virginia,greene,Hillary Clinton,9608,0.5008601365792629
+virginia,greensville,Hillary Clinton,4363,0.3701849652129645
+virginia,halifax,Hillary Clinton,17001,0.48431757969404327
+virginia,hanover,Hillary Clinton,62753,0.6088327463593057
+virginia,henrico,Hillary Clinton,163654,0.5045210019267823
+virginia,henry,Hillary Clinton,24106,0.4641124374278013
+virginia,highland,Hillary Clinton,1391,0.6334244080145719
+virginia,isle of wight,Hillary Clinton,21075,0.5828424458641003
+virginia,james city,Hillary Clinton,43173,0.592880978865406
+virginia,king and queen,Hillary Clinton,3697,0.5218066337332392
+virginia,king george,Hillary Clinton,12059,0.4745022428582671
+virginia,king william,Hillary Clinton,9161,0.5626458666011547
+virginia,lancaster,Hillary Clinton,6645,0.6138568129330254
+virginia,lee,Hillary Clinton,9399,0.3821508436674121
+virginia,loudoun,Hillary Clinton,183097,0.48954584587742705
+virginia,louisa,Hillary Clinton,17631,0.5094045245731126
+virginia,lunenburg,Hillary Clinton,5586,0.4523809523809524
+virginia,madison,Hillary Clinton,6979,0.534912240361769
+virginia,mathews,Hillary Clinton,5311,0.6011999094407969
+virginia,mecklenburg,Hillary Clinton,14945,0.4833128516913524
+virginia,middlesex,Hillary Clinton,6017,0.5630731798615011
+virginia,montgomery,Hillary Clinton,43031,0.44217351541868327
+virginia,nelson,Hillary Clinton,8318,0.563550135501355
+virginia,new kent,Hillary Clinton,12242,0.6007753840113854
+virginia,northampton,Hillary Clinton,6172,0.5109271523178808
+virginia,northumberland,Hillary Clinton,7398,0.6043623886937342
+virginia,nottoway,Hillary Clinton,6744,0.43214148404459823
+virginia,orange,Hillary Clinton,17270,0.490931832395247
+virginia,page,Hillary Clinton,10740,0.453892316794861
+virginia,patrick,Hillary Clinton,8525,0.47466592427616927
+virginia,pittsylvania,Hillary Clinton,31598,0.5095629737139171
+virginia,powhatan,Hillary Clinton,16900,0.6023666951810664
+virginia,prince edward,Hillary Clinton,9143,0.39545847750865054
+virginia,prince george,Hillary Clinton,16184,0.4231553626523035
+virginia,prince william,Hillary Clinton,196538,0.4358039638297212
+virginia,pulaski,Hillary Clinton,15167,0.44153008646036507
+virginia,rappahannock,Hillary Clinton,4483,0.6058108108108108
+virginia,richmond,Hillary Clinton,3661,0.41692290171962193
+virginia,roanoke,Hillary Clinton,51489,0.5514157813570939
+virginia,rockbridge,Hillary Clinton,10795,0.4820057153063047
+virginia,rockingham,Hillary Clinton,37487,0.47787621900694754
+virginia,russell,Hillary Clinton,12246,0.43964960149350185
+virginia,scott,Hillary Clinton,10100,0.45299605310369573
+virginia,shenandoah,Hillary Clinton,20513,0.4787387976101568
+virginia,smyth,Hillary Clinton,12890,0.4102613068525415
+virginia,southampton,Hillary Clinton,8878,0.4895235994706661
+virginia,spotsylvania,Hillary Clinton,62562,0.481438729337889
+virginia,stafford,Hillary Clinton,65934,0.46805520061334016
+virginia,surry,Hillary Clinton,4228,0.633788037775446
+virginia,sussex,Hillary Clinton,5044,0.43140608963393773
+virginia,tazewell,Hillary Clinton,18566,0.43272345880433516
+virginia,warren,Hillary Clinton,17960,0.46389089782002274
+virginia,washington,Hillary Clinton,25847,0.4762843664774821
+virginia,westmoreland,Hillary Clinton,8574,0.4885748475696621
+virginia,wise,Hillary Clinton,15163,0.38317497220256747
+virginia,wythe,Hillary Clinton,13343,0.45856961198749013
+virginia,york,Hillary Clinton,34118,0.503200495560603
+virginia,alexandria,Hillary Clinton,75770,0.4931209080141096
+virginia,bristol,Hillary Clinton,7032,0.41012481045141724
+virginia,buena vista,Hillary Clinton,2407,0.3686628886506356
+virginia,charlottesville,Hillary Clinton,22472,0.48534588885769203
+virginia,chesapeake,Hillary Clinton,112705,0.47936931917264614
+virginia,colonial heights,Hillary Clinton,8457,0.4848085301536345
+virginia,covington,Hillary Clinton,2382,0.42062511036553063
+virginia,danville,Hillary Clinton,18952,0.45180823420030036
+virginia,emporia,Hillary Clinton,2367,0.42587261604893845
+virginia,falls church,Hillary Clinton,7757,0.5650495337995338
+virginia,fredericksburg,Hillary Clinton,11264,0.4016688656705773
+virginia,galax,Hillary Clinton,2376,0.34941176470588237
+virginia,hampton,Hillary Clinton,62356,0.45761169494510656
+virginia,harrisonburg,Hillary Clinton,17993,0.3415851922164215
+virginia,hopewell,Hillary Clinton,9008,0.4051999460213216
+virginia,lexington,Hillary Clinton,2465,0.3441776040212231
+virginia,lynchburg,Hillary Clinton,35671,0.45076705335254125
+virginia,manassas,Hillary Clinton,15411,0.37216547127436067
+virginia,manassas park,Hillary Clinton,5232,0.3243846487692975
+virginia,martinsville,Hillary Clinton,5907,0.4455087110641828
+virginia,newport news,Hillary Clinton,75715,0.418412007206092
+virginia,norfolk,Hillary Clinton,83388,0.33834705445574687
+virginia,norton,Hillary Clinton,1460,0.3641805936642554
+virginia,petersburg,Hillary Clinton,13786,0.4322714160290982
+virginia,poquoson,Hillary Clinton,7177,0.597038515930455
+virginia,portsmouth,Hillary Clinton,43265,0.4491052150805514
+virginia,radford,Hillary Clinton,6085,0.35183579069095117
+virginia,salem,Hillary Clinton,12225,0.48198233717079325
+virginia,staunton,Hillary Clinton,11255,0.46537109778788505
+virginia,suffolk,Hillary Clinton,43240,0.4909229214682274
+virginia,virginia beach,Hillary Clinton,203262,0.45138839539511083
+virginia,waynesboro,Hillary Clinton,9204,0.42725837898059604
+virginia,williamsburg,Hillary Clinton,7626,0.5152702702702703
+virginia,winchester,Hillary Clinton,10667,0.3881732168850073
+washington,adams,Hillary Clinton,4644,0.24145999064108564
+washington,asotin,Hillary Clinton,9736,0.4402839958395514
+washington,benton,Hillary Clinton,80027,0.42071202515009093
+washington,chelan,Hillary Clinton,33380,0.4448234964885862
+washington,clallam,Hillary Clinton,39457,0.5390153274500696
+washington,clark,Hillary Clinton,200160,0.43804534084418273
+washington,columbia,Hillary Clinton,2182,0.5510101010101011
+washington,cowlitz,Hillary Clinton,45692,0.44361595743647997
+washington,douglas,Hillary Clinton,15543,0.38335183129855716
+washington,ferry,Hillary Clinton,3601,0.4788563829787234
+washington,franklin,Hillary Clinton,23720,0.2673368873060061
+washington,garfield,Hillary Clinton,1246,0.5607560756075608
+washington,grant,Hillary Clinton,28346,0.30307825547702805
+washington,grays harbor,Hillary Clinton,28367,0.39947332103476924
+washington,island,Hillary Clinton,42876,0.5358026542700758
+washington,jefferson,Hillary Clinton,20276,0.6683147104387093
+washington,king,Hillary Clinton,998499,0.46962154626752795
+washington,kitsap,Hillary Clinton,124317,0.47955885075916554
+washington,kittitas,Hillary Clinton,18955,0.43984220907297833
+washington,klickitat,Hillary Clinton,10769,0.5126874553677696
+washington,lewis,Hillary Clinton,34149,0.4526823707199385
+washington,lincoln,Hillary Clinton,5713,0.5554691298006806
+washington,mason,Hillary Clinton,28073,0.46028102506927254
+washington,okanogan,Hillary Clinton,17091,0.413265306122449
+washington,pacific,Hillary Clinton,10716,0.5134889069912311
+washington,pend oreille,Hillary Clinton,6802,0.5197524260716742
+washington,pierce,Hillary Clinton,348485,0.41300555359348073
+washington,san juan,Hillary Clinton,10774,0.6651438449191258
+washington,skagit,Hillary Clinton,55968,0.4604183976505236
+washington,skamania,Hillary Clinton,5639,0.4957362637362637
+washington,snohomish,Hillary Clinton,342173,0.444554877367487
+washington,spokane,Hillary Clinton,227246,0.46508667444383045
+washington,stevens,Hillary Clinton,22677,0.5206759580281496
+washington,thurston,Hillary Clinton,129410,0.4829127764219451
+washington,wahkiakum,Hillary Clinton,2358,0.5861297539149888
+washington,walla walla,Hillary Clinton,25419,0.42413068143896415
+washington,whatcom,Hillary Clinton,109673,0.5177259766989558
+washington,whitman,Hillary Clinton,17305,0.35929324806909724
+washington,yakima,Hillary Clinton,77750,0.31376109765940274
+west virginia,barbour,Hillary Clinton,6054,0.3566841454074118
+west virginia,berkeley,Hillary Clinton,42850,0.38369240136821936
+west virginia,boone,Hillary Clinton,8683,0.3734302425597798
+west virginia,braxton,Hillary Clinton,5090,0.3540869565217391
+west virginia,brooke,Hillary Clinton,9613,0.41453212591634325
+west virginia,cabell,Hillary Clinton,33085,0.34255865482180947
+west virginia,calhoun,Hillary Clinton,2617,0.35066327214257004
+west virginia,clay,Hillary Clinton,2972,0.33487323943661973
+west virginia,doddridge,Hillary Clinton,2840,0.32632425600367687
+west virginia,fayette,Hillary Clinton,15337,0.3430558972867784
+west virginia,gilmer,Hillary Clinton,2543,0.3061642186371298
+west virginia,grant,Hillary Clinton,4956,0.4253712127714359
+west virginia,greenbrier,Hillary Clinton,14066,0.39533445756042723
+west virginia,hampshire,Hillary Clinton,8608,0.3692677276822101
+west virginia,hancock,Hillary Clinton,12702,0.42368245496997997
+west virginia,hardy,Hillary Clinton,5643,0.40814407637783884
+west virginia,harrison,Hillary Clinton,27960,0.40796673232654845
+west virginia,jackson,Hillary Clinton,12187,0.41779225231402123
+west virginia,jefferson,Hillary Clinton,24147,0.43065810593900483
+west virginia,kanawha,Hillary Clinton,75690,0.40200337791185564
+west virginia,lewis,Hillary Clinton,6928,0.42141119221411194
+west virginia,lincoln,Hillary Clinton,7066,0.3320644767141313
+west virginia,logan,Hillary Clinton,12359,0.3588455619755524
+west virginia,mcdowell,Hillary Clinton,6203,0.3138852342880275
+west virginia,marion,Hillary Clinton,23029,0.4057187153150931
+west virginia,marshall,Hillary Clinton,13216,0.4102436753065342
+west virginia,mason,Hillary Clinton,10186,0.3760197866292591
+west virginia,mercer,Hillary Clinton,22982,0.3759344380285607
+west virginia,mineral,Hillary Clinton,11564,0.42178210599263233
+west virginia,mingo,Hillary Clinton,9510,0.37563692380613817
+west virginia,monongalia,Hillary Clinton,36048,0.34436048566597566
+west virginia,monroe,Hillary Clinton,5805,0.4276873204155308
+west virginia,morgan,Hillary Clinton,7654,0.43762149799885647
+west virginia,nicholas,Hillary Clinton,9491,0.37145317208719814
+west virginia,ohio,Hillary Clinton,17938,0.41746375293816473
+west virginia,pendleton,Hillary Clinton,3225,0.4540335069688864
+west virginia,pleasants,Hillary Clinton,3150,0.42005600746766236
+west virginia,pocahontas,Hillary Clinton,3646,0.4252886970722034
+west virginia,preston,Hillary Clinton,12659,0.3740618166775013
+west virginia,putnam,Hillary Clinton,24893,0.4398678258411083
+west virginia,raleigh,Hillary Clinton,29618,0.3828445122345307
+west virginia,randolph,Hillary Clinton,10876,0.3723127481856771
+west virginia,ritchie,Hillary Clinton,4075,0.4041055136850456
+west virginia,roane,Hillary Clinton,5247,0.3650086956521739
+west virginia,summers,Hillary Clinton,4862,0.37009971835274413
+west virginia,taylor,Hillary Clinton,6538,0.38617838157117546
+west virginia,tucker,Hillary Clinton,3475,0.49019607843137253
+west virginia,tyler,Hillary Clinton,3654,0.40790354989953115
+west virginia,upshur,Hillary Clinton,9218,0.37279087636995994
+west virginia,wayne,Hillary Clinton,15182,0.3683967872655359
+west virginia,webster,Hillary Clinton,2978,0.3448755066589462
+west virginia,wetzel,Hillary Clinton,6265,0.39709703999492935
+west virginia,wirt,Hillary Clinton,2422,0.41729841488628533
+west virginia,wood,Hillary Clinton,35615,0.41252099380320845
+west virginia,wyoming,Hillary Clinton,7831,0.3531135861478108
+wisconsin,adams,Hillary Clinton,10164,0.5074895146794488
+wisconsin,ashland,Hillary Clinton,8029,0.5080359402682865
+wisconsin,barron,Hillary Clinton,22643,0.4991072806224789
+wisconsin,bayfield,Hillary Clinton,9529,0.6362847222222222
+wisconsin,brown,Hillary Clinton,128979,0.5001977848101266
+wisconsin,buffalo,Hillary Clinton,6988,0.5275953189882975
+wisconsin,burnett,Hillary Clinton,8743,0.5774006075815612
+wisconsin,calumet,Hillary Clinton,26650,0.5349472078365249
+wisconsin,chippewa,Hillary Clinton,31561,0.4976427366329765
+wisconsin,clark,Hillary Clinton,13596,0.3957156994004308
+wisconsin,columbia,Hillary Clinton,29771,0.5252284675911224
+wisconsin,crawford,Hillary Clinton,7744,0.4742773150416463
+wisconsin,dane,Hillary Clinton,310017,0.5927667304015296
+wisconsin,dodge,Hillary Clinton,43065,0.4904003826182017
+wisconsin,door,Hillary Clinton,17608,0.64472190692395
+wisconsin,douglas,Hillary Clinton,22511,0.5175537418094034
+wisconsin,dunn,Hillary Clinton,22091,0.49903991686809585
+wisconsin,eau claire,Hillary Clinton,54885,0.5376665360501567
+wisconsin,florence,Hillary Clinton,2657,0.6124942369755648
+wisconsin,fond du lac,Hillary Clinton,51327,0.5034279829336472
+wisconsin,forest,Hillary Clinton,4540,0.504220346512661
+wisconsin,grant,Hillary Clinton,24321,0.46707380307656854
+wisconsin,green,Hillary Clinton,18985,0.5140667731715902
+wisconsin,green lake,Hillary Clinton,9388,0.5020857845758905
+wisconsin,iowa,Hillary Clinton,12260,0.5198219207123171
+wisconsin,iron,Hillary Clinton,3497,0.6106163785577091
+wisconsin,jackson,Hillary Clinton,9272,0.45176378873513934
+wisconsin,jefferson,Hillary Clinton,43146,0.5106760723416344
+wisconsin,juneau,Hillary Clinton,11732,0.44596495229406624
+wisconsin,kenosha,Hillary Clinton,77076,0.4590316240843309
+wisconsin,kewaunee,Hillary Clinton,10758,0.5293249360362133
+wisconsin,la crosse,Hillary Clinton,62968,0.5349918011198056
+wisconsin,lafayette,Hillary Clinton,7662,0.4563158835090227
+wisconsin,langlade,Hillary Clinton,10132,0.5319193616127678
+wisconsin,lincoln,Hillary Clinton,14706,0.5277209602755948
+wisconsin,manitowoc,Hillary Clinton,40346,0.5076053998968333
+wisconsin,marathon,Hillary Clinton,69515,0.5137310256144967
+wisconsin,marinette,Hillary Clinton,20046,0.4931486629437379
+wisconsin,marquette,Hillary Clinton,7893,0.5220583371916132
+wisconsin,menominee,Hillary Clinton,1279,0.28365491239742735
+wisconsin,milwaukee,Hillary Clinton,440247,0.45934615372576354
+wisconsin,monroe,Hillary Clinton,19670,0.43400556021358283
+wisconsin,oconto,Hillary Clinton,19978,0.5331447480785654
+wisconsin,oneida,Hillary Clinton,21473,0.6082485907713225
+wisconsin,outagamie,Hillary Clinton,93868,0.5120221679176121
+wisconsin,ozaukee,Hillary Clinton,54523,0.620058681708593
+wisconsin,pepin,Hillary Clinton,3739,0.5166505458062733
+wisconsin,pierce,Hillary Clinton,21189,0.5159365945116755
+wisconsin,polk,Hillary Clinton,22749,0.5263778980980147
+wisconsin,portage,Hillary Clinton,38496,0.5458876914350539
+wisconsin,price,Hillary Clinton,7577,0.5580350567093828
+wisconsin,racine,Hillary Clinton,94133,0.4835466836525027
+wisconsin,richland,Hillary Clinton,8055,0.4583475588938204
+wisconsin,rock,Hillary Clinton,76068,0.4724544426915767
+wisconsin,rusk,Hillary Clinton,7087,0.5017700368167658
+wisconsin,st. croix,Hillary Clinton,47508,0.5452604758461591
+wisconsin,sauk,Hillary Clinton,31318,0.49498190324161145
+wisconsin,sawyer,Hillary Clinton,9121,0.5599828094302554
+wisconsin,shawano,Hillary Clinton,19751,0.4811332245255901
+wisconsin,sheboygan,Hillary Clinton,59655,0.5178565227959304
+wisconsin,taylor,Hillary Clinton,9484,0.46687013882051787
+wisconsin,trempealeau,Hillary Clinton,13675,0.46448829863116065
+wisconsin,vernon,Hillary Clinton,14213,0.4688128772635815
+wisconsin,vilas,Hillary Clinton,13612,0.6346808411432835
+wisconsin,walworth,Hillary Clinton,51324,0.5008441083191022
+wisconsin,washburn,Hillary Clinton,9148,0.5893570416183481
+wisconsin,washington,Hillary Clinton,78003,0.5825205741340941
+wisconsin,waukesha,Hillary Clinton,239042,0.6032803599865737
+wisconsin,waupaca,Hillary Clinton,26024,0.5035603715170278
+wisconsin,waushara,Hillary Clinton,11999,0.5008138903960934
+wisconsin,winnebago,Hillary Clinton,87144,0.5148954775888351
+wisconsin,wood,Hillary Clinton,37800,0.5153374233128835
+wyoming,albany,Hillary Clinton,17060,0.4494204425711275
+wyoming,big horn,Hillary Clinton,5317,0.44512348262871493
+wyoming,campbell,Hillary Clinton,18199,0.36946282837305616
+wyoming,carbon,Hillary Clinton,6374,0.40824953564337413
+wyoming,converse,Hillary Clinton,6654,0.46541232426383156
+wyoming,crook,Hillary Clinton,3826,0.5145931405514459
+wyoming,fremont,Hillary Clinton,17023,0.4232576642880231
+wyoming,goshen,Hillary Clinton,5796,0.4280017722640673
+wyoming,hot springs,Hillary Clinton,2586,0.5483460559796438
+wyoming,johnson,Hillary Clinton,4417,0.5129485541748926
+wyoming,laramie,Hillary Clinton,40969,0.42249584918891603
+wyoming,lincoln,Hillary Clinton,8875,0.4734090787859391
+wyoming,natrona,Hillary Clinton,33348,0.40600460206727784
+wyoming,niobrara,Hillary Clinton,1314,0.5264423076923077
+wyoming,park,Hillary Clinton,15095,0.5218127765486725
+wyoming,platte,Hillary Clinton,4529,0.5147760854739714
+wyoming,sheridan,Hillary Clinton,14510,0.48556035203962117
+wyoming,sublette,Hillary Clinton,4390,0.4370768618080446
+wyoming,sweetwater,Hillary Clinton,17130,0.38305865515776294
+wyoming,teton,Hillary Clinton,12627,0.5478804182756974
+wyoming,uinta,Hillary Clinton,8470,0.4079371959736069
+wyoming,washakie,Hillary Clinton,3814,0.4607393090118386
+wyoming,weston,Hillary Clinton,3526,0.48917869034406214
+alaska,district 1,Hillary Clinton,6638,N/A
+alaska,district 2,Hillary Clinton,5492,N/A
+alaska,district 3,Hillary Clinton,7613,N/A
+alaska,district 4,Hillary Clinton,9521,N/A
+alaska,district 5,Hillary Clinton,7906,N/A
+alaska,district 6,Hillary Clinton,8460,N/A
+alaska,district 7,Hillary Clinton,8294,N/A
+alaska,district 8,Hillary Clinton,8073,N/A
+alaska,district 9,Hillary Clinton,8954,N/A
+alaska,district 10,Hillary Clinton,9040,N/A
+alaska,district 11,Hillary Clinton,9689,N/A
+alaska,district 12,Hillary Clinton,9543,N/A
+alaska,district 13,Hillary Clinton,6533,N/A
+alaska,district 14,Hillary Clinton,10420,N/A
+alaska,district 15,Hillary Clinton,4982,N/A
+alaska,district 16,Hillary Clinton,7436,N/A
+alaska,district 17,Hillary Clinton,6788,N/A
+alaska,district 18,Hillary Clinton,7402,N/A
+alaska,district 19,Hillary Clinton,4792,N/A
+alaska,district 20,Hillary Clinton,7140,N/A
+alaska,district 21,Hillary Clinton,8647,N/A
+alaska,district 22,Hillary Clinton,8372,N/A
+alaska,district 23,Hillary Clinton,6924,N/A
+alaska,district 24,Hillary Clinton,9080,N/A
+alaska,district 25,Hillary Clinton,8127,N/A
+alaska,district 26,Hillary Clinton,8905,N/A
+alaska,district 27,Hillary Clinton,8783,N/A
+alaska,district 28,Hillary Clinton,11427,N/A
+alaska,district 29,Hillary Clinton,9394,N/A
+alaska,district 30,Hillary Clinton,8950,N/A
+alaska,district 31,Hillary Clinton,10182,N/A
+alaska,district 32,Hillary Clinton,7472,N/A
+alaska,district 33,Hillary Clinton,9934,N/A
+alaska,district 34,Hillary Clinton,9431,N/A
+alaska,district 35,Hillary Clinton,9042,N/A
+alaska,district 36,Hillary Clinton,8264,N/A
+alaska,district 37,Hillary Clinton,5062,N/A
+alaska,district 38,Hillary Clinton,5095,N/A
+alaska,district 39,Hillary Clinton,5639,N/A
+alaska,district 40,Hillary Clinton,4610,N/A

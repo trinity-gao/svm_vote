@@ -1,0 +1,3109 @@
+state,county,candidate,total votes,turnout rate
+alabama,autauga,Donald Trump,27770,N/A
+alabama,baldwin,Donald Trump,109679,0.49131852674771764
+alabama,barbour,Donald Trump,10518,0.42607145750627884
+alabama,bibb,Donald Trump,9595,0.4284629811556667
+alabama,blount,Donald Trump,27588,0.47708643170891984
+alabama,bullock,Joe Biden,4613,0.4566874566874567
+alabama,butler,Donald Trump,9488,0.4878650761003702
+alabama,calhoun,Donald Trump,50983,0.44877426169622814
+alabama,chambers,Donald Trump,15284,0.45961388103686773
+alabama,cherokee,Donald Trump,12301,0.46957550771110096
+alabama,chilton,Donald Trump,19310,0.43463581525164313
+alabama,choctaw,Donald Trump,7464,0.5928985622368734
+alabama,clarke,Donald Trump,13135,0.5560494454322242
+alabama,clay,Donald Trump,6930,0.5236116358141292
+alabama,cleburne,Donald Trump,7227,0.4847082494969819
+alabama,coffee,Donald Trump,22275,0.4255664666997822
+alabama,colbert,Donald Trump,27886,0.5048062127767419
+alabama,conecuh,Donald Trump,6441,0.5337697853650452
+alabama,coosa,Donald Trump,5479,0.513832880052518
+alabama,covington,Donald Trump,17430,0.4704580420524171
+alabama,crenshaw,Donald Trump,6617,0.480467615451641
+alabama,cullman,Donald Trump,41851,0.49960605481806897
+alabama,dale,Donald Trump,19738,0.4014073049703083
+alabama,dallas,Joe Biden,17864,0.48026669534358535
+alabama,dekalb,Donald Trump,29356,0.4104987904297121
+alabama,elmore,Donald Trump,41030,0.5052395670430617
+alabama,escambia,Donald Trump,15910,0.43430786449376246
+alabama,etowah,Donald Trump,47728,0.46669534947393126
+alabama,fayette,Donald Trump,8766,0.5377254324622746
+alabama,franklin,Donald Trump,12578,0.4010586059562528
+alabama,geneva,Donald Trump,12545,0.4775227437097941
+alabama,greene,Joe Biden,4775,0.588706694612255
+alabama,hale,Joe Biden,7900,0.5392123404545764
+alabama,henry,Donald Trump,9298,0.540424295263005
+alabama,houston,Donald Trump,46173,0.4360797869326231
+alabama,jackson,Donald Trump,23636,0.4578313253012048
+alabama,jefferson,Joe Biden,325848,0.4947788627836246
+alabama,lamar,Donald Trump,7193,0.5210431003259689
+alabama,lauderdale,Donald Trump,44339,0.47815677943254
+alabama,lawrence,Donald Trump,16031,0.4869092455351719
+alabama,lee,Donald Trump,71449,0.43422955841061855
+alabama,limestone,Donald Trump,49235,0.4977505939442956
+alabama,lowndes,Joe Biden,6835,0.7027555007197204
+alabama,macon,Joe Biden,8723,0.48278724817356655
+alabama,madison,Donald Trump,194767,0.5222909610655683
+alabama,marengo,Joe Biden,10900,0.5778508190637757
+alabama,marion,Donald Trump,13807,0.4647413241778586
+alabama,marshall,Donald Trump,39655,0.40976915287163906
+alabama,mobile,Donald Trump,183164,0.44327097601703735
+alabama,monroe,Donald Trump,10668,0.5145420344378527
+alabama,montgomery,Joe Biden,99139,0.43772683521277256
+alabama,morgan,Donald Trump,53722,0.44888409829627585
+alabama,perry,Joe Biden,5230,0.5861257424632971
+alabama,pickens,Donald Trump,9668,0.48509784244857
+alabama,pike,Donald Trump,13841,0.41798031044271305
+alabama,randolph,Donald Trump,10837,0.4769386497667459
+alabama,russell,Joe Biden,21329,0.36798882006866684
+alabama,shelby,Donald Trump,114950,0.5280153604468494
+alabama,st. clair,Donald Trump,44441,0.49648091875949596
+alabama,sumter,Joe Biden,6291,0.5062364206968697
+alabama,talladega,Donald Trump,35663,0.44591012528445323
+alabama,tallapoosa,Donald Trump,20991,0.5200039636336612
+alabama,tuscaloosa,Donald Trump,90172,0.43071338157674766
+alabama,walker,Donald Trump,31170,0.4907038617150234
+alabama,washington,Donald Trump,8876,0.5436726693617543
+alabama,wilcox,Joe Biden,5903,0.5690735563482117
+alabama,winston,Donald Trump,11284,0.4775487748106141
+alaska,district 1,Donald Trump,7360,N/A
+alaska,district 10,Donald Trump,11256,N/A
+alaska,district 11,Donald Trump,10686,N/A
+alaska,district 12,Donald Trump,11280,N/A
+alaska,district 13,Donald Trump,7765,N/A
+alaska,district 14,Donald Trump,11534,N/A
+alaska,district 15,Donald Trump,5593,N/A
+alaska,district 16,Joe Biden,8170,N/A
+alaska,district 17,Joe Biden,7271,N/A
+alaska,district 18,Joe Biden,7759,N/A
+alaska,district 19,Joe Biden,5338,N/A
+alaska,district 2,Donald Trump,6161,N/A
+alaska,district 20,Joe Biden,7544,N/A
+alaska,district 21,Joe Biden,9482,N/A
+alaska,district 22,Donald Trump,9597,N/A
+alaska,district 23,Joe Biden,7796,N/A
+alaska,district 24,Donald Trump,10484,N/A
+alaska,district 25,Joe Biden,9369,N/A
+alaska,district 26,write-ins,20292,N/A
+alaska,district 27,write-ins,19037,N/A
+alaska,district 28,write-ins,25580,N/A
+alaska,district 29,Donald Trump,10784,N/A
+alaska,district 3,Donald Trump,8385,N/A
+alaska,district 30,Donald Trump,10226,N/A
+alaska,district 31,Donald Trump,12481,N/A
+alaska,district 32,Donald Trump,8361,N/A
+alaska,district 33,Joe Biden,11016,N/A
+alaska,district 34,Joe Biden,10794,N/A
+alaska,district 35,Joe Biden,10149,N/A
+alaska,district 36,Donald Trump,9292,N/A
+alaska,district 37,Joe Biden,5168,N/A
+alaska,district 38,Joe Biden,5299,N/A
+alaska,district 39,Joe Biden,5930,N/A
+alaska,district 4,Joe Biden,10587,N/A
+alaska,district 40,Joe Biden,4628,N/A
+alaska,district 5,Joe Biden,8706,N/A
+alaska,district 6,Donald Trump,9518,N/A
+alaska,district 7,Donald Trump,9664,N/A
+alaska,district 8,Donald Trump,9957,N/A
+alaska,district 9,Donald Trump,11047,N/A
+arizona,apache,Joe Biden,35183,0.4894208966850752
+arizona,cochise,Donald Trump,60473,0.48024173694826955
+arizona,coconino,Joe Biden,73346,0.5112074493295046
+arizona,gila,Donald Trump,27678,0.5123847606353438
+arizona,graham,Donald Trump,14996,0.3861266318201715
+arizona,greenlee,Donald Trump,3688,0.38829227205727523
+arizona,la paz,Donald Trump,7460,0.35342050407428466
+arizona,maricopa,Joe Biden,2069475,0.46137881586850177
+arizona,mohave,Donald Trump,104705,0.493470197614301
+arizona,navajo,Donald Trump,51783,0.46683314701958095
+arizona,pima,Joe Biden,520735,0.49722662251415334
+arizona,pinal,Donald Trump,185037,0.3998301601809896
+arizona,santa cruz,Joe Biden,19561,0.42068476063486604
+arizona,yavapai,Donald Trump,143280,0.6094453825835073
+arizona,yuma,Donald Trump,69926,0.3270825634860866
+arkansas,arkansas,Donald Trump,6292,0.35983072172023334
+arkansas,ashley,Donald Trump,7926,0.40321513964491024
+arkansas,baxter,Donald Trump,21007,0.5009777735381093
+arkansas,benton,Donald Trump,119912,0.42957501764341316
+arkansas,boone,Donald Trump,17114,0.45720239367386195
+arkansas,bradley,Donald Trump,3654,0.3394964229304097
+arkansas,calhoun,Donald Trump,2182,0.4205049142416651
+arkansas,carroll,Donald Trump,11797,0.4156800563777308
+arkansas,chicot,Joe Biden,4103,0.40551492389800353
+arkansas,clark,Donald Trump,8395,0.37612007168458783
+arkansas,clay,Donald Trump,5183,0.3561954504845028
+arkansas,cleburne,Donald Trump,12680,0.5088486696897949
+arkansas,cleveland,Donald Trump,3600,0.45248868778280543
+arkansas,columbia,Donald Trump,8616,0.36731039774907276
+arkansas,conway,Donald Trump,8685,0.4166266909718891
+arkansas,craighead,Donald Trump,38511,0.3490465141572708
+arkansas,crawford,Donald Trump,24091,0.38084322683655564
+arkansas,crittenden,Joe Biden,16367,0.3412991346053592
+arkansas,cross,Donald Trump,6942,0.42280285035629456
+arkansas,dallas,Donald Trump,2649,0.3779426451704951
+arkansas,desha,Joe Biden,4164,0.3665170319514127
+arkansas,drew,Donald Trump,6908,0.37916460837587135
+arkansas,faulkner,Donald Trump,54428,0.43194425706508366
+arkansas,franklin,Donald Trump,7129,0.40242732147897264
+arkansas,fulton,Donald Trump,5119,0.41027490582672116
+arkansas,garland,Donald Trump,44199,0.4447205843881432
+arkansas,grant,Donald Trump,8200,0.44894607172187245
+arkansas,greene,Donald Trump,16100,0.3552123552123552
+arkansas,hempstead,Donald Trump,6848,0.3180382686234442
+arkansas,hot spring,Donald Trump,12557,0.3718278996772379
+arkansas,howard,Donald Trump,4834,0.36615664293288896
+arkansas,independence,Donald Trump,14512,0.38366159947124917
+arkansas,izard,Donald Trump,5810,0.4262968669748331
+arkansas,jackson,Donald Trump,5091,0.30450385788623724
+arkansas,jefferson,Joe Biden,25158,0.3764815036513827
+arkansas,johnson,Donald Trump,9498,0.35736323274889004
+arkansas,lafayette,Donald Trump,2679,0.40443840579710144
+arkansas,lawrence,Donald Trump,5857,0.3570035352919664
+arkansas,lee,Joe Biden,2848,0.32155357344473295
+arkansas,lincoln,Donald Trump,3875,0.29752764127764125
+arkansas,little river,Donald Trump,5177,0.4223019822171466
+arkansas,logan,Donald Trump,8225,0.3831640734184291
+arkansas,lonoke,Donald Trump,30662,0.4182569670845326
+arkansas,madison,Donald Trump,7351,0.44347249034749037
+arkansas,marion,Donald Trump,7503,0.4494429136216605
+arkansas,miller,Donald Trump,16529,0.3821115657581432
+arkansas,mississippi,Donald Trump,12342,0.30360876731199726
+arkansas,monroe,Donald Trump,2816,0.4202357857036263
+arkansas,montgomery,Donald Trump,3873,0.4310037836634765
+arkansas,nevada,Donald Trump,3358,0.4069316529326224
+arkansas,newton,Donald Trump,3998,0.5156713530246356
+arkansas,ouachita,Donald Trump,9629,0.4118125053459926
+arkansas,perry,Donald Trump,4627,0.4425633668101387
+arkansas,phillips,Joe Biden,6242,0.3510291305814869
+arkansas,pike,Donald Trump,4246,0.3961559992535921
+arkansas,poinsett,Donald Trump,7521,0.319661679700782
+arkansas,polk,Donald Trump,8490,0.4252654778601483
+arkansas,pope,Donald Trump,24432,0.38132101385940814
+arkansas,prairie,Donald Trump,3495,0.43351525676010916
+arkansas,pulaski,Joe Biden,169956,0.4336596829382181
+arkansas,randolph,Donald Trump,6812,0.37932954672012476
+arkansas,saline,Donald Trump,56959,0.46521067977817165
+arkansas,scott,Donald Trump,3551,0.345394416885517
+arkansas,searcy,Donald Trump,4019,0.5099606648902424
+arkansas,sebastian,Donald Trump,47140,0.3687796787846073
+arkansas,sevier,Donald Trump,5202,0.3058740518609984
+arkansas,sharp,Donald Trump,7566,0.433780529755762
+arkansas,stone,Donald Trump,5938,0.47481209019670556
+arkansas,union,Donald Trump,16607,0.4293211312755287
+arkansas,van buren,Donald Trump,7807,0.47186461166515564
+arkansas,washington,Donald Trump,94266,0.394110047786878
+arkansas,white,Donald Trump,30885,0.3921755361700507
+arkansas,woodruff,Donald Trump,2476,0.39177215189873416
+arkansas,yell,Donald Trump,6741,0.3158708589100792
+california,alameda,Joe Biden,769864,0.46062983410208286
+california,alpine,Joe Biden,741,0.6563330380868024
+california,amador,Donald Trump,22302,0.5610283759307708
+california,butte,Joe Biden,102042,0.46554980701322163
+california,calaveras,Donald Trump,27164,0.5917438187561268
+california,colusa,Donald Trump,7951,0.3690072863971783
+california,contra costa,Joe Biden,581230,0.5038724744825864
+california,del norte,Donald Trump,11452,0.4117647058823529
+california,el dorado,Donald Trump,116138,0.6022412013918058
+california,fresno,Joe Biden,364809,0.36513725839529737
+california,glenn,Donald Trump,11292,0.39770365935265733
+california,humboldt,Joe Biden,68828,0.5077383850455156
+california,imperial,Joe Biden,56718,0.3129873354854731
+california,inyo,Joe Biden,9481,0.5255834580630855
+california,kern,Donald Trump,305226,0.3390638989915597
+california,kings,Donald Trump,43858,0.2867660520465542
+california,lake,Joe Biden,28800,0.44730220855465475
+california,lassen,Donald Trump,11985,0.3920125601020508
+california,los angeles,Joe Biden,4263443,0.4246834902745832
+california,madera,Donald Trump,53722,0.34146713532960016
+california,marin,Joe Biden,155801,0.6019526631791242
+california,mariposa,Donald Trump,10280,0.597570191245713
+california,mendocino,Joe Biden,43336,0.49955619084946223
+california,merced,Joe Biden,90541,0.32606237395563237
+california,modoc,Donald Trump,4338,0.4906684764166949
+california,mono,Joe Biden,6737,0.4664220437551925
+california,monterey,Joe Biden,163883,0.3775575322362525
+california,napa,Joe Biden,72122,0.5235944941340458
+california,nevada,Joe Biden,64738,0.6489699764422836
+california,orange,Joe Biden,1521725,0.4791790261776016
+california,placer,Donald Trump,235017,0.5900072553090536
+california,plumas,Donald Trump,11256,0.5985005583027596
+california,riverside,Joe Biden,996156,0.40321289302040925
+california,sacramento,Joe Biden,718290,0.462798426347469
+california,san benito,Joe Biden,28821,0.4588746656476882
+california,san bernardino,Joe Biden,840931,0.3857331250845724
+california,san diego,Joe Biden,1601722,0.47979738372180103
+california,san francisco,Joe Biden,443458,0.5030440735568869
+california,san joaquin,Joe Biden,288443,0.37846061394899677
+california,san luis obispo,Joe Biden,159681,0.5640225918456012
+california,san mateo,Joe Biden,374138,0.4880657158548501
+california,santa barbara,Joe Biden,200288,0.4485743529100849
+california,santa clara,Joe Biden,850522,0.4411759823886896
+california,santa cruz,Joe Biden,144796,0.5299747815806715
+california,shasta,Donald Trump,92900,0.5158818302976454
+california,sierra,Donald Trump,1930,0.6422628951747088
+california,siskiyou,Donald Trump,23450,0.5385975791818829
+california,solano,Joe Biden,205831,0.4598106080068269
+california,sonoma,Joe Biden,268252,0.5426511522527188
+california,stanislaus,Joe Biden,214876,0.3902153779101442
+california,sutter,Donald Trump,42640,0.439719091274711
+california,tehama,Donald Trump,28721,0.44129125437895644
+california,trinity,Donald Trump,6258,0.5094017094017094
+california,tulare,Donald Trump,146832,0.3149583328864531
+california,tuolumne,Donald Trump,30401,0.5580417783325379
+california,ventura,Joe Biden,422698,0.49963948246229933
+california,yolo,Joe Biden,97264,0.4411065759637188
+california,yuba,Donald Trump,29787,0.37864188742563687
+colorado,adams,Joe Biden,236735,0.4575287821715779
+colorado,alamosa,Donald Trump,7808,0.480995502987741
+colorado,arapahoe,Joe Biden,350183,0.5333358717007569
+colorado,archuleta,Donald Trump,9144,0.6517927150901703
+colorado,baca,Donald Trump,2225,0.6213348226752304
+colorado,bent,Donald Trump,2274,0.40774610005379236
+colorado,boulder,Joe Biden,206111,0.6318624385338876
+colorado,broomfield,Joe Biden,46632,0.6617753494642731
+colorado,chaffee,Joe Biden,13717,0.6738553743368049
+colorado,cheyenne,Donald Trump,1136,0.6204259967231022
+colorado,clear creek,Joe Biden,6548,0.6750515463917526
+colorado,conejos,Donald Trump,4333,0.5280926264472883
+colorado,costilla,Joe Biden,2094,0.5387188062773347
+colorado,crowley,Donald Trump,1750,0.28873123246988946
+colorado,custer,Donald Trump,3634,0.7170481452249408
+colorado,delta,Donald Trump,19370,0.6215903985623515
+colorado,denver,Joe Biden,393827,0.5415580897428669
+colorado,dolores,Donald Trump,1449,0.7051094890510949
+colorado,douglas,Donald Trump,231599,0.6595368413858307
+colorado,eagle,Joe Biden,29140,0.5285976019010649
+colorado,el paso,Donald Trump,378849,0.5258848172481236
+colorado,elbert,Donald Trump,18983,0.7102024018855925
+colorado,fremont,Donald Trump,25557,0.534229394427141
+colorado,garfield,Joe Biden,30904,0.5145435473934833
+colorado,gilpin,Joe Biden,4186,0.6705109722889636
+colorado,grand,Donald Trump,9870,0.6273039277996695
+colorado,gunnison,Joe Biden,11190,0.6408200664299623
+colorado,hinsdale,Donald Trump,632,0.7707317073170732
+colorado,huerfano,Donald Trump,4406,0.6388284761490504
+colorado,jackson,Donald Trump,876,0.6293103448275862
+colorado,jefferson,Joe Biden,377357,0.6473997265308014
+colorado,kiowa,Donald Trump,903,0.6422475106685633
+colorado,kit carson,Donald Trump,3871,0.5454417359447654
+colorado,la plata,Joe Biden,35667,0.6344070720905
+colorado,lake,Joe Biden,3961,0.4873877199458595
+colorado,larimer,Joe Biden,224338,0.6285755914138174
+colorado,las animas,Donald Trump,7961,0.5488073900454984
+colorado,lincoln,Donald Trump,2651,0.4650061392738116
+colorado,logan,Donald Trump,10532,0.46998973626667856
+colorado,mesa,Donald Trump,90622,0.5876532001815706
+colorado,mineral,Donald Trump,756,0.9830949284785435
+colorado,moffat,Donald Trump,7026,0.5289467740721223
+colorado,montezuma,Donald Trump,15500,0.5919871672459229
+colorado,montrose,Donald Trump,24922,0.5828616867019037
+colorado,morgan,Donald Trump,13744,0.472822347598734
+colorado,otero,Donald Trump,9576,0.5239085239085239
+colorado,ouray,Joe Biden,4020,0.8117932148626817
+colorado,park,Donald Trump,12290,0.6521623772884054
+colorado,phillips,Donald Trump,2485,0.5826494724501758
+colorado,pitkin,Joe Biden,11957,0.6729892497326504
+colorado,prowers,Donald Trump,5561,0.45686822214919487
+colorado,pueblo,Joe Biden,88299,0.5242661378425878
+colorado,rio blanco,Donald Trump,3691,0.5836495888678052
+colorado,rio grande,Donald Trump,6305,0.5595988284370285
+colorado,routt,Joe Biden,16876,0.6582416725173571
+colorado,saguache,Joe Biden,3389,0.4966295427901524
+colorado,san juan,Joe Biden,563,0.7733516483516484
+colorado,san miguel,Joe Biden,5147,0.6292945347842035
+colorado,sedgwick,Donald Trump,1446,0.6432384341637011
+colorado,summit,Joe Biden,18479,0.5958853310115766
+colorado,teller,Donald Trump,16939,0.6672049787301088
+colorado,washington,Donald Trump,3008,0.612876935615322
+colorado,weld,Donald Trump,166968,0.5145519766280833
+colorado,yuma,Donald Trump,4981,0.49715540473101105
+connecticut,fairfield,Joe Biden,35414,0.037541395818227304
+connecticut,hartford,Joe Biden,32687,0.036656125241107076
+connecticut,litchfield,Joe Biden,5342,0.029622975273521764
+connecticut,new haven,Joe Biden,42102,0.04925610436650416
+connecticut,new london,Joe Biden,9123,0.034399674215515486
+connecticut,tolland,Joe Biden,9257,0.061418116918014076
+connecticut,windham,Joe Biden,8348,0.07148361905088113
+delaware,kent,Joe Biden,87025,0.48137023884592833
+delaware,new castle,Joe Biden,287633,0.5147766544430187
+delaware,sussex,Donald Trump,129352,0.5522553100651083
+florida,alachua,Joe Biden,142604,0.530041666202057
+florida,baker,Donald Trump,14059,0.4813077713111948
+florida,bay,Donald Trump,93024,0.532463295269168
+florida,bradford,Donald Trump,13632,0.4833871139321301
+florida,brevard,Donald Trump,360764,0.5993334906020846
+florida,broward,Joe Biden,957672,0.49041519312487136
+florida,calhoun,Donald Trump,6526,0.4626728110599078
+florida,charlotte,Donald Trump,116340,0.615848816896935
+florida,citrus,Donald Trump,93208,0.6228108274253794
+florida,clay,Donald Trump,124405,0.5674064546731615
+florida,collier,Donald Trump,207818,0.539924448301126
+florida,columbia,Donald Trump,33042,0.4609268197416511
+florida,desoto,Donald Trump,12659,0.33312281255756426
+florida,dixie,Donald Trump,8167,0.48537976940449307
+florida,duval,Joe Biden,492820,0.5145574807753549
+florida,escambia,Donald Trump,170372,0.5352291433669687
+florida,flagler,Donald Trump,71716,0.6231784569129569
+florida,franklin,Donald Trump,6849,0.5648659793814433
+florida,gadsden,Joe Biden,23762,0.5204117389399913
+florida,gilchrist,Donald Trump,9685,0.5212033150360564
+florida,glades,Donald Trump,5193,0.37600463398740136
+florida,gulf,Donald Trump,8163,0.5985042891707604
+florida,hamilton,Donald Trump,5830,0.4040754089270862
+florida,hardee,Donald Trump,8485,0.3149942458328693
+florida,hendry,Donald Trump,12940,0.3079339393650945
+florida,hernando,Donald Trump,108922,0.5616852310231023
+florida,highlands,Donald Trump,52170,0.49114581862343604
+florida,hillsborough,Joe Biden,712063,0.48374896736885586
+florida,holmes,Donald Trump,9068,0.4622521282561044
+florida,indian river,Donald Trump,97484,0.6095683547707335
+florida,jackson,Donald Trump,22419,0.48302236394191406
+florida,jefferson,Donald Trump,8451,0.593219149234873
+florida,lafayette,Donald Trump,3658,0.4343386369033484
+florida,lake,Donald Trump,211314,0.5756023948703142
+florida,lee,Donald Trump,393899,0.5111740942177095
+florida,leon,Joe Biden,162929,0.5549693101075679
+florida,levy,Donald Trump,23145,0.5576705298412163
+florida,liberty,Donald Trump,3561,0.42626286808714386
+florida,madison,Donald Trump,9380,0.5072189477099444
+florida,manatee,Donald Trump,216958,0.538019555961146
+florida,marion,Donald Trump,204376,0.5590474288731027
+florida,martin,Donald Trump,98726,0.6132049689440994
+florida,miami-dade,Joe Biden,1156816,0.4257790013765486
+florida,monroe,Donald Trump,48029,0.6470469364660236
+florida,nassau,Donald Trump,58811,0.6635937940761636
+florida,okaloosa,Donald Trump,116373,0.5522164963129573
+florida,okeechobee,Donald Trump,15954,0.3783437677859989
+florida,orange,Joe Biden,647403,0.4646037323137073
+florida,osceola,Joe Biden,172436,0.45891028899457353
+florida,palm beach,Joe Biden,773158,0.5165509730953988
+florida,pasco,Donald Trump,301970,0.5451243530518263
+florida,pinellas,Joe Biden,559715,0.574069021821628
+florida,polk,Donald Trump,343256,0.47360222523617607
+florida,putnam,Donald Trump,36373,0.488090605332725
+florida,santa rosa,Donald Trump,106928,0.5801435601395453
+florida,sarasota,Donald Trump,270575,0.6238155401137081
+florida,seminole,Joe Biden,260815,0.5527779308473887
+florida,st. johns,Donald Trump,176622,0.6673240841494378
+florida,st. lucie,Donald Trump,172169,0.5244306222719062
+florida,sumter,Donald Trump,92485,0.6984216885666817
+florida,suwannee,Donald Trump,21057,0.4740752414616025
+florida,taylor,Donald Trump,10127,0.46951643562520284
+florida,union,Donald Trump,6245,0.40985758351381507
+florida,volusia,Donald Trump,307439,0.5556621915688869
+florida,wakulla,Donald Trump,18404,0.5454814902634932
+florida,walton,Donald Trump,43711,0.5901229901040893
+florida,washington,Donald Trump,12327,0.48392415498763397
+georgia,appling,Donald Trump,8390,0.4563254650277385
+georgia,atkinson,Donald Trump,3155,0.38640538885486836
+georgia,bacon,Donald Trump,4667,0.4180401289860265
+georgia,baker,Donald Trump,1555,0.5118499012508229
+georgia,baldwin,Joe Biden,18251,0.40657161951436843
+georgia,banks,Donald Trump,8801,0.4575751273786004
+georgia,barrow,Donald Trump,37921,0.45556222969726096
+georgia,bartow,Donald Trump,50464,0.46839555217286377
+georgia,ben hill,Donald Trump,6564,0.39305389221556886
+georgia,berrien,Donald Trump,7743,0.3991854410475847
+georgia,bibb,Joe Biden,70714,0.4617031973308784
+georgia,bleckley,Donald Trump,5708,0.44340868484424767
+georgia,brantley,Donald Trump,7749,0.4055157255743367
+georgia,brooks,Donald Trump,7101,0.45940350650190853
+georgia,bryan,Donald Trump,21335,0.5383955383955384
+georgia,bulloch,Donald Trump,30090,0.37797708772987637
+georgia,burke,Donald Trump,10683,0.4772818657016486
+georgia,butts,Donald Trump,11771,0.4720484440166827
+georgia,calhoun,Joe Biden,2198,0.35514622717725
+georgia,camden,Donald Trump,23686,0.4332857717777046
+georgia,candler,Donald Trump,4431,0.41016384337683975
+georgia,carroll,Donald Trump,54472,0.45396359757317156
+georgia,catoosa,Donald Trump,32593,0.482287659070731
+georgia,charlton,Donald Trump,4568,0.34109916367980886
+georgia,chatham,Joe Biden,133408,0.4609335590643679
+georgia,chattahoochee,Donald Trump,1582,0.14504446685614744
+georgia,chattooga,Donald Trump,10050,0.4054217596514583
+georgia,cherokee,Donald Trump,144815,0.5596217534286807
+georgia,clarke,Joe Biden,51346,0.40010597595280956
+georgia,clay,Joe Biden,1435,0.5063514467184191
+georgia,clayton,Joe Biden,112330,0.3843548122194241
+georgia,clinch,Donald Trump,2861,0.43230583257781807
+georgia,cobb,Joe Biden,393728,0.5179670613741398
+georgia,coffee,Donald Trump,15214,0.35158181776165276
+georgia,colquitt,Donald Trump,16086,0.35276315789473683
+georgia,columbia,Donald Trump,80575,0.5141531707441581
+georgia,cook,Donald Trump,7035,0.40735379270411115
+georgia,coweta,Donald Trump,76799,0.5171336417321509
+georgia,crawford,Donald Trump,6102,0.49193808448887455
+georgia,crisp,Donald Trump,8033,0.3590649025567674
+georgia,dade,Donald Trump,7434,0.4612807148175726
+georgia,dawson,Donald Trump,16081,0.6159414738777387
+georgia,decatur,Donald Trump,11625,0.44027420087865476
+georgia,dekalb,Joe Biden,370746,0.48827533889900787
+georgia,dodge,Donald Trump,8071,0.3917010434360592
+georgia,dooly,Donald Trump,4105,0.30657206870799103
+georgia,dougherty,Joe Biden,35287,0.4011892309791259
+georgia,douglas,Joe Biden,69106,0.4722193750298955
+georgia,early,Donald Trump,5188,0.509126594700687
+georgia,echols,Donald Trump,1441,0.35971043434847727
+georgia,effingham,Donald Trump,31571,0.4910258803035959
+georgia,elbert,Donald Trump,9171,0.47780556423882464
+georgia,emanuel,Donald Trump,9505,0.4197209220171333
+georgia,evans,Donald Trump,4247,0.39862962267692886
+georgia,fannin,Donald Trump,14849,0.5670154269130899
+georgia,fayette,Donald Trump,71994,0.6292026813259803
+georgia,floyd,Donald Trump,41341,0.41971410587016994
+georgia,forsyth,Donald Trump,129311,0.5294163405007942
+georgia,franklin,Donald Trump,10765,0.46104758233757337
+georgia,fulton,Joe Biden,523779,0.4923026457393624
+georgia,gilmer,Donald Trump,16525,0.5267939685676942
+georgia,glascock,Donald Trump,1565,0.5267586671154494
+georgia,glynn,Donald Trump,41988,0.4922853257046382
+georgia,gordon,Donald Trump,24033,0.4146265721235961
+georgia,grady,Donald Trump,10707,0.4346608208500792
+georgia,greene,Donald Trump,11244,0.6136214800261951
+georgia,gwinnett,Joe Biden,414023,0.44221415220293725
+georgia,habersham,Donald Trump,20431,0.45073685139428166
+georgia,hall,Donald Trump,90537,0.4428514828238954
+georgia,hancock,Joe Biden,4153,0.4910724843325056
+georgia,haralson,Donald Trump,14246,0.47818206229860366
+georgia,harris,Donald Trump,19991,0.5673458962424793
+georgia,hart,Donald Trump,12728,0.4857088341919481
+georgia,heard,Donald Trump,5394,0.4524029187285079
+georgia,henry,Joe Biden,122998,0.5243753224108014
+georgia,houston,Donald Trump,74838,0.4740692879268733
+georgia,irwin,Donald Trump,4168,0.44265080713678845
+georgia,jackson,Donald Trump,37675,0.5162585472135056
+georgia,jasper,Donald Trump,7644,0.5375905478584992
+georgia,jeff davis,Donald Trump,5771,0.38180615282831626
+georgia,jefferson,Joe Biden,7639,0.4972659809920583
+georgia,jenkins,Donald Trump,3455,0.3982249884739511
+georgia,johnson,Donald Trump,4100,0.4251788862387224
+georgia,jones,Donald Trump,14934,0.5197146337219419
+georgia,lamar,Donald Trump,9045,0.47413115269696493
+georgia,lanier,Donald Trump,3576,0.3430874028590617
+georgia,laurens,Donald Trump,22731,0.4780843814411307
+georgia,lee,Donald Trump,16714,0.5572819418511603
+georgia,liberty,Joe Biden,21394,0.34823797509562954
+georgia,lincoln,Donald Trump,4641,0.5859108698396667
+georgia,long,Donald Trump,5657,0.2892274656168516
+georgia,lowndes,Donald Trump,46355,0.39482649949747034
+georgia,lumpkin,Donald Trump,15531,0.46209461469800656
+georgia,macon,Joe Biden,4663,0.36016065497798716
+georgia,madison,Donald Trump,14937,0.4998995983935743
+georgia,marion,Donald Trump,3625,0.4336643139131475
+georgia,mcduffie,Donald Trump,10455,0.4905686936936937
+georgia,mcintosh,Donald Trump,6696,0.46571150368618724
+georgia,meriwether,Donald Trump,10877,0.5138659233712854
+georgia,miller,Donald Trump,2834,0.4956278419027632
+georgia,mitchell,Donald Trump,8962,0.4099162969400357
+georgia,monroe,Donald Trump,15590,0.5653056784393357
+georgia,montgomery,Donald Trump,3967,0.4325119930222416
+georgia,morgan,Donald Trump,11706,0.6072836688109566
+georgia,murray,Donald Trump,15389,0.3838038707102953
+georgia,muscogee,Joe Biden,80514,0.41127042585904816
+georgia,newton,Joe Biden,54234,0.4853414948453608
+georgia,oconee,Donald Trump,25168,0.6248262164846078
+georgia,oglethorpe,Donald Trump,8133,0.53299691985058
+georgia,paulding,Donald Trump,85372,0.5061571024563193
+georgia,peach,Donald Trump,12553,0.4557104479779278
+georgia,pickens,Donald Trump,17167,0.5267405111840692
+georgia,pierce,Donald Trump,9047,0.46478294374518364
+georgia,pike,Donald Trump,10720,0.565341208733256
+georgia,polk,Donald Trump,17396,0.4082322296012954
+georgia,pulaski,Donald Trump,4081,0.366436203645506
+georgia,putnam,Donald Trump,11855,0.5359645553596456
+georgia,quitman,Donald Trump,1106,0.4810787298825576
+georgia,rabun,Donald Trump,9568,0.5583240940654723
+georgia,randolph,Joe Biden,3073,0.4533785777515491
+georgia,richmond,Joe Biden,87009,0.42963588421769916
+georgia,rockdale,Joe Biden,44681,0.4915617848970252
+georgia,schley,Donald Trump,2275,0.43275632490013316
+georgia,screven,Donald Trump,6627,0.4745095231275956
+georgia,seminole,Donald Trump,3888,0.480593325092707
+georgia,spalding,Donald Trump,30211,0.45291815960301635
+georgia,stephens,Donald Trump,11885,0.4584378013500482
+georgia,stewart,Joe Biden,1990,0.3005588279716055
+georgia,sumter,Joe Biden,12148,0.4114618615363772
+georgia,talbot,Joe Biden,3522,0.5685230024213075
+georgia,taliaferro,Joe Biden,928,0.6037735849056604
+georgia,tattnall,Donald Trump,8185,0.3236969073795776
+georgia,taylor,Donald Trump,3842,0.47905236907730675
+georgia,telfair,Donald Trump,4334,0.27326607818411097
+georgia,terrell,Joe Biden,4416,0.5176415426093073
+georgia,thomas,Donald Trump,21872,0.49204742300510673
+georgia,tift,Donald Trump,16279,0.40052652298002167
+georgia,toombs,Donald Trump,10914,0.40678345136041744
+georgia,towns,Donald Trump,7979,0.6628728088394118
+georgia,treutlen,Donald Trump,3077,0.4458774090711491
+georgia,troup,Donald Trump,30047,0.4297216898830125
+georgia,turner,Donald Trump,3791,0.47476518472135254
+georgia,twiggs,Donald Trump,4444,0.5472906403940887
+georgia,union,Donald Trump,15558,0.6347354249112643
+georgia,upson,Donald Trump,12905,0.4903115501519757
+georgia,walker,Donald Trump,29354,0.4207795186422213
+georgia,walton,Donald Trump,51093,0.5401351051346294
+georgia,ware,Donald Trump,14189,0.39707281580567527
+georgia,warren,Joe Biden,2650,0.5043776170536733
+georgia,washington,Joe Biden,9477,0.46515166388534407
+georgia,wayne,Donald Trump,12779,0.4270057139038327
+georgia,webster,Donald Trump,1391,0.5335634829305715
+georgia,wheeler,Donald Trump,2285,0.29089751750477405
+georgia,white,Donald Trump,14816,0.481070199363595
+georgia,whitfield,Donald Trump,36766,0.3513973314982605
+georgia,wilcox,Donald Trump,3279,0.37973364215402433
+georgia,wilkes,Donald Trump,5030,0.5144727421499438
+georgia,wilkinson,Donald Trump,4770,0.5327228054500782
+georgia,worth,Donald Trump,9285,0.45858645725292635
+hawaii,hawaii,Joe Biden,87814,0.4357733744224938
+hawaii,honolulu,Joe Biden,382114,0.3920875305136764
+hawaii,kauai,Joe Biden,33497,0.46335053186338926
+hawaii,maui,Joe Biden,71044,0.424353560271657
+idaho,ada,Donald Trump,259700,0.5392587424494432
+idaho,adams,Donald Trump,2586,0.6022356776897997
+idaho,bannock,Donald Trump,39587,0.4508359147230321
+idaho,bear lake,Donald Trump,3316,0.5413877551020408
+idaho,benewah,Donald Trump,4975,0.5350613035061303
+idaho,bingham,Donald Trump,19996,0.42716455533955694
+idaho,blaine,Joe Biden,13288,0.5772121106815516
+idaho,boise,Donald Trump,4822,0.6157578853275444
+idaho,bonner,Donald Trump,27352,0.598001705328057
+idaho,bonneville,Donald Trump,54034,0.45383077724210913
+idaho,boundary,Donald Trump,6317,0.5158840342997142
+idaho,butte,Donald Trump,1415,0.5448594532152483
+idaho,camas,Donald Trump,754,0.6817359855334539
+idaho,canyon,Donald Trump,90457,0.3935496782670362
+idaho,caribou,Donald Trump,3416,0.4774283717679944
+idaho,cassia,Donald Trump,9632,0.4008322929671244
+idaho,clark,Donald Trump,311,0.3680473372781065
+idaho,clearwater,Donald Trump,4419,0.504682503426222
+idaho,custer,Donald Trump,2739,0.6347624565469293
+idaho,elmore,Donald Trump,10213,0.37123332485187743
+idaho,franklin,Donald Trump,6664,0.4802536754107812
+idaho,fremont,Donald Trump,6721,0.5130926024887396
+idaho,gem,Donald Trump,9960,0.5499116607773852
+idaho,gooding,Donald Trump,6052,0.3987087423413927
+idaho,jefferson,Donald Trump,14180,0.4747079106826019
+idaho,jerome,Donald Trump,7815,0.3201294445354744
+idaho,kootenai,Donald Trump,89511,0.5402089355872466
+idaho,latah,Joe Biden,20610,0.513862571058143
+idaho,lemhi,Donald Trump,4739,0.5903824592001993
+idaho,lewis,Donald Trump,1870,0.48723293381969773
+idaho,lincoln,Donald Trump,1941,0.36172195303764443
+idaho,madison,Donald Trump,17137,0.4294234094269176
+idaho,minidoka,Donald Trump,7993,0.3799134939873568
+idaho,nez perce,Donald Trump,20985,0.5193278558701248
+idaho,oneida,Donald Trump,2452,0.5411608916354006
+idaho,owyhee,Donald Trump,4743,0.4011672164425273
+idaho,payette,Donald Trump,11293,0.47150432132270054
+idaho,power,Donald Trump,3076,0.40046868897279
+idaho,shoshone,Donald Trump,6049,0.4695699425555038
+idaho,teton,Joe Biden,6362,0.5239663976280678
+idaho,twin falls,Donald Trump,36512,0.4202675015539032
+idaho,valley,Donald Trump,7063,0.6199964887640449
+idaho,washington,Donald Trump,5346,0.5244261330194232
+illinois,adams,Donald Trump,33527,0.5123710552456636
+illinois,alexander,Donald Trump,2618,0.45443499392466585
+illinois,bond,Donald Trump,8145,0.4958602215999026
+illinois,boone,Donald Trump,24979,0.4665135215897206
+illinois,brown,Donald Trump,2521,0.3832471875950137
+illinois,bureau,Donald Trump,17434,0.5343263454701483
+illinois,calhoun,Donald Trump,2772,0.5849335302806499
+illinois,carroll,Donald Trump,8024,0.5609227542817197
+illinois,cass,Donald Trump,5317,0.43772124804478474
+illinois,champaign,Joe Biden,95142,0.4537290940392677
+illinois,christian,Donald Trump,16204,0.5016097077761268
+illinois,clark,Donald Trump,8356,0.5411566608380286
+illinois,clay,Donald Trump,6886,0.5222997572815534
+illinois,clinton,Donald Trump,19170,0.5103562110643736
+illinois,coles,Donald Trump,22606,0.44657355642915
+illinois,cook,Joe Biden,2325405,0.4515145237118398
+illinois,crawford,Donald Trump,9425,0.504901698183961
+illinois,cumberland,Donald Trump,5832,0.5417053687534832
+illinois,dekalb,Joe Biden,47825,0.4559234296500377
+illinois,douglas,Donald Trump,8738,0.4489082969432314
+illinois,dupage,Joe Biden,485104,0.5256181189939334
+illinois,edgar,Donald Trump,8196,0.4775945457723909
+illinois,edwards,Donald Trump,3366,0.5263487099296326
+illinois,effingham,Donald Trump,19049,0.5601329099035521
+illinois,fayette,Donald Trump,10056,0.47131608548931386
+illinois,ford,Donald Trump,6953,0.536455520407376
+illinois,franklin,Donald Trump,18626,0.48418206867867636
+illinois,fulton,Donald Trump,16678,0.4856726849155504
+illinois,gallatin,Donald Trump,2674,0.5538525269262634
+illinois,greene,Donald Trump,6227,0.4801449610609916
+illinois,grundy,Donald Trump,26691,0.5227993888823599
+illinois,hamilton,Donald Trump,4315,0.5316658452439625
+illinois,hancock,Donald Trump,9383,0.5298735035012424
+illinois,hardin,Donald Trump,2162,0.565820465846637
+illinois,henderson,Donald Trump,3647,0.5487511284983448
+illinois,henry,Donald Trump,25635,0.5240937991944882
+illinois,iroquois,Donald Trump,14025,0.5172604558530648
+illinois,jackson,Joe Biden,22643,0.39899559471365637
+illinois,jasper,Donald Trump,5576,0.5802289281997919
+illinois,jefferson,Donald Trump,17404,0.4618405689417259
+illinois,jersey,Donald Trump,11937,0.5482478298810454
+illinois,johnson,Donald Trump,6437,0.5184021905452203
+illinois,kane,Joe Biden,231876,0.4355272227992705
+illinois,kankakee,Donald Trump,49902,0.45422439059911524
+illinois,kendall,Joe Biden,63974,0.4959609272036592
+illinois,knox,Donald Trump,23143,0.4656632930240045
+illinois,lake,Joe Biden,334177,0.4797705786500319
+illinois,lasalle,Donald Trump,53591,0.4931581223716055
+illinois,lawrence,Donald Trump,6411,0.40891695369307307
+illinois,lee,Donald Trump,16397,0.48090685124354765
+illinois,livingston,Donald Trump,17174,0.481766157989228
+illinois,logan,Donald Trump,13294,0.4645328115172269
+illinois,macon,Donald Trump,49390,0.4748627522618235
+illinois,macoupin,Donald Trump,24022,0.5347015091483773
+illinois,madison,Donald Trump,137139,0.5215084839865229
+illinois,marion,Donald Trump,17458,0.46923800564440266
+illinois,marshall,Donald Trump,6334,0.5537681412834412
+illinois,mason,Donald Trump,6766,0.5064750355565536
+illinois,massac,Donald Trump,6813,0.4946993900668022
+illinois,mcdonough,Donald Trump,12285,0.41388720436628257
+illinois,mchenry,Donald Trump,163879,0.5324653804414928
+illinois,mclean,Joe Biden,87002,0.5072500102030703
+illinois,menard,Donald Trump,6928,0.5680551000327977
+illinois,mercer,Donald Trump,8893,0.576083435900758
+illinois,monroe,Donald Trump,21148,0.6105609608222421
+illinois,montgomery,Donald Trump,13727,0.4831069191243753
+illinois,morgan,Donald Trump,15309,0.4548398597658803
+illinois,moultrie,Donald Trump,6744,0.46507137438797325
+illinois,ogle,Donald Trump,26272,0.5187686353494066
+illinois,peoria,Joe Biden,83973,0.4686542507771558
+illinois,perry,Donald Trump,10053,0.4806368330464716
+illinois,piatt,Donald Trump,9822,0.6009544787077826
+illinois,pike,Donald Trump,7949,0.5108283529336161
+illinois,pope,Donald Trump,2175,0.5207086425664352
+illinois,pulaski,Donald Trump,2624,0.491846298031865
+illinois,putnam,Donald Trump,3390,0.5906952430737062
+illinois,randolph,Donald Trump,14891,0.46853564910955886
+illinois,richland,Donald Trump,8063,0.5197576226390769
+illinois,rock island,Joe Biden,66758,0.4705277031836988
+illinois,saline,Donald Trump,11066,0.4710740283512835
+illinois,sangamon,Donald Trump,104752,0.5380948467165283
+illinois,schuyler,Donald Trump,3906,0.5771276595744681
+illinois,scott,Donald Trump,2737,0.5528176126035145
+illinois,shelby,Donald Trump,12097,0.5591661273920681
+illinois,st. clair,Joe Biden,128091,0.4932533906333033
+illinois,stark,Donald Trump,2883,0.5396855110445526
+illinois,stephenson,Donald Trump,22048,0.4954829430536204
+illinois,tazewell,Donald Trump,69052,0.5239030978050575
+illinois,union,Donald Trump,8886,0.5335975499909926
+illinois,vermilion,Donald Trump,31584,0.41690646532379416
+illinois,wabash,Donald Trump,5593,0.48550347222222223
+illinois,warren,Donald Trump,7909,0.4695440512942294
+illinois,washington,Donald Trump,7902,0.5690213869086196
+illinois,wayne,Donald Trump,8486,0.5233425840271354
+illinois,white,Donald Trump,7421,0.5482012262687449
+illinois,whiteside,Donald Trump,27375,0.49614861803352966
+illinois,will,Joe Biden,345105,0.4996141835675497
+illinois,williamson,Donald Trump,33653,0.5053230626004175
+illinois,winnebago,Joe Biden,127709,0.451952068853248
+illinois,woodford,Donald Trump,21432,0.5572687797394628
+indiana,adams,Donald Trump,14209,0.39715459652849594
+indiana,allen,Donald Trump,169082,0.4457749690877118
+indiana,bartholomew,Donald Trump,36235,0.4325069528163382
+indiana,benton,Donald Trump,4114,0.4702789208962048
+indiana,blackford,Donald Trump,5350,0.45500935533253956
+indiana,boone,Donald Trump,38520,0.5677814955116961
+indiana,brown,Donald Trump,8981,0.5950834879406308
+indiana,carroll,Donald Trump,9495,0.4687268598509157
+indiana,cass,Donald Trump,15198,0.40324763193504737
+indiana,clark,Donald Trump,57869,0.4891633277543913
+indiana,clay,Donald Trump,12267,0.46775977121067686
+indiana,clinton,Donald Trump,12949,0.39967282940831506
+indiana,crawford,Donald Trump,4944,0.467429327786707
+indiana,daviess,Donald Trump,11954,0.358430032082996
+indiana,dearborn,Donald Trump,25383,0.5132233410166201
+indiana,decatur,Donald Trump,12287,0.4626303701193569
+indiana,dekalb,Donald Trump,19628,0.451477860839563
+indiana,delaware,Donald Trump,48191,0.42222806325842205
+indiana,dubois,Donald Trump,21770,0.5094065892923999
+indiana,elkhart,Donald Trump,74387,0.36050518316766905
+indiana,fayette,Donald Trump,10136,0.4387498917842611
+indiana,floyd,Donald Trump,41802,0.5323603576067854
+indiana,fountain,Donald Trump,7986,0.48855989232839836
+indiana,franklin,Donald Trump,12000,0.5272871078302136
+indiana,fulton,Donald Trump,9147,0.45794532892760587
+indiana,gibson,Donald Trump,16161,0.4801390415639205
+indiana,grant,Donald Trump,27159,0.4129453085800301
+indiana,greene,Donald Trump,14784,0.4631288766368022
+indiana,hamilton,Donald Trump,193999,0.5739428598477564
+indiana,hancock,Donald Trump,42911,0.5489586531573022
+indiana,harrison,Donald Trump,20236,0.4994693323460447
+indiana,hendricks,Donald Trump,88505,0.5196669622044378
+indiana,henry,Donald Trump,21030,0.4383807220878846
+indiana,howard,Donald Trump,40630,0.4922223299088971
+indiana,huntington,Donald Trump,17829,0.48819824753559693
+indiana,jackson,Donald Trump,19238,0.43494381768442947
+indiana,jasper,Donald Trump,15475,0.4610869435671295
+indiana,jay,Donald Trump,8461,0.4140242708944999
+indiana,jefferson,Donald Trump,14697,0.45490281044942427
+indiana,jennings,Donald Trump,12251,0.44171624301424195
+indiana,johnson,Donald Trump,77618,0.4907344768504176
+indiana,knox,Donald Trump,16011,0.43753074274471226
+indiana,kosciusko,Donald Trump,35787,0.4504002215062424
+indiana,lagrange,Donald Trump,10633,0.2684152067450901
+indiana,lake,Joe Biden,219956,0.4530569956724402
+indiana,laporte,Donald Trump,49392,0.44947582993593477
+indiana,lawrence,Donald Trump,21025,0.4634119462199691
+indiana,madison,Donald Trump,51793,0.39973296081624465
+indiana,marion,Joe Biden,389619,0.4039252235683436
+indiana,marshall,Donald Trump,19927,0.4307795408361797
+indiana,martin,Donald Trump,5144,0.5016089712335446
+indiana,miami,Donald Trump,14473,0.4075064759544994
+indiana,monroe,Joe Biden,63151,0.42545694632522857
+indiana,montgomery,Donald Trump,17198,0.4485888674422244
+indiana,morgan,Donald Trump,36159,0.5129736554639731
+indiana,newton,Donald Trump,6591,0.47132437070938216
+indiana,noble,Donald Trump,19190,0.4019353217158177
+indiana,ohio,Donald Trump,3164,0.5385531914893616
+indiana,orange,Donald Trump,8832,0.4495571617632088
+indiana,owen,Donald Trump,9904,0.4761767392663109
+indiana,parke,Donald Trump,7013,0.41406388380468795
+indiana,perry,Donald Trump,8722,0.45500547759403204
+indiana,pike,Donald Trump,6220,0.5020582775042376
+indiana,porter,Donald Trump,86509,0.5077146998925987
+indiana,posey,Donald Trump,13236,0.5205490226924135
+indiana,pulaski,Donald Trump,5806,0.470007285679592
+indiana,putnam,Donald Trump,16597,0.4416915052160954
+indiana,randolph,Donald Trump,11070,0.44881410906142305
+indiana,ripley,Donald Trump,14271,0.5038483265075554
+indiana,rush,Donald Trump,7932,0.4783788673783246
+indiana,scott,Donald Trump,10167,0.42587860763205293
+indiana,shelby,Donald Trump,19991,0.4469359923092401
+indiana,spencer,Donald Trump,10769,0.5310943433446762
+indiana,st. joseph,Joe Biden,115238,0.42394031476017746
+indiana,starke,Donald Trump,10290,0.4474885844748858
+indiana,steuben,Donald Trump,16162,0.4671908423426028
+indiana,sullivan,Donald Trump,8994,0.43514441917847985
+indiana,switzerland,Donald Trump,4154,0.38638266207794625
+indiana,tippecanoe,Joe Biden,71448,0.3650297345349764
+indiana,tipton,Donald Trump,8116,0.5357803010298389
+indiana,union,Donald Trump,3483,0.49376240430961155
+indiana,vanderburgh,Donald Trump,77662,0.42800535681809415
+indiana,vermillion,Donald Trump,7481,0.4827074461220803
+indiana,vigo,Donald Trump,43594,0.40727592070105945
+indiana,wabash,Donald Trump,14573,0.4701574396696348
+indiana,warren,Donald Trump,4472,0.5410768300060496
+indiana,warrick,Donald Trump,33829,0.5369853011206704
+indiana,washington,Donald Trump,12139,0.4329790269653303
+indiana,wayne,Donald Trump,27679,0.42011717564203754
+indiana,wells,Donald Trump,14050,0.49653661294882667
+indiana,white,Donald Trump,11166,0.46328105551406523
+indiana,whitley,Donald Trump,17556,0.5169002473206925
+iowa,adair,Donald Trump,4177,0.5840324384787472
+iowa,adams,Donald Trump,2160,0.5996668517490283
+iowa,allamakee,Donald Trump,7422,0.5422663841601519
+iowa,appanoose,Donald Trump,6516,0.5243843553838725
+iowa,audubon,Donald Trump,3420,0.6222707423580786
+iowa,benton,Donald Trump,14642,0.5709495028270618
+iowa,black hawk,Joe Biden,66593,0.5074602981071112
+iowa,boone,Donald Trump,15340,0.5847373637264618
+iowa,bremer,Donald Trump,14546,0.5804006064958902
+iowa,buchanan,Donald Trump,10774,0.5088075560802834
+iowa,buena vista,Donald Trump,8167,0.41625891946992866
+iowa,butler,Donald Trump,8098,0.5608421635847358
+iowa,calhoun,Donald Trump,5258,0.5438560198593297
+iowa,carroll,Donald Trump,11335,0.5621125712868832
+iowa,cass,Donald Trump,7276,0.5668432533499532
+iowa,cedar,Donald Trump,10703,0.5745960165351371
+iowa,cerro gordo,Donald Trump,23801,0.5606831566548881
+iowa,cherokee,Donald Trump,6518,0.5801513128615933
+iowa,chickasaw,Donald Trump,6631,0.55568591301433
+iowa,clarke,Donald Trump,4670,0.4970729111229377
+iowa,clay,Donald Trump,8969,0.5600024975024975
+iowa,clayton,Donald Trump,9594,0.5466978175394609
+iowa,clinton,Donald Trump,24687,0.5317150918606905
+iowa,crawford,Donald Trump,7154,0.4253269916765755
+iowa,dallas,Donald Trump,56022,0.5994671118102147
+iowa,davis,Donald Trump,4102,0.4557777777777778
+iowa,decatur,Donald Trump,3804,0.4833545108005083
+iowa,delaware,Donald Trump,10003,0.588031273881606
+iowa,des moines,Donald Trump,19956,0.5121256447763493
+iowa,dickinson,Donald Trump,11244,0.6515239309305829
+iowa,dubuque,Donald Trump,53926,0.5541614000472711
+iowa,emmet,Donald Trump,4853,0.5270417028670721
+iowa,fayette,Donald Trump,10186,0.5183715012722646
+iowa,floyd,Donald Trump,8032,0.5134893236159059
+iowa,franklin,Donald Trump,5130,0.5094339622641509
+iowa,fremont,Donald Trump,3857,0.5541666666666667
+iowa,greene,Donald Trump,5057,0.568969396939694
+iowa,grundy,Donald Trump,7276,0.5948332243296272
+iowa,guthrie,Donald Trump,6371,0.596033305267097
+iowa,hamilton,Donald Trump,7943,0.5376700737832533
+iowa,hancock,Donald Trump,6172,0.580620884289746
+iowa,hardin,Donald Trump,8989,0.5335984803514188
+iowa,harrison,Donald Trump,8155,0.580468360737419
+iowa,henry,Donald Trump,9982,0.5002505763255488
+iowa,howard,Donald Trump,4958,0.5413845817864162
+iowa,humboldt,Donald Trump,5327,0.5573341703285206
+iowa,ida,Donald Trump,3849,0.5610787172011662
+iowa,iowa,Donald Trump,9742,0.601952545724172
+iowa,jackson,Donald Trump,11135,0.5728175317660373
+iowa,jasper,Donald Trump,20184,0.5427995159338443
+iowa,jefferson,Donald Trump,8959,0.4896966384257994
+iowa,johnson,Joe Biden,83851,0.5547902606854572
+iowa,jones,Donald Trump,10989,0.5313572844640008
+iowa,keokuk,Donald Trump,5303,0.517567831348819
+iowa,kossuth,Donald Trump,9090,0.6136501721460879
+iowa,lee,Donald Trump,16734,0.4971922631250557
+iowa,linn,Joe Biden,127458,0.5622171446719539
+iowa,louisa,Donald Trump,5332,0.48318985047575896
+iowa,lucas,Donald Trump,4630,0.5383720930232558
+iowa,lyon,Donald Trump,6863,0.5838366652488303
+iowa,madison,Donald Trump,9824,0.601297588444118
+iowa,mahaska,Donald Trump,11404,0.5161348721430188
+iowa,marion,Donald Trump,19232,0.5783538327368959
+iowa,marshall,Donald Trump,18136,0.4606670222764104
+iowa,mills,Donald Trump,8268,0.5472235091667218
+iowa,mitchell,Donald Trump,5822,0.5499716606839221
+iowa,monona,Donald Trump,4728,0.5488102147417295
+iowa,monroe,Donald Trump,4088,0.5304268846503178
+iowa,montgomery,Donald Trump,5327,0.5371584148431986
+iowa,muscatine,Donald Trump,20671,0.48450684417776113
+iowa,o'brien,Donald Trump,7551,0.5490438449792773
+iowa,osceola,Donald Trump,3328,0.5585767035918093
+iowa,page,Donald Trump,7528,0.4983120407757993
+iowa,palo alto,Donald Trump,4958,0.557956335809138
+iowa,plymouth,Donald Trump,14188,0.5635302061405251
+iowa,pocahontas,Donald Trump,3823,0.5775796948179484
+iowa,polk,Joe Biden,258755,0.5278979763791897
+iowa,pottawattamie,Donald Trump,45744,0.49078385511662337
+iowa,poweshiek,Donald Trump,10140,0.5479896238651103
+iowa,ringgold,Donald Trump,2714,0.5545565999182672
+iowa,sac,Donald Trump,5535,0.5693858656516819
+iowa,scott,Joe Biden,92599,0.5354307488594509
+iowa,shelby,Donald Trump,6795,0.5932425353588267
+iowa,sioux,Donald Trump,19051,0.5465786831157653
+iowa,story,Joe Biden,51038,0.5255310604734496
+iowa,tama,Donald Trump,9048,0.5368458526165896
+iowa,taylor,Donald Trump,3249,0.5307956216304526
+iowa,union,Donald Trump,6185,0.5052691773547913
+iowa,van buren,Donald Trump,3791,0.5381885292447472
+iowa,wapello,Donald Trump,15633,0.4470531041779862
+iowa,warren,Donald Trump,31039,0.6030971903781137
+iowa,washington,Donald Trump,11765,0.535624857728204
+iowa,wayne,Donald Trump,3109,0.4826890234435647
+iowa,webster,Donald Trump,17822,0.49637923351158647
+iowa,winnebago,Donald Trump,5970,0.5765887579679351
+iowa,winneshiek,Donald Trump,12064,0.6034715622029914
+iowa,woodbury,Donald Trump,45362,0.4399507307942235
+iowa,worth,Donald Trump,4418,0.5985638802330308
+iowa,wright,Donald Trump,6254,0.49785066072281486
+kansas,allen,Donald Trump,5918,0.47845420001616945
+kansas,anderson,Donald Trump,3792,0.48256553830491217
+kansas,atchison,Donald Trump,7440,0.4628880731661793
+kansas,barber,Donald Trump,2342,0.5290264287327762
+kansas,barton,Donald Trump,11130,0.43174677062725475
+kansas,bourbon,Donald Trump,6701,0.4610568322554011
+kansas,brown,Donald Trump,4471,0.4674822250104559
+kansas,butler,Donald Trump,32520,0.48601874131308753
+kansas,chase,Donald Trump,1491,0.5630664652567976
+kansas,chautauqua,Donald Trump,1639,0.5043076923076923
+kansas,cherokee,Donald Trump,9128,0.45779627864988215
+kansas,cheyenne,Donald Trump,1429,0.5378246142265714
+kansas,clark,Donald Trump,1067,0.5351053159478435
+kansas,clay,Donald Trump,4196,0.5243689077730568
+kansas,cloud,Donald Trump,4263,0.48520373321192806
+kansas,coffey,Donald Trump,4573,0.5591148062110283
+kansas,comanche,Donald Trump,921,0.5417647058823529
+kansas,cowley,Donald Trump,14231,0.40767159390397617
+kansas,crawford,Donald Trump,16718,0.4306764902880107
+kansas,decatur,Donald Trump,1498,0.5298903431199151
+kansas,dickinson,Donald Trump,9349,0.5062818152279865
+kansas,doniphan,Donald Trump,3709,0.4880263157894737
+kansas,douglas,Joe Biden,59495,0.48663084108327403
+kansas,edwards,Donald Trump,1431,0.5114367405289493
+kansas,elk,Donald Trump,1361,0.5379446640316206
+kansas,ellis,Donald Trump,13800,0.483311736069765
+kansas,ellsworth,Donald Trump,2853,0.46755162241887904
+kansas,finney,Donald Trump,11800,0.3235802232155099
+kansas,ford,Donald Trump,8915,0.2651774294297867
+kansas,franklin,Donald Trump,12477,0.4884512997181334
+kansas,geary,Donald Trump,9603,0.3032207136090938
+kansas,gove,Donald Trump,1471,0.5580424886191199
+kansas,graham,Donald Trump,1337,0.5386784850926672
+kansas,grant,Donald Trump,2501,0.3497902097902098
+kansas,gray,Donald Trump,2288,0.38209752839011357
+kansas,greeley,Donald Trump,642,0.5211038961038961
+kansas,greenwood,Donald Trump,3077,0.5143764627214978
+kansas,hamilton,Donald Trump,859,0.33832217408428517
+kansas,harper,Donald Trump,2678,0.4926416482707873
+kansas,harvey,Donald Trump,17309,0.5027447791106335
+kansas,haskell,Donald Trump,1410,0.3553427419354839
+kansas,hodgeman,Donald Trump,1045,0.5824972129319955
+kansas,jackson,Donald Trump,6584,0.4998861134310227
+kansas,jefferson,Donald Trump,9819,0.5156225384655779
+kansas,jewell,Donald Trump,1628,0.5654741229593608
+kansas,johnson,Joe Biden,349386,0.5799890770433648
+kansas,kearny,Donald Trump,1455,0.3791036998436686
+kansas,kingman,Donald Trump,3968,0.5548098434004475
+kansas,kiowa,Donald Trump,1165,0.4707070707070707
+kansas,labette,Donald Trump,8563,0.4364868997859109
+kansas,lane,Donald Trump,895,0.5830618892508144
+kansas,leavenworth,Donald Trump,36490,0.44631717997015585
+kansas,lincoln,Donald Trump,1579,0.5330857528696826
+kansas,linn,Donald Trump,5046,0.5200453467999587
+kansas,logan,Donald Trump,1458,0.521832498210451
+kansas,lyon,Donald Trump,13988,0.4213887633679771
+kansas,marion,Donald Trump,6111,0.5142208010770785
+kansas,marshall,Donald Trump,5114,0.526836303698362
+kansas,mcpherson,Donald Trump,14438,0.505851026557354
+kansas,meade,Donald Trump,1825,0.45251673692040667
+kansas,miami,Donald Trump,17937,0.5239068843648684
+kansas,mitchell,Donald Trump,3101,0.5186486034453922
+kansas,montgomery,Donald Trump,13426,0.42181658236199693
+kansas,morris,Donald Trump,2899,0.5158362989323844
+kansas,morton,Donald Trump,1198,0.4630846540394279
+kansas,nemaha,Donald Trump,5684,0.5555664157951324
+kansas,neosho,Donald Trump,6877,0.42962453926407196
+kansas,ness,Donald Trump,1513,0.5501818181818182
+kansas,norton,Donald Trump,2423,0.4519679164335012
+kansas,osage,Donald Trump,8050,0.5047338391121701
+kansas,osborne,Donald Trump,1945,0.5685472084185911
+kansas,ottawa,Donald Trump,3191,0.5594319775596073
+kansas,pawnee,Donald Trump,2739,0.42703461178671653
+kansas,phillips,Donald Trump,2781,0.5313335880779518
+kansas,pottawatomie,Donald Trump,13083,0.5365623590206291
+kansas,pratt,Donald Trump,4137,0.45144041903099086
+kansas,rawlins,Donald Trump,1504,0.5944664031620553
+kansas,reno,Donald Trump,28057,0.45254685635020486
+kansas,republic,Donald Trump,2657,0.573123382226057
+kansas,rice,Donald Trump,4319,0.4528677781272937
+kansas,riley,Joe Biden,25171,0.339085569565686
+kansas,rooks,Donald Trump,2699,0.5485772357723577
+kansas,rush,Donald Trump,1677,0.5523715415019763
+kansas,russell,Donald Trump,3467,0.5056884480746792
+kansas,saline,Donald Trump,24531,0.4524011507819416
+kansas,scott,Donald Trump,2354,0.488077959776073
+kansas,sedgwick,Donald Trump,223688,0.43346859364160284
+kansas,seward,Donald Trump,5294,0.24705992159790927
+kansas,shawnee,Joe Biden,86122,0.4869088339222615
+kansas,sheridan,Donald Trump,1445,0.5731852439508132
+kansas,sherman,Donald Trump,2732,0.46172046645259424
+kansas,smith,Donald Trump,2129,0.5941948088194251
+kansas,stafford,Donald Trump,2034,0.48941289701636187
+kansas,stanton,Donald Trump,776,0.386839481555334
+kansas,stevens,Donald Trump,2031,0.37028258887876025
+kansas,sumner,Donald Trump,10928,0.47854265195305656
+kansas,thomas,Donald Trump,3822,0.49144914491449143
+kansas,trego,Donald Trump,1630,0.5815198002140564
+kansas,wabaunsee,Donald Trump,3902,0.5629779252633098
+kansas,wallace,Donald Trump,825,0.5434782608695652
+kansas,washington,Donald Trump,2883,0.5332963374028857
+kansas,wichita,Donald Trump,968,0.45681925436526666
+kansas,wilson,Donald Trump,3954,0.4638123167155425
+kansas,woodson,Donald Trump,1546,0.4926704907584449
+kansas,wyandotte,Joe Biden,56785,0.3432590416432427
+kentucky,adair,Donald Trump,8768,0.4566191021768566
+kentucky,allen,Donald Trump,9364,0.43931503635937136
+kentucky,anderson,Donald Trump,13254,0.5826702422297446
+kentucky,ballard,Donald Trump,4225,0.5356237322515213
+kentucky,barren,Donald Trump,20064,0.4534339759090601
+kentucky,bath,Donald Trump,5627,0.45016
+kentucky,bell,Donald Trump,10044,0.3858328211432084
+kentucky,boone,Donald Trump,66998,0.5015533646252087
+kentucky,bourbon,Donald Trump,9648,0.48756822316555487
+kentucky,boyd,Donald Trump,21751,0.46558071835266923
+kentucky,boyle,Donald Trump,14478,0.4816367265469062
+kentucky,bracken,Donald Trump,4246,0.5113814283993737
+kentucky,breathitt,Donald Trump,5661,0.4482185273159145
+kentucky,breckinridge,Donald Trump,10201,0.4981686770523026
+kentucky,bullitt,Donald Trump,41998,0.5142024584945394
+kentucky,butler,Donald Trump,6125,0.47558040220514014
+kentucky,caldwell,Donald Trump,6434,0.5047462147956382
+kentucky,calloway,Donald Trump,17457,0.44760390759211305
+kentucky,campbell,Donald Trump,48878,0.5222901350658232
+kentucky,carlisle,Donald Trump,2638,0.5542016806722689
+kentucky,carroll,Donald Trump,4136,0.3890508889097921
+kentucky,carter,Donald Trump,11586,0.43236183154830765
+kentucky,casey,Donald Trump,7171,0.44377746147657654
+kentucky,christian,Donald Trump,23863,0.338669618654291
+kentucky,clark,Donald Trump,18139,0.5002068223809393
+kentucky,clay,Donald Trump,7591,0.38143811868750316
+kentucky,clinton,Donald Trump,4932,0.48267762771579564
+kentucky,crittenden,Donald Trump,4242,0.48171701112877585
+kentucky,cumberland,Donald Trump,3309,0.5003023888720896
+kentucky,daviess,Donald Trump,49287,0.48553358749298103
+kentucky,edmonson,Donald Trump,6132,0.5046913580246913
+kentucky,elliott,Donald Trump,2995,0.39843022482373286
+kentucky,estill,Donald Trump,6540,0.4636324968098681
+kentucky,fayette,Joe Biden,152912,0.47318908748824084
+kentucky,fleming,Donald Trump,7068,0.48474041560935466
+kentucky,floyd,Donald Trump,16353,0.4594959116580966
+kentucky,franklin,Donald Trump,26072,0.5113059167304034
+kentucky,fulton,Donald Trump,2426,0.4064332383983917
+kentucky,gallatin,Donald Trump,3849,0.43398353816664786
+kentucky,garrard,Donald Trump,8706,0.492811049473565
+kentucky,grant,Donald Trump,11108,0.44309705213610434
+kentucky,graves,Donald Trump,17019,0.45668974400257606
+kentucky,grayson,Donald Trump,11985,0.453513452151209
+kentucky,green,Donald Trump,5812,0.5312128690247692
+kentucky,greenup,Donald Trump,18176,0.5178642657701293
+kentucky,hancock,Donald Trump,4587,0.5259114881907819
+kentucky,hardin,Donald Trump,48941,0.4410768038356856
+kentucky,harlan,Donald Trump,10971,0.42179930795847753
+kentucky,harrison,Donald Trump,8859,0.4690776236365562
+kentucky,hart,Donald Trump,8370,0.4397163120567376
+kentucky,henderson,Donald Trump,20697,0.45779694757796946
+kentucky,henry,Donald Trump,8110,0.5029145479350118
+kentucky,hickman,Donald Trump,2199,0.5020547945205479
+kentucky,hopkins,Donald Trump,21512,0.48140357158841696
+kentucky,jackson,Donald Trump,6113,0.45862405281716556
+kentucky,jefferson,Joe Biden,386629,0.5042392831105552
+kentucky,jessamine,Donald Trump,26280,0.48563244941328654
+kentucky,johnson,Donald Trump,10192,0.459347394988282
+kentucky,kenton,Donald Trump,82198,0.4922094875387729
+kentucky,knott,Donald Trump,6252,0.42226124544103744
+kentucky,knox,Donald Trump,13273,0.42616792422539734
+kentucky,larue,Donald Trump,7301,0.507084317266287
+kentucky,laurel,Donald Trump,28111,0.46225313666485784
+kentucky,lawrence,Donald Trump,6955,0.45407064046484297
+kentucky,lee,Donald Trump,2801,0.378360124273943
+kentucky,leslie,Donald Trump,4813,0.4872937126657892
+kentucky,letcher,Donald Trump,9135,0.4238389087366028
+kentucky,lewis,Donald Trump,5883,0.44316384180790963
+kentucky,lincoln,Donald Trump,10914,0.44458022730050106
+kentucky,livingston,Donald Trump,5004,0.5442680008701327
+kentucky,logan,Donald Trump,12350,0.45568592723784224
+kentucky,lyon,Donald Trump,4228,0.5149817295980511
+kentucky,madison,Donald Trump,43957,0.47272199339692644
+kentucky,magoffin,Donald Trump,5447,0.4479072444700271
+kentucky,marion,Donald Trump,8928,0.46323872775385255
+kentucky,marshall,Donald Trump,17603,0.5660128617363344
+kentucky,martin,Donald Trump,3936,0.35158552925413133
+kentucky,mason,Donald Trump,7958,0.46619800820152313
+kentucky,mccracken,Donald Trump,33549,0.5128405026139594
+kentucky,mccreary,Donald Trump,6438,0.3736289246126168
+kentucky,mclean,Donald Trump,4782,0.519387422613229
+kentucky,meade,Donald Trump,14113,0.49394512109757804
+kentucky,menifee,Donald Trump,3102,0.47803975959315764
+kentucky,mercer,Donald Trump,11735,0.5350385264213742
+kentucky,metcalfe,Donald Trump,5012,0.4976665673716612
+kentucky,monroe,Donald Trump,5330,0.5004694835680751
+kentucky,montgomery,Donald Trump,12842,0.45608552047448236
+kentucky,morgan,Donald Trump,5544,0.41656022240589075
+kentucky,muhlenberg,Donald Trump,14235,0.4648618640193325
+kentucky,nelson,Donald Trump,23256,0.5030173252871326
+kentucky,nicholas,Donald Trump,3396,0.46718943458522494
+kentucky,ohio,Donald Trump,11129,0.46382428940568476
+kentucky,oldham,Donald Trump,37976,0.5685115046632435
+kentucky,owen,Donald Trump,5458,0.5006880102742868
+kentucky,owsley,Donald Trump,1896,0.429445073612684
+kentucky,pendleton,Donald Trump,6925,0.4746401644962303
+kentucky,perry,Donald Trump,10626,0.41253202888423013
+kentucky,pike,Donald Trump,25395,0.43878291519800955
+kentucky,powell,Donald Trump,5505,0.44542438708633386
+kentucky,pulaski,Donald Trump,31557,0.4856492097446867
+kentucky,robertson,Donald Trump,1146,0.5436432637571158
+kentucky,rockcastle,Donald Trump,7784,0.4662473794549266
+kentucky,rowan,Donald Trump,10065,0.4114881439084219
+kentucky,russell,Donald Trump,8955,0.49963733749930256
+kentucky,scott,Donald Trump,28969,0.5081924075503473
+kentucky,shelby,Donald Trump,23550,0.48037695822454307
+kentucky,simpson,Donald Trump,8732,0.47017014861081197
+kentucky,spencer,Donald Trump,11433,0.5908221797323135
+kentucky,taylor,Donald Trump,12517,0.4857386782568202
+kentucky,todd,Donald Trump,5363,0.4362290548234911
+kentucky,trigg,Donald Trump,7376,0.5034468636953109
+kentucky,trimble,Donald Trump,4320,0.5099752095384252
+kentucky,union,Donald Trump,6577,0.45733954523329395
+kentucky,warren,Donald Trump,55401,0.41687484950638093
+kentucky,washington,Donald Trump,6225,0.5146754857379082
+kentucky,wayne,Donald Trump,9240,0.45443367924064326
+kentucky,webster,Donald Trump,5993,0.46306598670993665
+kentucky,whitley,Donald Trump,15356,0.4234502536951246
+kentucky,wolfe,Donald Trump,2979,0.41623585301103816
+kentucky,woodford,Donald Trump,15211,0.5689758360140645
+louisiana,acadia,Donald Trump,28425,0.45813522443387866
+louisiana,allen,Donald Trump,9810,0.38279939126702306
+louisiana,ascension,Donald Trump,62325,0.4922830242330416
+louisiana,assumption,Donald Trump,11235,0.5132246128545978
+louisiana,avoyelles,Donald Trump,17292,0.43074930251096055
+louisiana,beauregard,Donald Trump,16357,0.43622156439181803
+louisiana,bienville,Donald Trump,7050,0.5324371271052035
+louisiana,bossier,Donald Trump,54655,0.4302222152252458
+louisiana,caddo,Joe Biden,104912,0.4367620855606068
+louisiana,calcasieu,Donald Trump,82663,0.4063341788080772
+louisiana,caldwell,Donald Trump,4762,0.48013712442024603
+louisiana,cameron,Donald Trump,4039,0.5792341890147713
+louisiana,catahoula,Donald Trump,4858,0.511691594691384
+louisiana,claiborne,Donald Trump,6580,0.419910657306956
+louisiana,concordia,Donald Trump,8828,0.45838309361856794
+louisiana,east baton rouge,Joe Biden,208182,0.4730774737023899
+louisiana,east carroll,Joe Biden,3036,0.4425010931351115
+louisiana,east feliciana,Donald Trump,10509,0.5492030310948524
+louisiana,evangeline,Donald Trump,15412,0.4615062135050157
+louisiana,franklin,Donald Trump,9720,0.4856357731701224
+louisiana,grant,Donald Trump,9392,0.41949171468131674
+louisiana,iberia,Donald Trump,32713,0.4684662752398682
+louisiana,iberville,Joe Biden,16719,0.514256713112485
+louisiana,jackson,Donald Trump,7632,0.4847560975609756
+louisiana,jefferson,Donald Trump,193733,0.44794482222833665
+louisiana,lafayette,Donald Trump,114521,0.46859936985965056
+louisiana,lafourche,Donald Trump,45388,0.46497428647530065
+louisiana,lincoln,Donald Trump,19275,0.4123700312352916
+louisiana,livingston,Donald Trump,65230,0.46331744667552155
+louisiana,madison,Joe Biden,4670,0.4264450735092686
+louisiana,morehouse,Donald Trump,11574,0.46530513789499073
+louisiana,natchitoches,Donald Trump,16554,0.4338277687509828
+louisiana,orleans,Joe Biden,177819,0.4557778666338583
+louisiana,ouachita,Donald Trump,69166,0.4512425054965129
+louisiana,plaquemines,Donald Trump,11014,0.4748027762210631
+louisiana,pointe coupee,Donald Trump,12371,0.5693051081454211
+louisiana,rapides,Donald Trump,58865,0.4540370850302357
+louisiana,red river,Donald Trump,4132,0.4894574745321014
+louisiana,richland,Donald Trump,9940,0.4939866812444091
+louisiana,sabine,Donald Trump,10596,0.44364428069000167
+louisiana,st. bernard,Donald Trump,17650,0.3735924138514944
+louisiana,st. charles,Donald Trump,28517,0.5370433145009417
+louisiana,st. helena,Joe Biden,6158,0.6077773391235689
+louisiana,st. james,Joe Biden,12590,0.5967956010618126
+louisiana,st. john the baptist,Joe Biden,21432,0.5003151481196162
+louisiana,st. landry,Donald Trump,41154,0.5011202571720812
+louisiana,st. martin,Donald Trump,27038,0.5060358219011435
+louisiana,st. mary,Donald Trump,23186,0.4698468023020183
+louisiana,st. tammany,Donald Trump,140110,0.538017579362489
+louisiana,tangipahoa,Donald Trump,57661,0.42788554297333
+louisiana,tensas,Joe Biden,2554,0.5892939547761883
+louisiana,terrebonne,Donald Trump,46240,0.41860928291433175
+louisiana,union,Donald Trump,11201,0.5066491767685906
+louisiana,vermilion,Donald Trump,27324,0.4591420073599839
+louisiana,vernon,Donald Trump,17268,0.36408104746041453
+louisiana,washington,Donald Trump,19513,0.42241416634194917
+louisiana,webster,Donald Trump,18216,0.4751173708920188
+louisiana,west baton rouge,Donald Trump,14097,0.5326657849990554
+louisiana,west carroll,Donald Trump,5052,0.4664819944598338
+louisiana,west feliciana,Donald Trump,6268,0.4026207605344296
+louisiana,winn,Donald Trump,6225,0.44771288837744533
+maine,cumberland,Joe Biden,6002,0.020345555807907038
+maine,franklin,Donald Trump,861,0.028510877843637206
+maine,hancock,Donald Trump,1472,0.02676996380962773
+maine,knox,Donald Trump,475,0.011943075530523987
+maine,lincoln,Donald Trump,2596,0.07495524628977306
+maine,oxford,Donald Trump,2325,0.040103492884864166
+maine,penobscot,Joe Biden,845,0.005553802876146909
+maine,waldo,Donald Trump,502,0.012640060430567795
+maine,washington,Donald Trump,988,0.031486025685968325
+maine,york,Joe Biden,9658,0.04651297190824548
+maryland,allegany,Donald Trump,30641,0.43514258123153826
+maryland,anne arundel,Joe Biden,309617,0.5345283598683779
+maryland,baltimore,Joe Biden,414932,0.5015071854188573
+maryland,baltimore city,Joe Biden,237461,N/A
+maryland,calvert,Donald Trump,49112,0.5307970818697649
+maryland,caroline,Donald Trump,15794,0.47278931928396095
+maryland,carroll,Donald Trump,100327,0.5955998029053649
+maryland,cecil,Donald Trump,47462,0.4614457245637062
+maryland,charles,Joe Biden,89498,0.5482031398347391
+maryland,dorchester,Donald Trump,15977,0.5003914936264837
+maryland,frederick,Joe Biden,145615,0.5610351882318039
+maryland,garrett,Donald Trump,15611,0.5380505962638726
+maryland,harford,Donald Trump,148186,0.5801183052055073
+maryland,howard,Joe Biden,183062,0.5620743651938961
+maryland,kent,Joe Biden,10794,0.5557615075687364
+maryland,montgomery,Joe Biden,533743,0.50799380977036
+maryland,prince george's,Joe Biden,424855,0.4672191631833213
+maryland,queen anne's,Donald Trump,30290,0.6012187134038626
+maryland,somerset,Donald Trump,10147,0.3961196127420362
+maryland,st. mary's,Donald Trump,55665,0.4903973218218659
+maryland,talbot,Joe Biden,22555,0.606627040692827
+maryland,washington,Donald Trump,67779,0.4487219379141868
+maryland,wicomico,Donald Trump,46216,0.4460616355721993
+maryland,worcester,Donald Trump,31691,0.606224653760808
+massachusetts,barnstable,Joe Biden,28427,0.13346635992300107
+massachusetts,essex,Joe Biden,2512,0.003183639741760178
+massachusetts,franklin,Joe Biden,20346,0.28991165574237676
+massachusetts,hampden,Donald Trump,3339,0.0071595207259440964
+massachusetts,nantucket,Joe Biden,7306,0.6409334152118606
+massachusetts,norfolk,Joe Biden,6853,0.009696155070567012
+massachusetts,plymouth,Joe Biden,37336,0.07163441429618458
+massachusetts,worcester,Joe Biden,71370,0.08592356089773688
+michigan,alcona,Donald Trump,7064,0.6789043728976454
+michigan,alger,Donald Trump,5128,0.5630215195432586
+michigan,allegan,Donald Trump,67094,0.5682031825611233
+michigan,alpena,Donald Trump,16969,0.5973948248547791
+michigan,antrim,Donald Trump,15949,0.6838020922654776
+michigan,arenac,Donald Trump,8831,0.5933615534502452
+michigan,baraga,Donald Trump,4038,0.49189913509562677
+michigan,barry,Donald Trump,35905,0.5833468724614135
+michigan,bay,Donald Trump,60255,0.5842852432946105
+michigan,benzie,Donald Trump,12262,0.6901947540245412
+michigan,berrien,Donald Trump,82391,0.5370955860783176
+michigan,branch,Donald Trump,20536,0.47190753039042216
+michigan,calhoun,Donald Trump,66281,0.494048107096803
+michigan,cass,Donald Trump,26216,0.5062274315948018
+michigan,charlevoix,Donald Trump,17000,0.6502696706575374
+michigan,cheboygan,Donald Trump,15868,0.6277892071530305
+michigan,chippewa,Donald Trump,17642,0.4723553508795416
+michigan,clare,Donald Trump,16281,0.5260420032310178
+michigan,clinton,Donald Trump,47927,0.6021358125510397
+michigan,crawford,Donald Trump,7861,0.5603392971701475
+michigan,delta,Donald Trump,21151,0.5910742231164766
+michigan,dickinson,Donald Trump,14589,0.5780339950077261
+michigan,eaton,Donald Trump,64327,0.5833696085899808
+michigan,emmet,Donald Trump,22177,0.6636839742630555
+michigan,genesee,Joe Biden,221360,0.5454729148647284
+michigan,gladwin,Donald Trump,14603,0.5738142952571811
+michigan,gogebic,Donald Trump,8266,0.5914847942754919
+michigan,grand traverse,Donald Trump,60236,0.6470866277071159
+michigan,gratiot,Donald Trump,19127,0.4698238805236914
+michigan,hillsdale,Donald Trump,23302,0.5109527464093849
+michigan,houghton,Donald Trump,18501,0.5184676605761686
+michigan,huron,Donald Trump,18437,0.5951066782866918
+michigan,ingham,Joe Biden,144550,0.49434690122637703
+michigan,ionia,Donald Trump,32209,0.49784379492093916
+michigan,iosco,Donald Trump,15363,0.611414016794683
+michigan,iron,Donald Trump,6789,0.6135008133020061
+michigan,isabella,Donald Trump,29421,0.42106995649187084
+michigan,jackson,Donald Trump,80861,0.5101318528799444
+michigan,kalamazoo,Joe Biden,143414,0.5410501535466639
+michigan,kalkaska,Donald Trump,10631,0.5893668921166426
+michigan,kent,Joe Biden,361048,0.5495779771826076
+michigan,keweenaw,Donald Trump,1557,0.7358223062381852
+michigan,lake,Donald Trump,6323,0.5334514468910825
+michigan,lapeer,Donald Trump,52650,0.6009793737943315
+michigan,leelanau,Joe Biden,16900,0.7766187215661045
+michigan,lenawee,Donald Trump,53375,0.5421478705142659
+michigan,livingston,Donald Trump,127197,0.6625016276465533
+michigan,luce,Donald Trump,3001,0.48177877668967733
+michigan,mackinac,Donald Trump,7015,0.64959718492453
+michigan,macomb,Donald Trump,494256,0.5655284150979665
+michigan,manistee,Donald Trump,14655,0.5967505497190325
+michigan,marquette,Joe Biden,37462,0.561657596065908
+michigan,mason,Donald Trump,17254,0.5920258029096899
+michigan,mecosta,Donald Trump,21049,0.48440844130439786
+michigan,menominee,Donald Trump,12607,0.5534240561896401
+michigan,midland,Donald Trump,49088,0.5903121843282505
+michigan,missaukee,Donald Trump,8755,0.579110993517661
+michigan,monroe,Donald Trump,87148,0.5790564784053156
+michigan,montcalm,Donald Trump,32100,0.5024417731029301
+michigan,montmorency,Donald Trump,5859,0.6281089193825042
+michigan,muskegon,Joe Biden,92444,0.53261583489854
+michigan,newaygo,Donald Trump,27161,0.5545324622294814
+michigan,oakland,Joe Biden,770351,0.6125642501813
+michigan,oceana,Donald Trump,14062,0.5313031322023652
+michigan,ogemaw,Donald Trump,11907,0.5670810115730819
+michigan,ontonagon,Donald Trump,3804,0.6650349650349651
+michigan,osceola,Donald Trump,12329,0.5255328218243819
+michigan,oscoda,Donald Trump,4874,0.5914330785098896
+michigan,otsego,Donald Trump,14757,0.5982244203016053
+michigan,ottawa,Donald Trump,168713,0.5781208237672618
+michigan,presque isle,Donald Trump,8344,0.6626429479034307
+michigan,roscommon,Donald Trump,15018,0.6252550064532245
+michigan,saginaw,Joe Biden,103349,0.5424033924813293
+michigan,sanilac,Donald Trump,22446,0.5452028175856206
+michigan,schoolcraft,Donald Trump,4745,0.5862367185569558
+michigan,shiawassee,Donald Trump,39224,0.5757904935263204
+michigan,st. clair,Donald Trump,92064,0.5785531144738827
+michigan,st. joseph,Donald Trump,27936,0.45823764844826453
+michigan,tuscola,Donald Trump,29445,0.5635946023542923
+michigan,van buren,Donald Trump,39066,0.5162202518598782
+michigan,washtenaw,Joe Biden,216418,0.5887307161841235
+michigan,wayne,Joe Biden,872469,0.4987409558902971
+michigan,wexford,Donald Trump,18265,0.5431001159644375
+minnesota,aitkin,Donald Trump,10025,0.6310587939065844
+minnesota,anoka,Donald Trump,211132,0.5915370628234259
+minnesota,becker,Donald Trump,19401,0.5636057287278854
+minnesota,beltrami,Donald Trump,24189,0.5126091379164194
+minnesota,benton,Donald Trump,22260,0.54440069456333
+minnesota,big stone,Donald Trump,2974,0.5958725706271288
+minnesota,blue earth,Joe Biden,36051,0.532881025231697
+minnesota,brown,Donald Trump,14635,0.5852127319257837
+minnesota,carlton,Joe Biden,20369,0.5678403166903627
+minnesota,carver,Donald Trump,66361,0.6314742741866418
+minnesota,cass,Donald Trump,18289,0.6141576278585581
+minnesota,chippewa,Donald Trump,6611,0.5602542372881356
+minnesota,chisago,Donald Trump,34570,0.6110040827868998
+minnesota,clay,Joe Biden,32239,0.5019930864812681
+minnesota,clearwater,Donald Trump,4708,0.5339079156271264
+minnesota,cook,Joe Biden,3806,0.6966868021233754
+minnesota,cottonwood,Donald Trump,6107,0.5454626652375848
+minnesota,crow wing,Donald Trump,40173,0.6175236338482822
+minnesota,dakota,Joe Biden,262259,0.6112964167255216
+minnesota,dodge,Donald Trump,12187,0.5821629884398586
+minnesota,douglas,Donald Trump,24165,0.6335701738286883
+minnesota,faribault,Donald Trump,7914,0.5796528235552626
+minnesota,fillmore,Donald Trump,12141,0.5763041724023354
+minnesota,freeborn,Donald Trump,16818,0.5553977741818302
+minnesota,goodhue,Donald Trump,28636,0.6179542511868796
+minnesota,grant,Donald Trump,3654,0.6118553248492967
+minnesota,hennepin,Joe Biden,755969,0.5972059726206173
+minnesota,houston,Donald Trump,11440,0.6150537634408603
+minnesota,hubbard,Donald Trump,12965,0.6032757898655251
+minnesota,isanti,Donald Trump,24235,0.5969799980293625
+minnesota,itasca,Donald Trump,26561,0.5885442056281852
+minnesota,jackson,Donald Trump,5819,0.5910014218972172
+minnesota,kanabec,Donald Trump,9242,0.5657097386301034
+minnesota,kandiyohi,Donald Trump,23367,0.5409152989652538
+minnesota,kittson,Donald Trump,2639,0.6140065146579805
+minnesota,koochiching,Donald Trump,6922,0.5660315643143348
+minnesota,lac qui parle,Donald Trump,4040,0.6099954703306658
+minnesota,lake,Joe Biden,7202,0.6768160887134668
+minnesota,lake of the woods,Donald Trump,2408,0.6438502673796791
+minnesota,le sueur,Donald Trump,16818,0.5821996053588119
+minnesota,lincoln,Donald Trump,3115,0.5524029083170775
+minnesota,lyon,Donald Trump,12893,0.5061238910261443
+minnesota,mahnomen,Donald Trump,2304,0.41686267414510586
+minnesota,marshall,Donald Trump,5113,0.5476649528706083
+minnesota,martin,Donald Trump,11009,0.5593151450490271
+minnesota,mcleod,Donald Trump,20933,0.5832056389825314
+minnesota,meeker,Donald Trump,13529,0.582594091809491
+minnesota,mille lacs,Donald Trump,14689,0.5590059748068653
+minnesota,morrison,Donald Trump,19558,0.5858144132271011
+minnesota,mower,Donald Trump,19345,0.48287654136089064
+minnesota,murray,Donald Trump,4896,0.5975103734439834
+minnesota,nicollet,Joe Biden,19125,0.5580031510766178
+minnesota,nobles,Donald Trump,8715,0.4029312497110361
+minnesota,norman,Donald Trump,3441,0.5397647058823529
+minnesota,olmsted,Joe Biden,91385,0.577315484576071
+minnesota,otter tail,Donald Trump,36399,0.6195996323153917
+minnesota,pennington,Donald Trump,7277,0.5154047737091862
+minnesota,pine,Donald Trump,16001,0.5409581121741777
+minnesota,pipestone,Donald Trump,4940,0.5413105413105413
+minnesota,polk,Donald Trump,15594,0.4971942354291544
+minnesota,pope,Donald Trump,7022,0.624233265179127
+minnesota,ramsey,Joe Biden,295977,0.5378261051277345
+minnesota,red lake,Donald Trump,2196,0.541553637484587
+minnesota,redwood,Donald Trump,8284,0.5460777851021753
+minnesota,renville,Donald Trump,8128,0.5587022271102557
+minnesota,rice,Donald Trump,35686,0.532849549065281
+minnesota,rock,Donald Trump,5240,0.5625335480407944
+minnesota,roseau,Donald Trump,8421,0.5552917903066271
+minnesota,scott,Donald Trump,87965,0.5903176232946119
+minnesota,sherburne,Donald Trump,55612,0.5719163290071783
+minnesota,sibley,Donald Trump,8452,0.5685839219643458
+minnesota,stearns,Donald Trump,84835,0.5266801179574733
+minnesota,steele,Donald Trump,21128,0.5764959480476957
+minnesota,stevens,Donald Trump,5085,0.5186129525752168
+minnesota,swift,Donald Trump,5193,0.5604360025901144
+minnesota,todd,Donald Trump,13257,0.5375040544923776
+minnesota,traverse,Donald Trump,1864,0.5719545872967168
+minnesota,wabasha,Donald Trump,13123,0.6067878115318814
+minnesota,wadena,Donald Trump,7677,0.5611021780441456
+minnesota,waseca,Donald Trump,10389,0.5581882656350742
+minnesota,washington,Joe Biden,166786,0.6355204999237921
+minnesota,watonwan,Donald Trump,5201,0.47728732678718916
+minnesota,wilkin,Donald Trump,3430,0.5526019010794264
+minnesota,winona,Joe Biden,27173,0.538249742492671
+minnesota,wright,Donald Trump,82426,0.5956625739826705
+minnesota,yellow medicine,Donald Trump,5528,0.5693686270470697
+mississippi,adams,Joe Biden,13759,0.44827810901508486
+mississippi,alcorn,Donald Trump,15813,0.42792195491570373
+mississippi,amite,Donald Trump,7207,0.5860779051801253
+mississippi,attala,Donald Trump,8832,0.4859689666556619
+mississippi,benton,Donald Trump,4292,0.5196755055091415
+mississippi,bolivar,Joe Biden,13755,0.4490988637847721
+mississippi,calhoun,Donald Trump,6595,0.45922985864494115
+mississippi,carroll,Donald Trump,5705,0.573539760731879
+mississippi,chickasaw,Donald Trump,8148,0.476407647781091
+mississippi,choctaw,Donald Trump,4225,0.5146163215590743
+mississippi,claiborne,Joe Biden,4453,0.4954383622607922
+mississippi,clarke,Donald Trump,8347,0.537095425004826
+mississippi,clay,Joe Biden,10206,0.5283702629944088
+mississippi,coahoma,Joe Biden,8507,0.3845145543301392
+mississippi,copiah,Joe Biden,12897,0.45954035275253874
+mississippi,covington,Donald Trump,9371,0.5028439579308864
+mississippi,desoto,Donald Trump,76248,0.4122739192732975
+mississippi,forrest,Donald Trump,31725,0.4235817188939477
+mississippi,franklin,Donald Trump,4464,0.5787631271878646
+mississippi,george,Donald Trump,11064,0.4515918367346939
+mississippi,greene,Donald Trump,5816,0.4280877373767113
+mississippi,grenada,Donald Trump,10919,0.5260140668657867
+mississippi,hancock,Donald Trump,20957,0.4399773261672825
+mississippi,harrison,Donald Trump,75865,0.36459534794309884
+mississippi,hinds,Joe Biden,100191,0.4321557971014493
+mississippi,holmes,Joe Biden,8115,0.47707231040564374
+mississippi,humphreys,Joe Biden,4189,0.519469246031746
+mississippi,issaquena,Joe Biden,676,0.5094197437829691
+mississippi,itawamba,Donald Trump,10826,0.462847370671227
+mississippi,jackson,Donald Trump,54623,0.38033798227229365
+mississippi,jasper,Joe Biden,8742,0.5336019044131112
+mississippi,jefferson,Joe Biden,3911,0.5595135908440629
+mississippi,jones,Donald Trump,30091,0.4418778818761197
+mississippi,kemper,Joe Biden,4732,0.4857318825703141
+mississippi,lafayette,Donald Trump,23481,0.43468039023306615
+mississippi,lamar,Donald Trump,28526,0.4503417899373254
+mississippi,lauderdale,Donald Trump,31266,0.4218010118043845
+mississippi,lawrence,Donald Trump,6617,0.5257428889242015
+mississippi,leake,Donald Trump,9204,0.40393223909418063
+mississippi,lee,Donald Trump,37003,0.4331078233999719
+mississippi,leflore,Joe Biden,10893,0.38650959798460066
+mississippi,lincoln,Donald Trump,16818,0.492431118788979
+mississippi,lowndes,Donald Trump,27274,0.46546633671815
+mississippi,madison,Donald Trump,56335,0.530102002408913
+mississippi,marion,Donald Trump,12194,0.49623570585602084
+mississippi,marshall,Joe Biden,15830,0.44851816172720577
+mississippi,monroe,Donald Trump,17279,0.49015658686032
+mississippi,montgomery,Donald Trump,5078,0.5194884910485934
+mississippi,neshoba,Donald Trump,11720,0.40250017171509034
+mississippi,newton,Donald Trump,10189,0.4847749548006471
+mississippi,noxubee,Joe Biden,5341,0.5127195929730248
+mississippi,oktibbeha,Joe Biden,19812,0.3995402020690907
+mississippi,panola,Donald Trump,15635,0.45727070659803465
+mississippi,pearl river,Donald Trump,24056,0.43316827226073645
+mississippi,perry,Donald Trump,5922,0.49461287897769984
+mississippi,pike,Joe Biden,17360,0.44186520057014866
+mississippi,pontotoc,Donald Trump,14377,0.4468514949959595
+mississippi,prentiss,Donald Trump,10661,0.424301520337499
+mississippi,quitman,Joe Biden,3229,0.4754122497055359
+mississippi,rankin,Donald Trump,70655,0.4550431181611505
+mississippi,scott,Donald Trump,10744,0.38202247191011235
+mississippi,sharkey,Joe Biden,2183,0.5052071279796343
+mississippi,simpson,Donald Trump,11820,0.44339410308350213
+mississippi,smith,Donald Trump,8327,0.523184217139985
+mississippi,stone,Donald Trump,7878,0.42964659685863876
+mississippi,sunflower,Joe Biden,9683,0.3856232576662684
+mississippi,tallahatchie,Joe Biden,5691,0.41212252878557465
+mississippi,tate,Donald Trump,13101,0.4625895978249356
+mississippi,tippah,Donald Trump,10102,0.4588689529866
+mississippi,tishomingo,Donald Trump,9147,0.471908373316824
+mississippi,tunica,Joe Biden,3565,0.3701204318936877
+mississippi,union,Donald Trump,12683,0.4401526982474406
+mississippi,walthall,Donald Trump,7122,0.498530029399412
+mississippi,warren,Joe Biden,21056,0.46398272404750884
+mississippi,washington,Joe Biden,18025,0.4105080962900544
+mississippi,wayne,Donald Trump,10066,0.4987365604716841
+mississippi,webster,Donald Trump,5402,0.5575394777582826
+mississippi,wilkinson,Joe Biden,4130,0.47856315179606024
+mississippi,winston,Donald Trump,9244,0.5148426622110832
+mississippi,yalobusha,Donald Trump,6538,0.5399735711925999
+mississippi,yazoo,Joe Biden,10441,0.35166722802290334
+missouri,adair,Donald Trump,10336,0.4078443751726315
+missouri,andrew,Donald Trump,9752,0.5505871725383921
+missouri,atchison,Donald Trump,2814,0.5471514680147773
+missouri,audrain,Donald Trump,10656,0.41972585473452023
+missouri,barry,Donald Trump,15598,0.43583223895610385
+missouri,barton,Donald Trump,6077,0.5170154840905223
+missouri,bates,Donald Trump,8416,0.5204056393767005
+missouri,benton,Donald Trump,10476,0.5388057398549606
+missouri,bollinger,Donald Trump,5983,0.4931179428006264
+missouri,boone,Joe Biden,91168,0.5051894294121233
+missouri,buchanan,Donald Trump,36598,0.41891396914060713
+missouri,butler,Donald Trump,18141,0.42706812938462263
+missouri,caldwell,Donald Trump,4682,0.5190687361419069
+missouri,callaway,Donald Trump,21144,0.4725655409784771
+missouri,camden,Donald Trump,24812,0.5358384623690746
+missouri,cape girardeau,Donald Trump,40328,0.5113159462920465
+missouri,carroll,Donald Trump,4532,0.5221799746514575
+missouri,carter,Donald Trump,2897,0.4842861919090605
+missouri,cass,Donald Trump,57408,0.542711287577992
+missouri,cedar,Donald Trump,7044,0.49090528956721724
+missouri,chariton,Donald Trump,4077,0.5490169674117964
+missouri,christian,Donald Trump,46839,0.5286867204695525
+missouri,clark,Donald Trump,3394,0.49933794321023983
+missouri,clay,Donald Trump,126569,0.5063813273160818
+missouri,clinton,Donald Trump,10888,0.5340658262618335
+missouri,cole,Donald Trump,39529,0.5150693856277282
+missouri,cooper,Donald Trump,8693,0.49088034332825115
+missouri,crawford,Donald Trump,10973,0.45873745819397993
+missouri,dade,Donald Trump,4119,0.5447692104219019
+missouri,dallas,Donald Trump,8104,0.4801516767389501
+missouri,daviess,Donald Trump,3911,0.4724571152452283
+missouri,dekalb,Donald Trump,4843,0.38598868255359847
+missouri,dent,Donald Trump,7142,0.45861426828485197
+missouri,douglas,Donald Trump,7000,0.5309063329541145
+missouri,dunklin,Donald Trump,10419,0.35766022450310664
+missouri,franklin,Donald Trump,53685,0.5163657699077592
+missouri,gasconade,Donald Trump,7923,0.5387596899224806
+missouri,gentry,Donald Trump,3237,0.4926190838532948
+missouri,greene,Donald Trump,141800,0.4838170366377104
+missouri,grundy,Donald Trump,4437,0.4504568527918782
+missouri,harrison,Donald Trump,3826,0.4580938697318008
+missouri,henry,Donald Trump,10788,0.4943181818181818
+missouri,hickory,Donald Trump,5080,0.5322715842414082
+missouri,holt,Donald Trump,2343,0.5321371791960027
+missouri,howard,Donald Trump,5092,0.5091490850914908
+missouri,howell,Donald Trump,18650,0.46489019617618466
+missouri,iron,Donald Trump,4592,0.45353086419753086
+missouri,jackson,Joe Biden,333063,0.4737664133278142
+missouri,jasper,Donald Trump,52352,0.4314914941316102
+missouri,jefferson,Donald Trump,116688,0.5184266997214336
+missouri,johnson,Donald Trump,23123,0.42771262624394213
+missouri,knox,Donald Trump,1854,0.4683000757767113
+missouri,laclede,Donald Trump,16793,0.47008929821123646
+missouri,lafayette,Donald Trump,17055,0.5214320655497126
+missouri,lawrence,Donald Trump,17905,0.46682309998696386
+missouri,lewis,Donald Trump,4609,0.4714607201309329
+missouri,lincoln,Donald Trump,29018,0.4917221629132564
+missouri,linn,Donald Trump,5726,0.4803691275167785
+missouri,livingston,Donald Trump,6758,0.4438169041833585
+missouri,macon,Donald Trump,7836,0.5183568168287359
+missouri,madison,Donald Trump,5676,0.4695565850430179
+missouri,maries,Donald Trump,4771,0.5485799701046338
+missouri,marion,Donald Trump,13348,0.4678583946722748
+missouri,mcdonald,Donald Trump,9053,0.3964180934448483
+missouri,mercer,Donald Trump,1779,0.4918440696709981
+missouri,miller,Donald Trump,12382,0.4833131660096022
+missouri,mississippi,Donald Trump,4756,0.36084977238239757
+missouri,moniteau,Donald Trump,7157,0.4436523679642946
+missouri,monroe,Donald Trump,4483,0.5186256362795002
+missouri,montgomery,Donald Trump,5772,0.49969699593108824
+missouri,morgan,Donald Trump,9487,0.4599311581907209
+missouri,new madrid,Donald Trump,7250,0.42457249941438274
+missouri,newton,Donald Trump,28405,0.48775671406003157
+missouri,nodaway,Donald Trump,9893,0.4478091616874887
+missouri,oregon,Donald Trump,4739,0.45009022699211704
+missouri,osage,Donald Trump,7539,0.5537275064267352
+missouri,ozark,Donald Trump,4864,0.5301940265969043
+missouri,pemiscot,Donald Trump,5735,0.3628598544764315
+missouri,perry,Donald Trump,9447,0.49367683946488294
+missouri,pettis,Donald Trump,19097,0.4510498594676303
+missouri,phelps,Donald Trump,19568,0.43901016310322394
+missouri,pike,Donald Trump,7695,0.42044585291225
+missouri,platte,Donald Trump,57270,0.548468654829627
+missouri,polk,Donald Trump,15064,0.4685682291828673
+missouri,pulaski,Donald Trump,14414,0.2739939551770677
+missouri,putnam,Donald Trump,2361,0.5027683134582623
+missouri,ralls,Donald Trump,5662,0.5492288291783878
+missouri,randolph,Donald Trump,10744,0.4341360918053984
+missouri,ray,Donald Trump,11649,0.5060821965418368
+missouri,reynolds,Donald Trump,3298,0.5259968102073366
+missouri,ripley,Donald Trump,5717,0.43023780854906685
+missouri,saline,Donald Trump,9519,0.4182153683933043
+missouri,schuyler,Donald Trump,2003,0.4298283261802575
+missouri,scotland,Donald Trump,1984,0.4047327621379029
+missouri,scott,Donald Trump,17719,0.4628787878787879
+missouri,shannon,Donald Trump,3906,0.47832476120499634
+missouri,shelby,Donald Trump,3350,0.5649241146711635
+missouri,st. charles,Donald Trump,222017,0.5522508718428345
+missouri,st. clair,Donald Trump,4974,0.5293178674044908
+missouri,st. francois,Donald Trump,28001,0.41658855910139103
+missouri,st. louis city,Joe Biden,133867,N/A
+missouri,st. louis county,Joe Biden,536446,N/A
+missouri,ste. genevieve,Donald Trump,9484,0.5300100592377334
+missouri,stoddard,Donald Trump,13426,0.4625667527993109
+missouri,stone,Donald Trump,18483,0.5784614421632449
+missouri,sullivan,Donald Trump,2471,0.4058137625225817
+missouri,taney,Donald Trump,26288,0.4700328994421399
+missouri,texas,Donald Trump,11315,0.4455075202771872
+missouri,vernon,Donald Trump,9185,0.4466760686670233
+missouri,warren,Donald Trump,18375,0.5154422283935033
+missouri,washington,Donald Trump,9976,0.40339668418924385
+missouri,wayne,Donald Trump,5878,0.45661461974675677
+missouri,webster,Donald Trump,18779,0.47431299252374215
+missouri,worth,Donald Trump,1107,0.5499254843517138
+missouri,wright,Donald Trump,8739,0.4778282027448193
+montana,beaverhead,Donald Trump,5661,0.5988575055537925
+montana,big horn,Joe Biden,4784,0.3591861250844658
+montana,blaine,Joe Biden,3117,0.46654692411315674
+montana,broadwater,Donald Trump,4097,0.6568863235529903
+montana,carbon,Donald Trump,7101,0.6620979020979021
+montana,carter,Donald Trump,864,0.6900958466453674
+montana,cascade,Donald Trump,39885,0.49019246368261926
+montana,chouteau,Donald Trump,2974,0.5277728482697427
+montana,custer,Donald Trump,5883,0.5159621119101911
+montana,daniels,Donald Trump,1014,0.6
+montana,dawson,Donald Trump,4837,0.5615929409032857
+montana,deer lodge,Joe Biden,4891,0.5351203501094092
+montana,fallon,Donald Trump,1575,0.5534082923401265
+montana,fergus,Donald Trump,6531,0.5910407239819004
+montana,flathead,Donald Trump,60258,0.5804866770706896
+montana,gallatin,Joe Biden,71507,0.6248754740723911
+montana,garfield,Donald Trump,813,0.6462639109697933
+montana,glacier,Joe Biden,5639,0.4100196320802734
+montana,golden valley,Donald Trump,503,0.6126674786845311
+montana,granite,Donald Trump,2102,0.6220775377330571
+montana,hill,Donald Trump,7182,0.4356952196068915
+montana,jefferson,Donald Trump,8191,0.6702397512478521
+montana,judith basin,Donald Trump,1344,0.6696562032884903
+montana,lake,Donald Trump,16626,0.5458664390307965
+montana,lewis and clark,Donald Trump,42485,0.6118936513423205
+montana,liberty,Donald Trump,1083,0.4634146341463415
+montana,lincoln,Donald Trump,11747,0.5879379379379379
+montana,madison,Donald Trump,6113,0.7108139534883721
+montana,mccone,Donald Trump,1128,0.6778846153846154
+montana,meagher,Donald Trump,1110,0.5961331901181526
+montana,mineral,Donald Trump,2563,0.5828974300659541
+montana,missoula,Joe Biden,71986,0.6018896321070234
+montana,musselshell,Donald Trump,2881,0.6218432980789985
+montana,park,Donald Trump,11618,0.6996266409731422
+montana,petroleum,Donald Trump,351,0.7207392197125256
+montana,phillips,Donald Trump,2386,0.603439554881133
+montana,pondera,Donald Trump,2995,0.506682456437151
+montana,powder river,Donald Trump,1136,0.6753864447086801
+montana,powell,Donald Trump,3195,0.4637155297532656
+montana,prairie,Donald Trump,744,0.6908077994428969
+montana,ravalli,Donald Trump,28507,0.6507556042551249
+montana,richland,Donald Trump,5798,0.5367027677496992
+montana,roosevelt,Donald Trump,4028,0.36604870956015995
+montana,rosebud,Donald Trump,3784,0.4234083025623811
+montana,sanders,Donald Trump,7652,0.6317179889375052
+montana,sheridan,Donald Trump,2030,0.6134783922635237
+montana,silver bow,Joe Biden,18827,0.5392238292997279
+montana,stillwater,Donald Trump,5741,0.5954158888197469
+montana,sweet grass,Donald Trump,2446,0.6545357238426546
+montana,teton,Donald Trump,3695,0.6011062306816333
+montana,toole,Donald Trump,2123,0.4482685810810811
+montana,treasure,Donald Trump,460,0.6609195402298851
+montana,valley,Donald Trump,4272,0.5776095186587344
+montana,wheatland,Donald Trump,1068,0.5023518344308561
+montana,wibaux,Donald Trump,598,0.6171310629514963
+montana,yellowstone,Donald Trump,83821,0.5196590204587724
+nebraska,adams,Donald Trump,14653,0.4672065810030928
+nebraska,antelope,Donald Trump,3583,0.5689107653223245
+nebraska,arthur,Donald Trump,285,0.6155507559395248
+nebraska,banner,Donald Trump,411,0.5516778523489932
+nebraska,blaine,Donald Trump,317,0.6817204301075269
+nebraska,boone,Donald Trump,3226,0.6213405238828967
+nebraska,box butte,Donald Trump,5200,0.4822405638505054
+nebraska,boyd,Donald Trump,1155,0.6018759770713914
+nebraska,brown,Donald Trump,1684,0.5698815566835871
+nebraska,buffalo,Donald Trump,23711,0.4774763889727945
+nebraska,burt,Donald Trump,3739,0.5788821799040099
+nebraska,butler,Donald Trump,4518,0.563622754491018
+nebraska,cass,Donald Trump,15326,0.583892106065224
+nebraska,cedar,Donald Trump,5015,0.5968816948345632
+nebraska,chase,Donald Trump,2000,0.509683995922528
+nebraska,cherry,Donald Trump,3269,0.574617683248374
+nebraska,cheyenne,Donald Trump,4776,0.5360269360269361
+nebraska,clay,Donald Trump,3570,0.5755279703369337
+nebraska,colfax,Donald Trump,3726,0.3479316462788309
+nebraska,cuming,Donald Trump,4459,0.5040696359936695
+nebraska,custer,Donald Trump,6010,0.557669110141969
+nebraska,dakota,Donald Trump,6817,0.3404074702886248
+nebraska,dawes,Donald Trump,4151,0.4832925835370823
+nebraska,dawson,Donald Trump,9191,0.38953168044077136
+nebraska,deuel,Donald Trump,1034,0.5763656633221851
+nebraska,dixon,Donald Trump,3094,0.5489709013484741
+nebraska,dodge,Donald Trump,16938,0.46322986462464105
+nebraska,douglas,Joe Biden,276540,0.48403103651674084
+nebraska,dundy,Donald Trump,1003,0.5924394565859421
+nebraska,fillmore,Donald Trump,3148,0.5763456609300622
+nebraska,franklin,Donald Trump,1728,0.5800604229607251
+nebraska,frontier,Donald Trump,1446,0.5504377617053673
+nebraska,furnas,Donald Trump,2602,0.5564585115483319
+nebraska,gage,Donald Trump,11119,0.5168502765769535
+nebraska,garden,Donald Trump,1200,0.65323897659227
+nebraska,garfield,Donald Trump,1076,0.5464702894870492
+nebraska,gosper,Donald Trump,1121,0.5633165829145729
+nebraska,grant,Donald Trump,402,0.6452648475120385
+nebraska,greeley,Donald Trump,1259,0.5343803056027164
+nebraska,hall,Donald Trump,24450,0.39851352012126545
+nebraska,hamilton,Donald Trump,5566,0.596954096954097
+nebraska,harlan,Donald Trump,1934,0.572189349112426
+nebraska,hayes,Donald Trump,536,0.5813449023861171
+nebraska,hitchcock,Donald Trump,1470,0.5322230267921796
+nebraska,holt,Donald Trump,5550,0.5513062481374789
+nebraska,hooker,Donald Trump,442,0.6480938416422287
+nebraska,howard,Donald Trump,3511,0.5447633824670287
+nebraska,jefferson,Donald Trump,3730,0.529378370706784
+nebraska,johnson,Donald Trump,2233,0.4403470715835141
+nebraska,kearney,Donald Trump,3617,0.5568899153194765
+nebraska,keith,Donald Trump,4369,0.5438137913866069
+nebraska,keya paha,Donald Trump,530,0.6575682382133995
+nebraska,kimball,Donald Trump,1877,0.516795154185022
+nebraska,knox,Donald Trump,4708,0.5650504080652905
+nebraska,lancaster,Joe Biden,157215,0.49269798489454386
+nebraska,lincoln,Donald Trump,17163,0.4915793091596494
+nebraska,logan,Donald Trump,450,0.6016042780748663
+nebraska,loup,Donald Trump,454,0.6837349397590361
+nebraska,madison,Donald Trump,15819,0.45069660104276477
+nebraska,mcpherson,Donald Trump,302,0.611336032388664
+nebraska,merrick,Donald Trump,4282,0.552159896840748
+nebraska,morrill,Donald Trump,2558,0.5510555794915984
+nebraska,nance,Donald Trump,1832,0.5206024438761012
+nebraska,nemaha,Donald Trump,3432,0.49225473321858865
+nebraska,nuckolls,Donald Trump,2305,0.5556894889103182
+nebraska,otoe,Donald Trump,8355,0.521796152885336
+nebraska,pawnee,Donald Trump,1429,0.5468809797168006
+nebraska,perkins,Donald Trump,1545,0.5344171566931858
+nebraska,phelps,Donald Trump,5021,0.5557892406464467
+nebraska,pierce,Donald Trump,4012,0.561275881365417
+nebraska,platte,Donald Trump,15721,0.46970421272781593
+nebraska,polk,Donald Trump,2887,0.5538077882217534
+nebraska,red willow,Donald Trump,5470,0.510070869078702
+nebraska,richardson,Donald Trump,4134,0.5256198347107438
+nebraska,rock,Donald Trump,842,0.6204863669859986
+nebraska,saline,Donald Trump,5780,0.40635545556805397
+nebraska,sarpy,Donald Trump,96193,0.5138624756939251
+nebraska,saunders,Donald Trump,12786,0.5925479655204375
+nebraska,scotts bluff,Donald Trump,15524,0.43584704362962545
+nebraska,seward,Donald Trump,9199,0.5322263364961815
+nebraska,sheridan,Donald Trump,2684,0.5116279069767442
+nebraska,sherman,Donald Trump,1700,0.56647784071976
+nebraska,sioux,Donald Trump,731,0.6269296740994854
+nebraska,stanton,Donald Trump,3165,0.5346283783783784
+nebraska,thayer,Donald Trump,2989,0.5974415350789526
+nebraska,thomas,Donald Trump,427,0.5914127423822715
+nebraska,thurston,Donald Trump,2379,0.3293189368770764
+nebraska,valley,Donald Trump,2344,0.5637325637325638
+nebraska,washington,Donald Trump,12467,0.601427951179507
+nebraska,wayne,Donald Trump,4218,0.4494405966968567
+nebraska,webster,Donald Trump,1876,0.5379982793232004
+nebraska,wheeler,Donald Trump,503,0.6424010217113666
+nebraska,york,Donald Trump,7161,0.5235031800570217
+nevada,carson city,Donald Trump,29739,N/A
+nevada,churchill,Donald Trump,12890,0.5174836404512425
+nevada,clark,Joe Biden,972510,0.4290393807779099
+nevada,douglas,Donald Trump,34125,0.6977814129434619
+nevada,elko,Donald Trump,21967,0.41621508962067527
+nevada,esmeralda,Donald Trump,487,0.5578465063001146
+nevada,eureka,Donald Trump,1017,0.5012321340561853
+nevada,humboldt,Donald Trump,7771,0.4617075634246331
+nevada,lander,Donald Trump,2765,0.4998192335502531
+nevada,lincoln,Donald Trump,2446,0.4719274551418098
+nevada,lyon,Donald Trump,30238,0.5257868196835332
+nevada,mineral,Donald Trump,2335,0.5183129855715871
+nevada,nye,Donald Trump,25378,0.5454936268082454
+nevada,pershing,Donald Trump,2320,0.3449814126394052
+nevada,storey,Donald Trump,2877,0.6977928692699491
+nevada,washoe,Joe Biden,252142,0.5347440930270042
+nevada,white pine,Donald Trump,4369,0.4560542797494781
+new hampshire,carroll,Donald Trump,538,0.010999795542833776
+new hampshire,grafton,Donald Trump,784,0.008722159179405024
+new hampshire,hillsborough,Donald Trump,3276,0.00785564414603441
+new hampshire,merrimack,Joe Biden,16697,0.11029057209477446
+new hampshire,strafford,Donald Trump,2802,0.021449404055636785
+new hampshire,sullivan,Joe Biden,412,0.009548973253604043
+new jersey,atlantic,Joe Biden,140441,0.5326392839534266
+new jersey,bergen,Joe Biden,497460,0.5336397046991961
+new jersey,burlington,Joe Biden,262650,0.5897621865099058
+new jersey,camden,Joe Biden,265599,0.5244110719073748
+new jersey,cape may,Donald Trump,57933,0.6294396940427428
+new jersey,cumberland,Joe Biden,62575,0.41848629344533095
+new jersey,essex,Joe Biden,345311,0.43219249663631526
+new jersey,gloucester,Joe Biden,173453,0.5947585346116392
+new jersey,hudson,Joe Biden,250458,0.3724886264093362
+new jersey,hunterdon,Donald Trump,84673,0.6808098350901738
+new jersey,mercer,Joe Biden,177223,0.482331328416297
+new jersey,middlesex,Joe Biden,375692,0.4553500221801513
+new jersey,monmouth,Donald Trump,378390,0.6114949215814608
+new jersey,morris,Joe Biden,300917,0.6118126645589566
+new jersey,ocean,Donald Trump,342746,0.5644827120519906
+new jersey,passaic,Joe Biden,224330,0.44702745573166797
+new jersey,salem,Donald Trump,34042,0.5456760439208143
+new jersey,somerset,Joe Biden,186891,0.5681717304991275
+new jersey,sussex,Donald Trump,88352,0.6288935709811514
+new jersey,union,Joe Biden,254041,0.45662821902394396
+new jersey,warren,Donald Trump,61057,0.5800203292579821
+new mexico,bernalillo,Joe Biden,317590,0.4676486222631902
+new mexico,catron,Donald Trump,2326,0.6594839807201588
+new mexico,chaves,Donald Trump,22443,0.34733421032268047
+new mexico,cibola,Joe Biden,8903,0.33375820056232425
+new mexico,colfax,Donald Trump,6016,0.503810401138933
+new mexico,curry,Donald Trump,15101,0.3084732606120031
+new mexico,dona ana,Joe Biden,82641,N/A
+new mexico,eddy,Donald Trump,23222,0.3972288744440643
+new mexico,grant,Joe Biden,14435,0.5346692347581302
+new mexico,guadalupe,Joe Biden,2189,0.5090697674418605
+new mexico,harding,Donald Trump,505,0.808
+new mexico,hidalgo,Donald Trump,1974,0.47022391615054787
+new mexico,lea,Donald Trump,20918,0.2943295342619952
+new mexico,lincoln,Donald Trump,10306,0.5265685673410996
+new mexico,los alamos,Joe Biden,12293,0.6346739635500026
+new mexico,luna,Donald Trump,8103,0.3417689485005694
+new mexico,mckinley,Joe Biden,26486,0.3711239088093937
+new mexico,mora,Joe Biden,2686,0.5941163459411635
+new mexico,otero,Donald Trump,23571,0.34925174099866646
+new mexico,quay,Donald Trump,3873,0.4692838967648128
+new mexico,rio arriba,Joe Biden,16628,0.42722437758536524
+new mexico,roosevelt,Donald Trump,6608,0.3571891891891892
+new mexico,san juan,Donald Trump,52294,0.4218686974620436
+new mexico,san miguel,Joe Biden,11531,0.42273710452029184
+new mexico,sandoval,Joe Biden,76562,0.521724316515387
+new mexico,santa fe,Joe Biden,82227,0.546874792162705
+new mexico,sierra,Donald Trump,5945,0.5509220646835326
+new mexico,socorro,Joe Biden,7160,0.4303660515717978
+new mexico,taos,Joe Biden,17181,0.5250435473520154
+new mexico,torrance,Donald Trump,7281,0.47092684819869346
+new mexico,union,Donald Trump,1789,0.4407489529440749
+new mexico,valencia,Donald Trump,32277,0.4208872313790945
+new york,albany,Joe Biden,153586,0.5027266240270241
+new york,allegany,Donald Trump,20716,0.44945867956867935
+new york,bronx,Joe Biden,425883,0.30029678319173436
+new york,broome,Joe Biden,92794,0.48713829742555964
+new york,cattaraugus,Donald Trump,34760,0.4566653966919348
+new york,cayuga,Donald Trump,36421,0.4756189928959465
+new york,chautauqua,Donald Trump,59195,0.4664586337596432
+new york,chemung,Donald Trump,39410,0.47222488496932513
+new york,chenango,Donald Trump,22282,0.47200627025652975
+new york,clinton,Joe Biden,35437,0.44029322233956636
+new york,columbia,Joe Biden,35522,0.5973999764551555
+new york,cortland,Donald Trump,21678,0.455602026018789
+new york,delaware,Donald Trump,22971,0.5204712812960236
+new york,dutchess,Joe Biden,150745,0.5123581833878281
+new york,erie,Joe Biden,473021,0.5148796889524568
+new york,essex,Joe Biden,19271,0.5224617053002576
+new york,franklin,Donald Trump,19268,0.3851905161728839
+new york,fulton,Donald Trump,23718,0.4442987467920499
+new york,genesee,Donald Trump,29217,0.5100733240223464
+new york,greene,Donald Trump,25137,0.5326989912689667
+new york,hamilton,Donald Trump,3460,0.7835144927536232
+new york,herkimer,Donald Trump,29319,0.47813891289812294
+new york,jefferson,Donald Trump,43855,0.3992843746016716
+new york,lewis,Donald Trump,12944,0.4922421661089139
+new york,livingston,Donald Trump,31401,0.49910989604857425
+new york,madison,Donald Trump,34038,0.4798071636994122
+new york,monroe,Joe Biden,379864,0.512104830338245
+new york,montgomery,Donald Trump,21134,0.42936957802563946
+new york,nassau,Joe Biden,730983,0.5387059260503905
+new york,niagara,Donald Trump,104123,0.49752724805405174
+new york,oneida,Donald Trump,100746,0.44057182589834304
+new york,onondaga,Joe Biden,234735,0.5097084216377723
+new york,ontario,Donald Trump,59674,0.5435929201927544
+new york,orange,Donald Trump,172196,0.4473320517483244
+new york,orleans,Donald Trump,18154,0.449890959555908
+new york,oswego,Donald Trump,54491,0.46524196577985727
+new york,otsego,Donald Trump,28010,0.4708116921318474
+new york,putnam,Donald Trump,54989,0.5592860048820179
+new york,queens,Joe Biden,788262,0.3497389808940936
+new york,rensselaer,Joe Biden,79286,0.49955265446022407
+new york,rockland,Joe Biden,150369,0.46155333666882553
+new york,saratoga,Joe Biden,132655,0.5771046231885949
+new york,schenectady,Joe Biden,74862,0.4820507537073645
+new york,schoharie,Donald Trump,15685,0.5059840640020646
+new york,schuyler,Donald Trump,9740,0.5469759083506486
+new york,seneca,Donald Trump,15608,0.45884289746001883
+new york,steuben,Donald Trump,46179,0.48416318057434027
+new york,suffolk,Donald Trump,771541,0.5225114976896263
+new york,sullivan,Donald Trump,34647,0.45931434934775695
+new york,tioga,Donald Trump,25036,0.5193867601601561
+new york,tompkins,Joe Biden,45735,0.4475924838520258
+new york,ulster,Joe Biden,97420,0.5486194410186234
+new york,warren,Donald Trump,36149,0.5653227824346303
+new york,washington,Donald Trump,28101,0.45913665773478857
+new york,wayne,Donald Trump,44727,0.49741987143842165
+new york,westchester,Joe Biden,462265,0.4777903186130112
+new york,wyoming,Donald Trump,19399,0.48669058430969164
+new york,yates,Donald Trump,10701,0.4295347810380123
+north carolina,alamance,Donald Trump,86091,0.5078845371042245
+north carolina,alexander,Donald Trump,20236,0.539669840253887
+north carolina,alleghany,Donald Trump,6076,0.5455688246385921
+north carolina,anson,Joe Biden,11194,0.45790722408574
+north carolina,ashe,Donald Trump,15814,0.5813329412197185
+north carolina,avery,Donald Trump,9458,0.5387025118186478
+north carolina,beaufort,Donald Trump,26315,0.5599651019279057
+north carolina,bertie,Joe Biden,9815,0.5180239615770307
+north carolina,bladen,Donald Trump,17125,0.5233482060998716
+north carolina,brunswick,Donald Trump,90175,0.6313891611819072
+north carolina,buncombe,Joe Biden,161569,0.6185856327361969
+north carolina,burke,Donald Trump,44602,0.49292147869812675
+north carolina,cabarrus,Donald Trump,117227,0.5415817752583701
+north carolina,caldwell,Donald Trump,42829,0.5211735500985665
+north carolina,camden,Donald Trump,5953,0.547805282046563
+north carolina,carteret,Donald Trump,42695,0.6145552948627524
+north carolina,caswell,Donald Trump,12051,0.5331357281897009
+north carolina,catawba,Donald Trump,83425,0.5228735639388032
+north carolina,chatham,Joe Biden,48599,0.652598361756412
+north carolina,cherokee,Donald Trump,16423,0.5739899342933035
+north carolina,chowan,Donald Trump,7784,0.5582729685146669
+north carolina,clay,Donald Trump,6893,0.6137476627192592
+north carolina,cleveland,Donald Trump,51308,0.5238343185600376
+north carolina,columbus,Donald Trump,26446,0.4764358290696836
+north carolina,craven,Donald Trump,53065,0.5195371014010319
+north carolina,cumberland,Joe Biden,147150,0.4385873404290198
+north carolina,currituck,Donald Trump,16147,0.581601411951158
+north carolina,dare,Donald Trump,24232,0.6547596530573644
+north carolina,davidson,Donald Trump,88514,0.5280981331551409
+north carolina,davie,Donald Trump,25311,0.590743593334267
+north carolina,duplin,Donald Trump,22715,0.38669753664391143
+north carolina,durham,Joe Biden,179914,0.5596289752650176
+north carolina,edgecombe,Joe Biden,25477,0.49496813801678585
+north carolina,forsyth,Joe Biden,201270,0.5264782432414759
+north carolina,franklin,Donald Trump,37351,0.5359977039535051
+north carolina,gaston,Donald Trump,115498,0.5144012577439885
+north carolina,gates,Donald Trump,5971,0.5164331430548348
+north carolina,graham,Donald Trump,4665,0.5526596374837105
+north carolina,granville,Donald Trump,31598,0.5227735221613752
+north carolina,greene,Donald Trump,8753,0.4154444919075419
+north carolina,guilford,Joe Biden,284486,0.5295974861031993
+north carolina,halifax,Joe Biden,25759,0.5150769846030794
+north carolina,harnett,Donald Trump,58293,0.42870065305642174
+north carolina,haywood,Donald Trump,36542,0.5863889468363368
+north carolina,henderson,Donald Trump,68371,0.5822921723430168
+north carolina,hertford,Joe Biden,10634,0.44912784558854585
+north carolina,hoke,Joe Biden,21639,0.39176956222616505
+north carolina,hyde,Donald Trump,2492,0.5047599756937411
+north carolina,iredell,Donald Trump,102371,0.5630782262411581
+north carolina,jackson,Donald Trump,21428,0.48768719559379126
+north carolina,johnston,Donald Trump,111357,0.5319457912763508
+north carolina,jones,Donald Trump,5525,0.5865803163817815
+north carolina,lee,Donald Trump,29008,0.4695446672817624
+north carolina,lenoir,Donald Trump,28409,0.5077660011796458
+north carolina,lincoln,Donald Trump,50217,0.5831659137624694
+north carolina,macon,Donald Trump,20743,0.5784762117240225
+north carolina,madison,Donald Trump,13076,0.6010572282233969
+north carolina,martin,Donald Trump,12540,0.5588235294117647
+north carolina,mcdowell,Donald Trump,23003,0.5027318821575313
+north carolina,mecklenburg,Joe Biden,567053,0.5106947681644446
+north carolina,mitchell,Donald Trump,9041,0.6041833734295643
+north carolina,montgomery,Donald Trump,12849,0.472859088065359
+north carolina,moore,Donald Trump,58339,0.578300951625694
+north carolina,nash,Joe Biden,52271,0.5543171647330802
+north carolina,new hanover,Joe Biden,131830,0.5622395755588063
+north carolina,northampton,Joe Biden,10109,0.5188625981625007
+north carolina,onslow,Donald Trump,72235,0.3649375056835979
+north carolina,orange,Joe Biden,84997,0.5724628896252593
+north carolina,pamlico,Donald Trump,7631,0.5996385352820996
+north carolina,pasquotank,Joe Biden,19897,0.4996233427079148
+north carolina,pender,Donald Trump,34169,0.541849032667301
+north carolina,perquimans,Donald Trump,7484,0.5558939315160069
+north carolina,person,Donald Trump,21894,0.554418840212712
+north carolina,pitt,Joe Biden,87573,0.48451937015192925
+north carolina,polk,Donald Trump,12358,0.5963134530013511
+north carolina,randolph,Donald Trump,73316,0.5103190015800427
+north carolina,richmond,Donald Trump,20763,0.46316000803051594
+north carolina,robeson,Donald Trump,47188,0.36124784688995215
+north carolina,rockingham,Donald Trump,47809,0.5253158993517196
+north carolina,rowan,Donald Trump,73408,0.5166375767130229
+north carolina,rutherford,Donald Trump,34429,0.5136433484014382
+north carolina,sampson,Donald Trump,28618,0.45045725708709133
+north carolina,scotland,Donald Trump,14775,0.4242885449272033
+north carolina,stanly,Donald Trump,33939,0.5403783078049867
+north carolina,stokes,Donald Trump,25701,0.5637296834901625
+north carolina,surry,Donald Trump,36638,0.5103993981862001
+north carolina,swain,Donald Trump,7068,0.49527012823207905
+north carolina,transylvania,Donald Trump,20404,0.5933982841355242
+north carolina,tyrrell,Donald Trump,1817,0.4524402390438247
+north carolina,union,Donald Trump,131011,0.5462000592014475
+north carolina,vance,Joe Biden,20999,0.4715167845514764
+north carolina,wake,Joe Biden,631830,0.5683145927946744
+north carolina,warren,Joe Biden,10293,0.5216664132583244
+north carolina,washington,Joe Biden,6205,0.5358376511226253
+north carolina,watauga,Joe Biden,32220,0.5735443330900547
+north carolina,wayne,Donald Trump,55537,0.45103994932226654
+north carolina,wilkes,Donald Trump,35466,0.518417821434836
+north carolina,wilson,Joe Biden,40735,0.49797679734966566
+north carolina,yadkin,Donald Trump,19923,0.5289245227918337
+north carolina,yancey,Donald Trump,11352,0.6282583430184293
+north dakota,adams,Donald Trump,1269,0.5726534296028881
+north dakota,barnes,Donald Trump,5565,0.5343254920787326
+north dakota,benson,Donald Trump,1961,0.28703161592505855
+north dakota,billings,Donald Trump,635,0.6842672413793104
+north dakota,bottineau,Donald Trump,3471,N/A
+north dakota,bowman,Donald Trump,1657,0.5479497354497355
+north dakota,burke,Donald Trump,1155,0.5460992907801419
+north dakota,burleigh,Donald Trump,50753,0.5307447765252128
+north dakota,cass,Donald Trump,86053,0.473018804659114
+north dakota,cavalier,Donald Trump,2020,0.5369484316852738
+north dakota,dickey,Donald Trump,2424,0.4975369458128079
+north dakota,divide,Donald Trump,1202,0.5309187279151943
+north dakota,dunn,Donald Trump,2338,0.5284810126582279
+north dakota,eddy,Donald Trump,1261,0.5513773502404897
+north dakota,emmons,Donald Trump,2009,0.6198704103671706
+north dakota,foster,Donald Trump,1778,0.5538940809968848
+north dakota,golden valley,Donald Trump,1026,0.5826235093696763
+north dakota,grand forks,Donald Trump,30970,0.4459259045946063
+north dakota,grant,Donald Trump,1381,0.6072999120492524
+north dakota,griggs,Donald Trump,1250,0.5602868668758404
+north dakota,hettinger,Donald Trump,1312,0.5250100040016007
+north dakota,kidder,Donald Trump,1460,0.5887096774193549
+north dakota,lamoure,Donald Trump,2219,0.5484429065743944
+north dakota,logan,Donald Trump,1076,0.5816216216216217
+north dakota,mchenry,Donald Trump,3003,0.5227154046997389
+north dakota,mcintosh,Donald Trump,1455,0.5826992390869042
+north dakota,mckenzie,Donald Trump,5419,0.36068956336528224
+north dakota,mclean,Donald Trump,5536,0.5858201058201058
+north dakota,mercer,Donald Trump,4675,0.5710272383046293
+north dakota,morton,Donald Trump,16619,0.5298750159418442
+north dakota,mountrail,Donald Trump,4165,0.39497392128971076
+north dakota,nelson,Donald Trump,1777,0.6172282042375825
+north dakota,oliver,Donald Trump,1066,0.5441551812149056
+north dakota,pembina,Donald Trump,3331,0.48978091457138656
+north dakota,pierce,Donald Trump,2128,0.5353459119496855
+north dakota,ramsey,Donald Trump,5372,0.4663599270770032
+north dakota,ransom,Donald Trump,2454,0.47029513223457264
+north dakota,renville,Donald Trump,1319,0.5668242372152986
+north dakota,richland,Donald Trump,7812,0.48290783210731286
+north dakota,rolette,Joe Biden,3804,0.26834085778781036
+north dakota,sargent,Donald Trump,2070,0.5310415597742432
+north dakota,sheridan,Donald Trump,812,0.617490494296578
+north dakota,sioux,Joe Biden,1186,0.28037825059101656
+north dakota,slope,Donald Trump,427,0.5693333333333334
+north dakota,stark,Donald Trump,15050,0.4779446790942869
+north dakota,steele,Donald Trump,1088,0.5756613756613757
+north dakota,stutsman,Donald Trump,9959,0.48101816074188564
+north dakota,towner,Donald Trump,1174,0.5363179534033805
+north dakota,traill,Donald Trump,4136,0.5146839223494276
+north dakota,walsh,Donald Trump,4783,0.44948783009115684
+north dakota,ward,Donald Trump,28246,0.4175869664848243
+north dakota,wells,Donald Trump,2374,0.6191966614501826
+north dakota,williams,Donald Trump,14334,0.38133496501636116
+ohio,adams,Donald Trump,12145,0.43847931258574624
+ohio,allen,Donald Trump,48006,0.4690330333851159
+ohio,ashland,Donald Trump,26405,0.49369905018323235
+ohio,ashtabula,Donald Trump,44147,0.45399574253658437
+ohio,athens,Joe Biden,26059,0.3989009138640991
+ohio,auglaize,Donald Trump,25777,0.5645917294550552
+ohio,belmont,Donald Trump,33088,0.49380652478882486
+ohio,brown,Donald Trump,21096,0.48572481119911587
+ohio,butler,Donald Trump,186737,0.48739344459118744
+ohio,carroll,Donald Trump,14212,0.5280523147804117
+ohio,champaign,Donald Trump,19972,0.5136170759933136
+ohio,clark,Donald Trump,64212,0.47889739937203074
+ohio,clermont,Donald Trump,110480,0.5351987133528398
+ohio,clinton,Donald Trump,20527,0.48911075104841784
+ohio,columbiana,Donald Trump,49860,0.48938488265952124
+ohio,coshocton,Donald Trump,16739,0.4573497267759563
+ohio,crawford,Donald Trump,20686,0.4985299079384971
+ohio,cuyahoga,Joe Biden,625670,0.5065858508653747
+ohio,darke,Donald Trump,27134,0.5308629898460274
+ohio,defiance,Donald Trump,19381,0.5088612912542337
+ohio,delaware,Donald Trump,126070,0.6026953250118321
+ohio,erie,Donald Trump,40335,0.5431152882880457
+ohio,fairfield,Donald Trump,83311,0.5287103202304949
+ohio,fayette,Donald Trump,12612,0.4421384750219106
+ohio,franklin,Joe Biden,630577,0.4788867489496915
+ohio,fulton,Donald Trump,22770,0.540521293263068
+ohio,gallia,Donald Trump,13799,0.46153588868820655
+ohio,geauga,Donald Trump,56021,0.5982017960682976
+ohio,greene,Donald Trump,88643,0.5247103949993193
+ohio,guernsey,Donald Trump,18230,0.46893890675241157
+ohio,hamilton,Joe Biden,430929,0.5271476856116348
+ohio,hancock,Donald Trump,38771,0.5116055051924574
+ohio,hardin,Donald Trump,13247,0.4223497529092938
+ohio,harrison,Donald Trump,7655,0.5089760638297872
+ohio,henry,Donald Trump,14764,0.546693327408724
+ohio,highland,Donald Trump,19676,0.45587451634577514
+ohio,hocking,Donald Trump,13824,0.48910274554203226
+ohio,holmes,Donald Trump,12947,0.2945177434030937
+ohio,huron,Donald Trump,27190,0.4666529365324546
+ohio,jackson,Donald Trump,14794,0.45642180606546756
+ohio,jefferson,Donald Trump,33362,0.5107079984691925
+ohio,knox,Donald Trump,31398,0.5038028304611534
+ohio,lake,Donald Trump,130509,0.5670630765286836
+ohio,lawrence,Donald Trump,28127,0.47301683399761196
+ohio,licking,Donald Trump,94210,0.5326751930883966
+ohio,logan,Donald Trump,23368,0.511648274654055
+ohio,lorain,Donald Trump,157437,0.5081350275793735
+ohio,lucas,Joe Biden,200623,0.468364507363172
+ohio,madison,Donald Trump,19855,0.4438756119916836
+ohio,mahoning,Donald Trump,118966,0.5202223164817673
+ohio,marion,Donald Trump,27818,0.4273577804064953
+ohio,medina,Donald Trump,105825,0.5887474547416911
+ohio,meigs,Donald Trump,10951,0.4780634740472345
+ohio,mercer,Donald Trump,23761,0.5771155153988148
+ohio,miami,Donald Trump,57972,0.5418602260087674
+ohio,monroe,Donald Trump,7148,0.5235095942580928
+ohio,montgomery,Joe Biden,268505,0.5050057646698152
+ohio,morgan,Donald Trump,6847,0.4719465122690929
+ohio,morrow,Donald Trump,18457,0.5224467844202898
+ohio,muskingum,Donald Trump,40465,0.46934988111117554
+ohio,noble,Donald Trump,6343,0.43975318912922906
+ohio,ottawa,Donald Trump,24007,0.5923997532387415
+ohio,paulding,Donald Trump,9467,0.507015852613539
+ohio,perry,Donald Trump,16675,0.46147672552166935
+ohio,pickaway,Donald Trump,28271,0.4836204389551294
+ohio,pike,Donald Trump,12412,0.4469249603917615
+ohio,portage,Donald Trump,82872,0.5100882646215208
+ohio,preble,Donald Trump,21809,0.5334621593855486
+ohio,putnam,Donald Trump,19921,0.5883169427955465
+ohio,richland,Donald Trump,59975,0.4950311174208033
+ohio,ross,Donald Trump,33299,0.43433855946573446
+ohio,sandusky,Donald Trump,30074,0.5139273385966711
+ohio,scioto,Donald Trump,32047,0.4255118570252543
+ohio,seneca,Donald Trump,25810,0.467758889412447
+ohio,shelby,Donald Trump,25258,0.5198188927762915
+ohio,stark,Donald Trump,189879,0.5123473446193532
+ohio,summit,Joe Biden,280473,0.5184219233179239
+ohio,trumbull,Donald Trump,101001,0.5101730530271652
+ohio,tuscarawas,Donald Trump,44015,0.4784915259764967
+ohio,union,Donald Trump,33445,0.5669797246897674
+ohio,van wert,Donald Trump,14965,0.5292661361626879
+ohio,vinton,Donald Trump,6030,0.4608330149025602
+ohio,warren,Donald Trump,136100,0.5801314566798237
+ohio,washington,Donald Trump,32031,0.5346430538632304
+ohio,wayne,Donald Trump,54283,0.4691297208538588
+ohio,williams,Donald Trump,18651,0.5083124386787311
+ohio,wood,Donald Trump,67597,0.5167294770557344
+ohio,wyandot,Donald Trump,11390,0.5231489987139445
+oklahoma,adair,Donald Trump,7108,0.3202667387582229
+oklahoma,alfalfa,Donald Trump,2262,0.3967029112592073
+oklahoma,atoka,Donald Trump,5389,0.39169937490914375
+oklahoma,beaver,Donald Trump,2178,0.4100922613443796
+oklahoma,beckham,Donald Trump,7948,0.363603092547692
+oklahoma,blaine,Donald Trump,3901,0.4137236186233959
+oklahoma,bryan,Donald Trump,15976,0.33286800708407127
+oklahoma,caddo,Donald Trump,9859,0.34277866629580694
+oklahoma,canadian,Donald Trump,61940,0.417649993931466
+oklahoma,carter,Donald Trump,19479,0.40487622373261833
+oklahoma,cherokee,Donald Trump,17714,0.3640586143823088
+oklahoma,choctaw,Donald Trump,5832,0.3974918211559433
+oklahoma,cimarron,Donald Trump,1054,0.4932147870846982
+oklahoma,cleveland,Donald Trump,119778,0.4217327314850676
+oklahoma,coal,Donald Trump,2524,0.45932666060054594
+oklahoma,comanche,Donald Trump,35631,0.2950831890947337
+oklahoma,cotton,Donald Trump,2572,0.45393575714789974
+oklahoma,craig,Donald Trump,6032,0.42653090086267853
+oklahoma,creek,Donald Trump,30505,0.42651212214423534
+oklahoma,custer,Donald Trump,10691,0.36861703961659137
+oklahoma,delaware,Donald Trump,17245,0.4009625892255109
+oklahoma,dewey,Donald Trump,2359,0.482314455121652
+oklahoma,ellis,Donald Trump,1873,0.485358901269759
+oklahoma,garfield,Donald Trump,22430,0.36736766247379454
+oklahoma,garvin,Donald Trump,10922,0.39413951138537046
+oklahoma,grady,Donald Trump,23101,0.4137443135007343
+oklahoma,grant,Donald Trump,2226,0.5137318255250404
+oklahoma,greer,Donald Trump,1973,0.34541316526610644
+oklahoma,harmon,Donald Trump,933,0.35167734640030157
+oklahoma,harper,Donald Trump,1487,0.4031995661605206
+oklahoma,haskell,Donald Trump,5014,0.3970856102003643
+oklahoma,hughes,Donald Trump,4857,0.3657654943896378
+oklahoma,jackson,Donald Trump,8221,0.335140644109254
+oklahoma,jefferson,Donald Trump,2385,0.39736754415194936
+oklahoma,johnston,Donald Trump,4251,0.3834912043301759
+oklahoma,kay,Donald Trump,17249,0.3961826450457072
+oklahoma,kingfisher,Donald Trump,6465,0.4100856327307326
+oklahoma,kiowa,Donald Trump,3427,0.393546164446486
+oklahoma,latimer,Donald Trump,4249,0.4218207088255733
+oklahoma,lincoln,Donald Trump,14888,0.42687157725721825
+oklahoma,logan,Donald Trump,21574,0.44935535606423527
+oklahoma,love,Donald Trump,4076,0.39754218277577297
+oklahoma,major,Donald Trump,3467,0.4544501245248394
+oklahoma,marshall,Donald Trump,6064,0.35815958891973304
+oklahoma,mayes,Donald Trump,16626,0.4045255474452555
+oklahoma,mcclain,Donald Trump,19236,0.47526807333102733
+oklahoma,mccurtain,Donald Trump,11467,0.3492629142300195
+oklahoma,mcintosh,Donald Trump,8335,0.425341906511533
+oklahoma,murray,Donald Trump,5894,0.4188161728131884
+oklahoma,muskogee,Donald Trump,25081,0.3688545082871303
+oklahoma,noble,Donald Trump,4938,0.443625909621777
+oklahoma,nowata,Donald Trump,4391,0.435788011115522
+oklahoma,okfuskee,Donald Trump,4038,0.33669640623697156
+oklahoma,oklahoma,Donald Trump,294740,0.36961052576137965
+oklahoma,okmulgee,Donald Trump,14313,0.37210451059404653
+oklahoma,osage,Donald Trump,20538,0.4373229989566254
+oklahoma,ottawa,Donald Trump,11438,0.36746233173771964
+oklahoma,pawnee,Donald Trump,6786,0.4143869076697606
+oklahoma,payne,Donald Trump,29643,0.362454758877042
+oklahoma,pittsburg,Donald Trump,17924,0.4105923855774958
+oklahoma,pontotoc,Donald Trump,15320,0.4001671716644029
+oklahoma,pottawatomie,Donald Trump,28185,0.3882659246197928
+oklahoma,pushmataha,Donald Trump,4739,0.4270908435472242
+oklahoma,roger mills,Donald Trump,1834,0.5118615685180017
+oklahoma,rogers,Donald Trump,44553,0.48186763862901394
+oklahoma,seminole,Donald Trump,8337,0.3436804353203067
+oklahoma,sequoyah,Donald Trump,15386,0.3701315884433111
+oklahoma,stephens,Donald Trump,19057,0.4417170804070185
+oklahoma,texas,Donald Trump,5521,0.2762848421157984
+oklahoma,tillman,Donald Trump,2708,0.37351724137931036
+oklahoma,tulsa,Donald Trump,266678,0.40929657187760915
+oklahoma,wagoner,Donald Trump,35338,0.4347205648980797
+oklahoma,washington,Donald Trump,23501,0.45609098142721294
+oklahoma,washita,Donald Trump,4777,0.43761451080982045
+oklahoma,woods,Donald Trump,3678,0.41828727396792903
+oklahoma,woodward,Donald Trump,7785,0.38518628469645244
+oregon,baker,Donald Trump,9932,0.6159761845695857
+oregon,benton,Joe Biden,52799,0.5674078213491236
+oregon,clackamas,Joe Biden,257679,0.6161812777537322
+oregon,clatsop,Joe Biden,23910,0.5944212410501193
+oregon,columbia,Donald Trump,32221,0.6154448561714482
+oregon,coos,Donald Trump,37075,0.574922077317909
+oregon,crook,Donald Trump,15448,0.6330109818062613
+oregon,curry,Donald Trump,14925,0.6510359869138496
+oregon,deschutes,Joe Biden,125234,0.6334803633935617
+oregon,douglas,Donald Trump,64349,0.5798251937285998
+oregon,gilliam,Donald Trump,1178,0.6161087866108786
+oregon,grant,Donald Trump,4596,0.63842200305598
+oregon,harney,Donald Trump,4481,0.6061138915190044
+oregon,hood river,Joe Biden,13090,0.5598323496706868
+oregon,jackson,Donald Trump,127165,0.5755530813237744
+oregon,jefferson,Donald Trump,11913,0.48312920755941274
+oregon,josephine,Donald Trump,51641,0.5902705544823802
+oregon,klamath,Donald Trump,36726,0.5382045194759518
+oregon,lake,Donald Trump,4363,0.5544541873173211
+oregon,lane,Joe Biden,222253,0.5817121080857546
+oregon,lincoln,Joe Biden,30726,0.6149873904167167
+oregon,linn,Donald Trump,72640,0.5598501722556628
+oregon,malheur,Donald Trump,11804,0.3861175623957345
+oregon,marion,Joe Biden,165534,0.47592131517057773
+oregon,morrow,Donald Trump,5118,0.44109282082220114
+oregon,multnomah,Joe Biden,463659,0.5704080063479956
+oregon,polk,Donald Trump,48291,0.5609688098971947
+oregon,sherman,Donald Trump,1208,0.6786516853932584
+oregon,tillamook,Donald Trump,16888,0.6246486166592691
+oregon,umatilla,Donald Trump,33038,0.4238357921744708
+oregon,union,Donald Trump,14944,0.5568846655487237
+oregon,wallowa,Donald Trump,5149,0.7143451720310766
+oregon,wasco,Donald Trump,14130,0.5295704969642455
+oregon,washington,Joe Biden,320326,0.5324638625513637
+oregon,wheeler,Donald Trump,965,0.7244744744744744
+oregon,yamhill,Donald Trump,58923,0.5501680672268907
+pennsylvania,adams,Donald Trump,56714,0.550573250880991
+pennsylvania,allegheny,Joe Biden,724800,0.5960305745264362
+pennsylvania,armstrong,Donald Trump,36370,0.5618289951340079
+pennsylvania,beaver,Donald Trump,94122,0.5741632048020789
+pennsylvania,bedford,Donald Trump,27574,0.575801871032409
+pennsylvania,berks,Donald Trump,205540,0.48802841648384004
+pennsylvania,blair,Donald Trump,63595,0.5220021505552865
+pennsylvania,bradford,Donald Trump,30159,0.4999585564378429
+pennsylvania,bucks,Joe Biden,396234,0.6306747099177106
+pennsylvania,butler,Donald Trump,113305,0.6031577882706158
+pennsylvania,cambria,Donald Trump,70574,0.5420763180533366
+pennsylvania,cameron,Donald Trump,2434,0.5473352822127276
+pennsylvania,carbon,Donald Trump,33629,0.5239631049203827
+pennsylvania,centre,Joe Biden,77493,0.4772177233118823
+pennsylvania,chester,Joe Biden,315753,0.6014468874585944
+pennsylvania,clarion,Donald Trump,19493,0.5071283625578854
+pennsylvania,clearfield,Donald Trump,39496,0.49834079868778
+pennsylvania,clinton,Donald Trump,17625,0.4562279975150135
+pennsylvania,columbia,Donald Trump,31171,0.4798195923896312
+pennsylvania,crawford,Donald Trump,42004,0.4963310449136821
+pennsylvania,cumberland,Donald Trump,141595,0.5588467458657299
+pennsylvania,dauphin,Joe Biden,147368,0.5295311876794383
+pennsylvania,delaware,Joe Biden,329006,0.5805165267747338
+pennsylvania,elk,Donald Trump,16906,0.5652290203945168
+pennsylvania,erie,Joe Biden,137083,0.5082268062640882
+pennsylvania,fayette,Donald Trump,62139,0.4806767021984312
+pennsylvania,forest,Donald Trump,2646,0.36511659997240237
+pennsylvania,franklin,Donald Trump,80783,0.5210898746669935
+pennsylvania,fulton,Donald Trump,7977,0.5490020646937371
+pennsylvania,greene,Donald Trump,17669,0.48764938039908373
+pennsylvania,huntingdon,Donald Trump,22792,0.5048732943469786
+pennsylvania,indiana,Donald Trump,41198,0.490026524567935
+pennsylvania,jefferson,Donald Trump,22824,0.5255958549222798
+pennsylvania,juniata,Donald Trump,12043,0.48633041230868634
+pennsylvania,lackawanna,Joe Biden,115410,0.5504258992531262
+pennsylvania,lancaster,Donald Trump,281375,0.5155994605331633
+pennsylvania,lawrence,Donald Trump,46076,0.5388249602394986
+pennsylvania,lebanon,Donald Trump,71858,0.5067810117565748
+pennsylvania,lehigh,Joe Biden,184713,0.5001462154565984
+pennsylvania,luzerne,Donald Trump,153321,0.48302705904220633
+pennsylvania,lycoming,Donald Trump,59254,0.5229878463181493
+pennsylvania,mckean,Donald Trump,19466,0.4791630769230769
+pennsylvania,mercer,Donald Trump,57954,0.5296278695715748
+pennsylvania,mifflin,Donald Trump,21502,0.4660366725909229
+pennsylvania,monroe,Joe Biden,83829,0.4923269376464577
+pennsylvania,montgomery,Joe Biden,510157,0.6139701413501982
+pennsylvania,montour,Donald Trump,9817,0.5385079539221064
+pennsylvania,northampton,Joe Biden,171399,0.5614393108079335
+pennsylvania,northumberland,Donald Trump,42283,0.46545138315555407
+pennsylvania,perry,Donald Trump,24652,0.5327627939142462
+pennsylvania,philadelphia,Joe Biden,741377,0.468022125368672
+pennsylvania,pike,Donald Trump,32554,0.5833109355121934
+pennsylvania,potter,Donald Trump,9064,0.5484690790269878
+pennsylvania,schuylkill,Donald Trump,70603,0.499458824694572
+pennsylvania,snyder,Donald Trump,19140,0.4740909541266224
+pennsylvania,somerset,Donald Trump,40543,0.5520034855065558
+pennsylvania,sullivan,Donald Trump,3595,0.5926475436861194
+pennsylvania,susquehanna,Donald Trump,21752,0.5393771077167229
+pennsylvania,tioga,Donald Trump,21075,0.5192037643812668
+pennsylvania,union,Donald Trump,20115,0.4477661776818111
+pennsylvania,venango,Donald Trump,26528,0.523565169337649
+pennsylvania,warren,Donald Trump,20650,0.5269066877599449
+pennsylvania,washington,Donald Trump,118478,0.5727310081454089
+pennsylvania,wayne,Donald Trump,28089,0.5468935573684313
+pennsylvania,westmoreland,Donald Trump,205183,0.5880870968389132
+pennsylvania,wyoming,Donald Trump,14858,0.5545271329402105
+pennsylvania,york,Donald Trump,238471,0.5310472143910141
+rhode island,bristol,Joe Biden,11657,0.2404546298397244
+rhode island,newport,Joe Biden,10712,0.13050364269876466
+rhode island,providence,Joe Biden,57167,0.08947288517852475
+south carolina,abbeville,Donald Trump,12433,0.506910751416806
+south carolina,aiken,Donald Trump,85185,0.4985310641883983
+south carolina,allendale,Joe Biden,3593,0.41355893186003684
+south carolina,anderson,Donald Trump,96093,0.47439745653096893
+south carolina,bamberg,Joe Biden,6482,0.46082752737096544
+south carolina,barnwell,Donald Trump,10321,0.4946324163711301
+south carolina,beaufort,Donald Trump,97835,0.5092337160762432
+south carolina,berkeley,Donald Trump,104458,0.4583360756799923
+south carolina,calhoun,Donald Trump,8291,0.5697107125678554
+south carolina,charleston,Joe Biden,218857,0.5319732818675469
+south carolina,cherokee,Donald Trump,25270,0.4410122164048866
+south carolina,chester,Donald Trump,15757,0.48868006450812557
+south carolina,chesterfield,Donald Trump,18876,0.4134939759036145
+south carolina,clarendon,Donald Trump,16733,0.4958660542302563
+south carolina,colleton,Donald Trump,19283,0.5117976484327308
+south carolina,darlington,Donald Trump,32417,0.48661022546458915
+south carolina,dillon,Donald Trump,13101,0.42983693690737884
+south carolina,dorchester,Donald Trump,77278,0.4746543495752692
+south carolina,edgefield,Donald Trump,13304,0.4880410858400587
+south carolina,fairfield,Joe Biden,12136,0.5430706582539043
+south carolina,florence,Donald Trump,64510,0.46647335729212613
+south carolina,georgetown,Donald Trump,36668,0.5850031908104658
+south carolina,greenville,Donald Trump,258155,0.4930931997814884
+south carolina,greenwood,Donald Trump,32006,0.4519919221589866
+south carolina,hampton,Joe Biden,9305,0.48408074081781294
+south carolina,horry,Donald Trump,179744,0.5076352585990211
+south carolina,jasper,Joe Biden,14394,0.47863532071958237
+south carolina,kershaw,Donald Trump,33629,0.5053117158269598
+south carolina,lancaster,Donald Trump,49868,0.5087948414479859
+south carolina,laurens,Donald Trump,30488,0.4517209192064362
+south carolina,lee,Joe Biden,8431,0.5010102210601378
+south carolina,lexington,Donald Trump,144568,0.48390962343096233
+south carolina,marion,Joe Biden,14704,0.47962944841308675
+south carolina,marlboro,Joe Biden,11446,0.43824182556091584
+south carolina,mccormick,Donald Trump,5697,0.6020289548768889
+south carolina,newberry,Donald Trump,18631,0.4846774193548387
+south carolina,oconee,Donald Trump,40668,0.5112513514193046
+south carolina,orangeburg,Joe Biden,41205,0.4781549173194082
+south carolina,pickens,Donald Trump,57546,0.4535323602660698
+south carolina,richland,Joe Biden,193822,0.46618834469007286
+south carolina,saluda,Donald Trump,9274,0.45298686074341815
+south carolina,spartanburg,Donald Trump,148655,0.46485920227652955
+south carolina,sumter,Joe Biden,48920,0.4583915068262104
+south carolina,union,Donald Trump,13257,0.4853199589983892
+south carolina,williamsburg,Joe Biden,15985,0.5263764488935722
+south carolina,york,Donald Trump,144050,0.5126717655056072
+south dakota,aurora,Donald Trump,1405,0.5107233733187931
+south dakota,beadle,Donald Trump,7081,0.3837316425513467
+south dakota,bennett,Donald Trump,1183,0.3515601783060921
+south dakota,bon homme,Donald Trump,3001,0.43486451238950874
+south dakota,brookings,Donald Trump,14567,0.41528636998603075
+south dakota,brown,Donald Trump,17547,0.4517881510852494
+south dakota,brule,Donald Trump,2490,0.4700774023031905
+south dakota,buffalo,Joe Biden,549,0.2798165137614679
+south dakota,butte,Donald Trump,4802,0.46044683095215266
+south dakota,campbell,Donald Trump,873,0.6344476744186046
+south dakota,charles mix,Donald Trump,3783,0.4071244080929832
+south dakota,clark,Donald Trump,1850,0.49518201284796576
+south dakota,clay,Joe Biden,5698,0.40497512437810945
+south dakota,codington,Donald Trump,13161,0.46988467992431004
+south dakota,corson,Donald Trump,1283,0.3139990210474792
+south dakota,custer,Donald Trump,5494,0.6123495318769505
+south dakota,davison,Donald Trump,8454,0.4275094816687737
+south dakota,day,Donald Trump,2964,0.5464601769911505
+south dakota,deuel,Donald Trump,2350,0.5401057228223397
+south dakota,dewey,Joe Biden,1966,0.3336727766463001
+south dakota,douglas,Donald Trump,1707,0.5843889079082506
+south dakota,edmunds,Donald Trump,1985,0.5184121180464873
+south dakota,fall river,Donald Trump,4042,0.6021152986742142
+south dakota,faulk,Donald Trump,1182,0.514136581122227
+south dakota,grant,Donald Trump,3745,0.5310550198525241
+south dakota,gregory,Donald Trump,2258,0.5395459976105137
+south dakota,haakon,Donald Trump,1137,0.5987361769352291
+south dakota,hamlin,Donald Trump,3083,0.5001622323166774
+south dakota,hand,Donald Trump,1836,0.5753682231275462
+south dakota,hanson,Donald Trump,2388,0.6915725456125109
+south dakota,harding,Donald Trump,813,0.6263482280431433
+south dakota,hughes,Donald Trump,8723,0.4977176765947735
+south dakota,hutchinson,Donald Trump,3767,0.5166643807433823
+south dakota,hyde,Donald Trump,710,0.5457340507302075
+south dakota,jackson,Donald Trump,1115,0.33343301435406697
+south dakota,jerauld,Donald Trump,1006,0.49975161450571287
+south dakota,jones,Donald Trump,599,0.6633444075304541
+south dakota,kingsbury,Donald Trump,2779,0.5626645069852196
+south dakota,lake,Donald Trump,5873,0.45893568805188717
+south dakota,lawrence,Donald Trump,13828,0.5350564928029716
+south dakota,lincoln,Donald Trump,32396,0.5299698992278498
+south dakota,lyman,Donald Trump,1597,0.42237503306003704
+south dakota,marshall,Donald Trump,2178,0.4413373860182371
+south dakota,mccook,Donald Trump,2900,0.519155030433226
+south dakota,mcpherson,Donald Trump,1324,0.5565363598150483
+south dakota,meade,Donald Trump,13670,0.4824932938020613
+south dakota,mellette,Donald Trump,769,0.37311984473556525
+south dakota,miner,Donald Trump,1138,0.5135379061371841
+south dakota,minnehaha,Donald Trump,92326,0.47804115277475745
+south dakota,moody,Donald Trump,3206,0.48753041362530414
+south dakota,oglala lakota,Joe Biden,3200,0.22571771178669675
+south dakota,pennington,Donald Trump,57518,0.5055416392001758
+south dakota,perkins,Donald Trump,1669,0.5825479930191972
+south dakota,potter,Donald Trump,1380,0.6409660938225732
+south dakota,roberts,Donald Trump,4307,0.4143736771214162
+south dakota,sanborn,Donald Trump,1185,0.5055460750853242
+south dakota,spink,Donald Trump,3163,0.49607904642409034
+south dakota,stanley,Donald Trump,1652,0.5332472562943835
+south dakota,sully,Donald Trump,930,0.6685837526959022
+south dakota,todd,Joe Biden,2539,0.24948413088336444
+south dakota,tripp,Donald Trump,2696,0.49549715125895977
+south dakota,turner,Donald Trump,4548,0.5424618320610687
+south dakota,union,Donald Trump,8855,0.5557996485061512
+south dakota,walworth,Donald Trump,2580,0.47470101195952163
+south dakota,yankton,Donald Trump,10900,0.47777680371701586
+south dakota,ziebach,Joe Biden,906,0.32873730043541366
+tennessee,anderson,Donald Trump,35570,0.4620800748265738
+tennessee,bedford,Donald Trump,19088,0.38396395309074083
+tennessee,benton,Donald Trump,7260,0.44925742574257427
+tennessee,bledsoe,Donald Trump,5758,0.3822357939458311
+tennessee,blount,Donald Trump,66609,0.5004883986535225
+tennessee,bradley,Donald Trump,45865,0.4242438257330497
+tennessee,campbell,Donald Trump,14933,0.3748054816525275
+tennessee,cannon,Donald Trump,6557,0.4467229867829405
+tennessee,carroll,Donald Trump,11905,0.42874635358519103
+tennessee,carter,Donald Trump,24492,0.4343246262701495
+tennessee,cheatham,Donald Trump,20260,0.49819263776526423
+tennessee,chester,Donald Trump,7584,0.4384575359888998
+tennessee,claiborne,Donald Trump,12945,0.4050502205951375
+tennessee,clay,Donald Trump,3506,0.4604070912672357
+tennessee,cocke,Donald Trump,14859,0.4127041439840018
+tennessee,coffee,Donald Trump,24282,0.4296178343949045
+tennessee,crockett,Donald Trump,6114,0.42965565706254394
+tennessee,cumberland,Donald Trump,32279,0.5333608724388632
+tennessee,davidson,Joe Biden,309658,0.4461005209293749
+tennessee,decatur,Donald Trump,5241,0.4493698019377519
+tennessee,dekalb,Donald Trump,8513,0.4154709614446071
+tennessee,dickson,Donald Trump,24323,0.4508600874916586
+tennessee,dyer,Donald Trump,15079,0.40579671142926343
+tennessee,fayette,Donald Trump,22984,0.558772761529672
+tennessee,fentress,Donald Trump,8729,0.4712519570263996
+tennessee,franklin,Donald Trump,19132,0.4532789992418499
+tennessee,gibson,Donald Trump,22335,0.454582459853866
+tennessee,giles,Donald Trump,13203,0.44810616345370624
+tennessee,grainger,Donald Trump,10134,0.43456260720411666
+tennessee,greene,Donald Trump,28087,0.40665131969479795
+tennessee,grundy,Donald Trump,5855,0.43606166679079467
+tennessee,hamblen,Donald Trump,24631,0.37932362090738286
+tennessee,hamilton,Donald Trump,171113,0.4652287631455884
+tennessee,hancock,Donald Trump,2744,0.41450151057401813
+tennessee,hardeman,Donald Trump,10063,0.40171656686626744
+tennessee,hardin,Donald Trump,11538,0.44978949009823793
+tennessee,hawkins,Donald Trump,24824,0.43715000176099744
+tennessee,haywood,Joe Biden,7439,0.42990060101710587
+tennessee,henderson,Donald Trump,12020,0.42749937760073975
+tennessee,henry,Donald Trump,15047,0.46520327716803217
+tennessee,hickman,Donald Trump,9832,0.390499642545079
+tennessee,houston,Donald Trump,3686,0.44945738324594564
+tennessee,humphreys,Donald Trump,8236,0.44322462598213325
+tennessee,jackson,Donald Trump,5323,0.4516375360597319
+tennessee,jefferson,Donald Trump,23616,0.4333608587943848
+tennessee,johnson,Donald Trump,7801,0.4385540814031932
+tennessee,knox,Donald Trump,220556,0.46895578051212705
+tennessee,lake,Donald Trump,2034,0.2899087799315849
+tennessee,lauderdale,Donald Trump,8965,0.34974447001911596
+tennessee,lawrence,Donald Trump,18718,0.4240405962575325
+tennessee,lewis,Donald Trump,5609,0.45720573850668406
+tennessee,lincoln,Donald Trump,15608,0.45416981900715825
+tennessee,loudon,Donald Trump,29347,0.5427794628985722
+tennessee,macon,Donald Trump,9487,0.3856190553613527
+tennessee,madison,Donald Trump,42950,0.43833687132593074
+tennessee,marion,Donald Trump,13256,0.4585740478084893
+tennessee,marshall,Donald Trump,14878,0.43281454545454545
+tennessee,maury,Donald Trump,46657,0.48405905360681417
+tennessee,mcminn,Donald Trump,22844,0.4246570249470201
+tennessee,mcnairy,Donald Trump,11275,0.4388184011831556
+tennessee,meigs,Donald Trump,5532,0.44533891482853005
+tennessee,monroe,Donald Trump,20797,0.44681491030185844
+tennessee,montgomery,Donald Trump,76758,0.36727545898666464
+tennessee,moore,Donald Trump,3539,0.5454685573366215
+tennessee,morgan,Donald Trump,8228,0.38443208895949166
+tennessee,obion,Donald Trump,13521,0.4496657687319166
+tennessee,overton,Donald Trump,10037,0.4512836653028191
+tennessee,perry,Donald Trump,3428,0.4244675581971273
+tennessee,pickett,Donald Trump,2931,0.5806259904912837
+tennessee,polk,Donald Trump,8360,0.49667300380228135
+tennessee,putnam,Donald Trump,33593,0.4186304442644401
+tennessee,rhea,Donald Trump,13637,0.41116169686736814
+tennessee,roane,Donald Trump,25917,0.4855007305833427
+tennessee,robertson,Donald Trump,33717,0.46951109130658797
+tennessee,rutherford,Donald Trump,143878,0.4329957717020028
+tennessee,scott,Donald Trump,9052,0.4101866956679355
+tennessee,sequatchie,Donald Trump,7252,0.48263010781312393
+tennessee,sevier,Donald Trump,43535,0.44310432569974556
+tennessee,shelby,Joe Biden,382055,0.40767057276939195
+tennessee,smith,Donald Trump,9051,0.44902515255246317
+tennessee,stewart,Donald Trump,6296,0.45905942398833394
+tennessee,sullivan,Donald Trump,74357,0.46957965998939044
+tennessee,sumner,Donald Trump,92630,0.484256311329287
+tennessee,tipton,Donald Trump,27308,0.4433188850468352
+tennessee,trousdale,Donald Trump,3998,0.3543069833392414
+tennessee,unicoi,Donald Trump,8307,0.46451937594363363
+tennessee,union,Donald Trump,8123,0.40671940717003807
+tennessee,van buren,Donald Trump,2921,0.49744550408719346
+tennessee,warren,Donald Trump,16692,0.4043898539138019
+tennessee,washington,Donald Trump,60203,0.46533719806763285
+tennessee,wayne,Donald Trump,6669,0.3999880045582679
+tennessee,weakley,Donald Trump,13735,0.41211593855016804
+tennessee,white,Donald Trump,11895,0.4349972572682392
+tennessee,williamson,Donald Trump,139016,0.5830914551280976
+tennessee,wilson,Donald Trump,74330,0.5138361779934604
+texas,anderson,Donald Trump,19227,0.33302156404260846
+texas,andrews,Donald Trump,5863,0.31344560278000533
+texas,angelina,Donald Trump,34574,0.39870841261604106
+texas,aransas,Donald Trump,12290,0.5227562739259889
+texas,archer,Donald Trump,4796,0.560738922015667
+texas,armstrong,Donald Trump,1112,0.5892951775304717
+texas,atascosa,Donald Trump,18118,0.3541923249858268
+texas,austin,Donald Trump,14554,0.48461640916355886
+texas,bailey,Donald Trump,1860,0.26571428571428574
+texas,bandera,Donald Trump,12715,0.550147109726549
+texas,bastrop,Donald Trump,36665,0.41325248244536367
+texas,baylor,Donald Trump,1702,0.48503847249928755
+texas,bee,Donald Trump,9420,0.28926761860893596
+texas,bell,Donald Trump,127375,0.3509687978750372
+texas,bexar,Joe Biden,768952,0.38379399806543774
+texas,blanco,Donald Trump,7441,0.6236694325706144
+texas,borden,Donald Trump,416,0.636085626911315
+texas,bosque,Donald Trump,9126,0.48841316564088844
+texas,bowie,Donald Trump,38261,0.41032763150839185
+texas,brazoria,Donald Trump,154984,0.41410341363315734
+texas,brazos,Donald Trump,85061,0.37110348107202534
+texas,brewster,Donald Trump,4822,0.5239595783983484
+texas,briscoe,Donald Trump,725,0.4689521345407503
+texas,brooks,Joe Biden,2484,0.35020442689976033
+texas,brown,Donald Trump,15969,0.4217462497358969
+texas,burleson,Donald Trump,8609,0.4667895678577238
+texas,burnet,Donald Trump,24717,0.5132800332260409
+texas,caldwell,Donald Trump,14973,0.34291407108831073
+texas,calhoun,Donald Trump,7856,0.3689995302959136
+texas,callahan,Donald Trump,6832,0.48999497955963567
+texas,cameron,Joe Biden,114174,0.26981092392293277
+texas,camp,Donald Trump,5060,0.38643653581793186
+texas,carson,Donald Trump,3122,0.5268309146135673
+texas,cass,Donald Trump,13927,0.46383134616665556
+texas,castro,Donald Trump,2083,0.27662682602921645
+texas,chambers,Donald Trump,21652,0.4939206606291489
+texas,cherokee,Donald Trump,19508,0.370550469171447
+texas,childress,Donald Trump,2279,0.3119353955652888
+texas,clay,Donald Trump,5741,0.548276191385732
+texas,cochran,Donald Trump,1000,0.3505082369435682
+texas,coke,Donald Trump,1779,0.525243578387954
+texas,coleman,Donald Trump,4124,0.5044648318042814
+texas,collin,Donald Trump,492216,0.4756951088689803
+texas,collingsworth,Donald Trump,1218,0.41712328767123286
+texas,colorado,Donald Trump,9975,0.464104592192807
+texas,comal,Donald Trump,88863,0.5688724721366887
+texas,comanche,Donald Trump,6086,0.44635130179684634
+texas,concho,Donald Trump,1268,0.46515040352164344
+texas,cooke,Donald Trump,18988,0.46023705068230847
+texas,coryell,Donald Trump,23490,0.30927835051546393
+texas,cottle,Donald Trump,662,0.47353361945636624
+texas,crane,Donald Trump,1503,0.3133208255159475
+texas,crockett,Donald Trump,1574,0.4543879907621247
+texas,crosby,Donald Trump,1953,0.34042182325257103
+texas,culberson,Joe Biden,864,0.3979732842008291
+texas,dallam,Donald Trump,1609,0.22080417181281733
+texas,dallas,Joe Biden,921638,0.34969926192821443
+texas,dawson,Donald Trump,3789,0.2976901319924576
+texas,deaf smith,Donald Trump,4610,0.24857112045724145
+texas,delta,Donald Trump,2592,0.48621271806415306
+texas,denton,Donald Trump,417964,0.4711008817558924
+texas,dickens,Donald Trump,988,0.4468566259611036
+texas,dimmit,Joe Biden,3666,0.36210983800869223
+texas,donley,Donald Trump,1648,0.5027455765710799
+texas,duval,Joe Biden,5053,0.45289952496190733
+texas,eastland,Donald Trump,8292,0.4516339869281046
+texas,ector,Donald Trump,44581,0.26819994826227417
+texas,edwards,Donald Trump,1066,0.55175983436853
+texas,el paso,Joe Biden,267215,0.3184019312757525
+texas,ellis,Donald Trump,85493,0.46255938017378506
+texas,erath,Donald Trump,16853,0.39470232797789123
+texas,falls,Donald Trump,6133,0.35457015667456787
+texas,fannin,Donald Trump,15004,0.4224812749901447
+texas,fayette,Donald Trump,12941,0.510573660538152
+texas,fisher,Donald Trump,1826,0.47676240208877285
+texas,floyd,Donald Trump,2039,0.35696778711484595
+texas,foard,Donald Trump,551,0.47705627705627707
+texas,fort bend,Joe Biden,357514,0.4404574171356482
+texas,franklin,Donald Trump,5009,0.46703962703962704
+texas,freestone,Donald Trump,8711,0.4418014910990516
+texas,frio,Donald Trump,5279,0.2599724219442529
+texas,gaines,Donald Trump,5995,0.27894100130281035
+texas,galveston,Donald Trump,155060,0.4532076144490982
+texas,garza,Donald Trump,1653,0.2653716487397656
+texas,gillespie,Donald Trump,15846,0.587149844375278
+texas,glasscock,Donald Trump,653,0.46344925479063165
+texas,goliad,Donald Trump,3988,0.5207626012013581
+texas,gonzales,Donald Trump,7647,0.3669914095119259
+texas,gray,Donald Trump,7782,0.35556977062962625
+texas,grayson,Donald Trump,59439,0.43637124482424455
+texas,gregg,Donald Trump,47982,0.3871233208277865
+texas,grimes,Donald Trump,12413,0.4298130193905817
+texas,guadalupe,Donald Trump,77592,0.46504881717981145
+texas,hale,Donald Trump,9584,0.2868945698377537
+texas,hall,Donald Trump,1168,0.3940620782726046
+texas,hamilton,Donald Trump,4349,0.5140054367096087
+texas,hansford,Donald Trump,2047,0.379144285978885
+texas,hardeman,Donald Trump,1580,0.40172896008136283
+texas,hardin,Donald Trump,27635,0.47975764730391307
+texas,harris,Joe Biden,1640818,0.348123246328229
+texas,harrison,Donald Trump,29710,0.446411130978318
+texas,hartley,Donald Trump,2078,0.37266857962697275
+texas,haskell,Donald Trump,2214,0.391304347826087
+texas,hays,Joe Biden,109357,0.47507070215603564
+texas,hemphill,Donald Trump,1720,0.4503796805446452
+texas,henderson,Donald Trump,36310,0.4388604856352055
+texas,hidalgo,Joe Biden,220884,0.25426754935783874
+texas,hill,Donald Trump,14931,0.40740538623154793
+texas,hockley,Donald Trump,8095,0.3516354632726641
+texas,hood,Donald Trump,32541,0.5278944892364097
+texas,hopkins,Donald Trump,15939,0.42980800345162334
+texas,houston,Donald Trump,9437,0.41087600139324276
+texas,howard,Donald Trump,10240,0.27929303949378137
+texas,hudspeth,Donald Trump,1165,0.238436348751535
+texas,hunt,Donald Trump,38574,0.39124084629896344
+texas,hutchinson,Donald Trump,8771,0.41890342917184065
+texas,irion,Donald Trump,889,0.5787760416666666
+texas,jack,Donald Trump,3782,0.4232792389479575
+texas,jackson,Donald Trump,6340,0.42953929539295393
+texas,jasper,Donald Trump,15608,0.43930310450617804
+texas,jeff davis,Donald Trump,1305,0.5738786279683378
+texas,jefferson,Donald Trump,94739,0.3765984934311212
+texas,jim hogg,Joe Biden,2036,0.39153846153846156
+texas,jim wells,Donald Trump,13669,0.3376562422805197
+texas,johnson,Donald Trump,72005,0.40954515206151854
+texas,jones,Donald Trump,6741,0.33565702335308467
+texas,karnes,Donald Trump,5249,0.33645279148772517
+texas,kaufman,Donald Trump,56703,0.41646224128560305
+texas,kendall,Donald Trump,26438,0.5573991693196433
+texas,kenedy,Donald Trump,194,0.4801980198019802
+texas,kent,Donald Trump,462,0.6062992125984252
+texas,kerr,Donald Trump,27745,0.5274714828897339
+texas,kimble,Donald Trump,2292,0.5284759050034586
+texas,king,Donald Trump,159,0.5845588235294118
+texas,kinney,Donald Trump,1603,0.4371420779929097
+texas,kleberg,Donald Trump,10944,0.35671447196870926
+texas,knox,Donald Trump,1456,0.39737991266375544
+texas,la salle,Donald Trump,2406,0.3199468085106383
+texas,lamar,Donald Trump,21418,0.42957139132353234
+texas,lamb,Donald Trump,4408,0.34189094857674707
+texas,lampasas,Donald Trump,10399,0.4852996079895464
+texas,lee,Donald Trump,8086,0.46905272927664016
+texas,leon,Donald Trump,8674,0.49839117444265685
+texas,liberty,Donald Trump,29334,0.3325134041419649
+texas,limestone,Donald Trump,9095,0.3880616119810556
+texas,lipscomb,Donald Trump,1353,0.4184967522424992
+texas,live oak,Donald Trump,5054,0.41402473990333416
+texas,llano,Donald Trump,12660,0.5808671713695802
+texas,loving,Donald Trump,66,0.3905325443786982
+texas,lubbock,Donald Trump,120771,0.3888701061599838
+texas,lynn,Donald Trump,2293,0.38531339270710807
+texas,madison,Donald Trump,5297,0.3708345001400168
+texas,marion,Donald Trump,4864,0.4936066571950477
+texas,martin,Donald Trump,2160,0.3742852191994455
+texas,mason,Donald Trump,2474,0.5788488535329902
+texas,matagorda,Donald Trump,13726,0.37458723357803675
+texas,maverick,Joe Biden,15346,0.26133306086304964
+texas,mcculloch,Donald Trump,3436,0.4303607214428858
+texas,mclennan,Donald Trump,97771,0.38099079193992746
+texas,mcmullen,Donald Trump,516,0.6944818304172274
+texas,medina,Donald Trump,22644,0.43897332506203474
+texas,menard,Donald Trump,1028,0.480823199251637
+texas,midland,Donald Trump,58856,0.33283568584871515
+texas,milam,Donald Trump,10576,0.4260564798775329
+texas,mills,Donald Trump,2505,0.5140570490457623
+texas,mitchell,Donald Trump,2579,0.30181392627267406
+texas,montague,Donald Trump,9814,0.4952063780401655
+texas,montgomery,Donald Trump,271451,0.4469131086894603
+texas,moore,Donald Trump,5508,0.2630372492836676
+texas,morris,Donald Trump,5587,0.4510009686793671
+texas,motley,Donald Trump,652,0.5433333333333333
+texas,nacogdoches,Donald Trump,26763,0.41045027912398013
+texas,navarro,Donald Trump,19121,0.38155767964400455
+texas,newton,Donald Trump,6094,0.4482530342037514
+texas,nolan,Donald Trump,5356,0.36400706809840966
+texas,nueces,Donald Trump,127314,0.35141073271983525
+texas,ochiltree,Donald Trump,3156,0.3208621390809272
+texas,oldham,Donald Trump,1009,0.4777462121212121
+texas,orange,Donald Trump,35994,0.43160343421746844
+texas,palo pinto,Donald Trump,12485,0.42772962417349003
+texas,panola,Donald Trump,11451,0.4937052686039493
+texas,parker,Donald Trump,76128,0.5328182085415529
+texas,parmer,Donald Trump,2650,0.275897969807392
+texas,pecos,Donald Trump,4668,0.2950135878152057
+texas,polk,Donald Trump,24181,0.47087804023133994
+texas,potter,Donald Trump,33321,0.2837882723672444
+texas,presidio,Joe Biden,2217,0.3306980906921241
+texas,rains,Donald Trump,6053,0.4836982579510948
+texas,randall,Donald Trump,64674,0.46962886582966024
+texas,reagan,Donald Trump,1124,0.2920239023122889
+texas,real,Donald Trump,1982,0.5741599073001159
+texas,red river,Donald Trump,5806,0.48290776012642433
+texas,reeves,Donald Trump,3687,0.2307836755132699
+texas,refugio,Donald Trump,3366,0.4844559585492228
+texas,roberts,Donald Trump,550,0.6440281030444965
+texas,robertson,Donald Trump,8099,0.47434696029050016
+texas,rockwall,Donald Trump,53891,0.5136634418338655
+texas,runnels,Donald Trump,4409,0.42955962587685115
+texas,rusk,Donald Trump,21368,0.3927507995441679
+texas,sabine,Donald Trump,5487,0.5204894706886739
+texas,san augustine,Donald Trump,4002,0.4858565011533325
+texas,san jacinto,Donald Trump,12638,0.4379223119304203
+texas,san patricio,Donald Trump,25888,0.38795144612618016
+texas,san saba,Donald Trump,2602,0.4297274979355904
+texas,schleicher,Donald Trump,1159,0.41496598639455784
+texas,scurry,Donald Trump,5869,0.3513740046698198
+texas,shackelford,Donald Trump,1628,0.4986217457886677
+texas,shelby,Donald Trump,10084,0.3989871013689958
+texas,sherman,Donald Trump,991,0.32792852415618795
+texas,smith,Donald Trump,100075,0.42996592925486893
+texas,somervell,Donald Trump,4947,0.5419588080631026
+texas,starr,Joe Biden,17525,0.27114631844413845
+texas,stephens,Donald Trump,3800,0.4057228272474909
+texas,sterling,Donald Trump,639,0.4949651432997676
+texas,stonewall,Donald Trump,736,0.5451851851851852
+texas,sutton,Donald Trump,1557,0.4123411016949153
+texas,swisher,Donald Trump,2355,0.3183723130999054
+texas,tarrant,Joe Biden,834697,0.3969993079716435
+texas,taylor,Donald Trump,55112,0.39926394946172683
+texas,terrell,Donald Trump,458,0.5902061855670103
+texas,terry,Donald Trump,3612,0.29277782280943504
+texas,throckmorton,Donald Trump,899,0.5989340439706862
+texas,titus,Donald Trump,10539,0.32180152671755724
+texas,tom green,Donald Trump,45210,0.3792785234899329
+texas,travis,Joe Biden,610349,0.47909814640089043
+texas,trinity,Donald Trump,6938,0.4735512934270698
+texas,tyler,Donald Trump,9660,0.44573643410852715
+texas,upshur,Donald Trump,18887,0.45235072928891334
+texas,upton,Donald Trump,1368,0.37407711238720265
+texas,uvalde,Donald Trump,10342,0.3867469428966755
+texas,val verde,Donald Trump,15272,0.31151453340132584
+texas,van zandt,Donald Trump,25994,0.45933910584908993
+texas,victoria,Donald Trump,34188,0.3712697102645411
+texas,walker,Donald Trump,23612,0.3235806005125324
+texas,waller,Donald Trump,22734,0.41150490533251277
+texas,ward,Donald Trump,4060,0.338389731621937
+texas,washington,Donald Trump,17418,0.48542444679783736
+texas,webb,Joe Biden,68397,0.2472311785203071
+texas,wharton,Donald Trump,16761,0.40333525844643375
+texas,wheeler,Donald Trump,2337,0.4622231012658228
+texas,wichita,Donald Trump,46030,0.34810557362171973
+texas,wilbarger,Donald Trump,4524,0.3542955595583053
+texas,willacy,Joe Biden,5549,0.259808970877423
+texas,williamson,Joe Biden,289312,0.48990180356988644
+texas,wilson,Donald Trump,25013,0.4897787350695124
+texas,winkler,Donald Trump,2126,0.26541822721598
+texas,wise,Donald Trump,32362,0.4624199817101052
+texas,wood,Donald Trump,22779,0.5002086123981642
+texas,yoakum,Donald Trump,2631,0.30196258464363596
+texas,young,Donald Trump,8239,0.45746807329261524
+texas,zapata,Donald Trump,3874,0.273220960575499
+texas,zavala,Joe Biden,4379,0.36984797297297295
+utah,beaver,Donald Trump,3100,0.46199701937406856
+utah,box elder,Donald Trump,27027,0.482228883417193
+utah,cache,Donald Trump,57571,0.4487602210633803
+utah,carbon,Donald Trump,9369,0.4578507550212579
+utah,daggett,Donald Trump,619,0.651578947368421
+utah,davis,Donald Trump,169895,0.4779299034266248
+utah,duchesne,Donald Trump,8524,0.4275253285184071
+utah,emery,Donald Trump,4865,0.4859168997203356
+utah,garfield,Donald Trump,2732,0.5408829934666403
+utah,grand,Joe Biden,5185,0.5315767890096371
+utah,iron,Donald Trump,24890,0.4538740677255238
+utah,juab,Donald Trump,5866,0.4881417991179163
+utah,kane,Donald Trump,4180,0.5300532589398935
+utah,millard,Donald Trump,6160,0.46709129511677283
+utah,morgan,Donald Trump,6512,0.5371164632134608
+utah,piute,Donald Trump,871,0.5889114266396214
+utah,rich,Donald Trump,1363,0.5489327426500201
+utah,salt lake,Joe Biden,541175,0.4663544854223021
+utah,san juan,Donald Trump,6878,0.44930755160700286
+utah,sanpete,Donald Trump,12631,0.4082549532951938
+utah,sevier,Donald Trump,10363,0.4793246993524514
+utah,summit,Joe Biden,26088,0.6190058132637324
+utah,tooele,Donald Trump,31518,0.43618096015721225
+utah,uintah,Donald Trump,15307,0.42835954553086697
+utah,utah,Donald Trump,284480,0.44713038421338025
+utah,wasatch,Donald Trump,17581,0.5157079581121117
+utah,washington,Donald Trump,90476,0.5095631800671337
+utah,wayne,Donald Trump,1621,0.5979343415713759
+utah,weber,Donald Trump,111442,0.4282722231402735
+vermont,addison,Joe Biden,870,0.023656089403703402
+vermont,bennington,Joe Biden,7096,0.20005638567803777
+vermont,chittenden,Joe Biden,853,0.005208396937242786
+vermont,essex,Joe Biden,13414,2.1765374006165827
+vermont,franklin,Donald Trump,754,0.015262539978138537
+vermont,grand isle,Joe Biden,1409,0.19474775397373878
+vermont,orange,Donald Trump,610,0.021113110895749687
+vermont,rutland,Joe Biden,8000,0.13747830420511764
+vermont,washington,Joe Biden,609,0.010426475371946103
+vermont,windham,Joe Biden,282,0.006678982520960637
+vermont,windsor,Joe Biden,1890,0.034324942791762014
+virginia,accomack,Donald Trump,16962,0.5248793167471222
+virginia,albemarle,Joe Biden,64657,0.5913930302753133
+virginia,alexandria,Joe Biden,82508,0.5175251524199012
+virginia,alleghany,Donald Trump,8203,0.5520188425302827
+virginia,amelia,Donald Trump,7893,0.600456447318372
+virginia,amherst,Donald Trump,17005,0.5380477772504351
+virginia,appomattox,Donald Trump,9268,0.5824901011878575
+virginia,arlington,Joe Biden,130699,0.5518404674846522
+virginia,augusta,Donald Trump,42278,0.5595436618227058
+virginia,bath,Donald Trump,2501,0.6030865686038099
+virginia,bedford,Donald Trump,48669,0.6160866868362089
+virginia,bland,Donald Trump,3479,0.5539808917197452
+virginia,botetourt,Donald Trump,21120,0.6319758221371077
+virginia,bristol,Donald Trump,7806,0.4656962176351271
+virginia,brunswick,Joe Biden,7948,0.48968024151315387
+virginia,buchanan,Donald Trump,9953,0.47386212150066653
+virginia,buckingham,Donald Trump,8126,0.47387450431537204
+virginia,buena vista,Donald Trump,2776,0.42852732324791604
+virginia,campbell,Donald Trump,29892,0.5446296802405028
+virginia,caroline,Donald Trump,16288,0.5301220504475183
+virginia,carroll,Donald Trump,15651,0.5253600080561244
+virginia,charles city,Joe Biden,4441,0.6377997989372397
+virginia,charlotte,Donald Trump,6191,0.5211279461279461
+virginia,charlottesville,Joe Biden,24205,0.5121017221681547
+virginia,chesapeake,Joe Biden,127108,0.5191578001511222
+virginia,chesterfield,Joe Biden,203884,0.5778992182583998
+virginia,clarke,Donald Trump,9337,0.638689376838361
+virginia,colonial heights,Donald Trump,9146,0.5265400115141048
+virginia,covington,Donald Trump,2603,0.4700252798844348
+virginia,craig,Donald Trump,3169,0.6176183979731047
+virginia,culpeper,Donald Trump,27116,0.5154643094762855
+virginia,cumberland,Donald Trump,5310,0.5346355215465163
+virginia,danville,Joe Biden,19389,0.48419238837278994
+virginia,dickenson,Donald Trump,7303,0.5100572705685151
+virginia,dinwiddie,Donald Trump,15092,0.5287275784753364
+virginia,emporia,Joe Biden,2381,0.44537972315750096
+virginia,essex,Donald Trump,6178,0.5640463799872181
+virginia,fairfax,Joe Biden,600823,0.5235784274425462
+virginia,falls church,Joe Biden,8819,0.6033385783676541
+virginia,fauquier,Donald Trump,43661,0.6130268737187947
+virginia,floyd,Donald Trump,9408,0.5973712616674075
+virginia,fluvanna,Donald Trump,15840,0.5808580858085809
+virginia,franklin,Donald Trump,29702,3.7281285301870213
+virginia,frederick,Donald Trump,48703,0.545306954194798
+virginia,fredericksburg,Joe Biden,12862,0.4429673508747761
+virginia,galax,Donald Trump,2638,0.4156294312273515
+virginia,giles,Donald Trump,9176,0.5488038277511962
+virginia,gloucester,Donald Trump,22282,0.5966049052158081
+virginia,goochland,Donald Trump,16950,0.713594072327706
+virginia,grayson,Donald Trump,8131,0.5228938906752412
+virginia,greene,Donald Trump,11311,0.57071497048287
+virginia,greensville,Joe Biden,4574,0.40349329569513054
+virginia,halifax,Donald Trump,18248,0.5381144761286898
+virginia,hampton,Joe Biden,65901,0.489933833915694
+virginia,hanover,Donald Trump,70967,0.6585286639570922
+virginia,harrisonburg,Joe Biden,17086,0.3222800663950505
+virginia,henrico,Joe Biden,183152,0.5536337200515087
+virginia,henry,Donald Trump,26105,0.5163478845659355
+virginia,highland,Donald Trump,1533,0.7
+virginia,hopewell,Joe Biden,9608,0.4264725464956279
+virginia,isle of wight,Donald Trump,23456,0.6320838610579643
+virginia,james city,Joe Biden,49622,0.6484586333520641
+virginia,king and queen,Donald Trump,4115,0.5857651245551602
+virginia,king george,Donald Trump,14224,0.5300342823073484
+virginia,king william,Donald Trump,10736,0.6260788430137625
+virginia,lancaster,Donald Trump,7152,0.6745260775252288
+virginia,lee,Donald Trump,9946,0.4246253682278103
+virginia,lexington,Joe Biden,2762,0.37093741606231534
+virginia,loudoun,Joe Biden,224862,0.5437517229371908
+virginia,louisa,Donald Trump,21915,0.5829852890319491
+virginia,lunenburg,Donald Trump,6000,0.49196457855034437
+virginia,lynchburg,Joe Biden,36363,0.4425445428877422
+virginia,madison,Donald Trump,8129,0.6130005278636603
+virginia,manassas,Joe Biden,16968,0.41299744432274554
+virginia,manassas park,Joe Biden,6087,0.34826639203570203
+virginia,martinsville,Joe Biden,6013,0.47897084594551537
+virginia,mathews,Donald Trump,5826,0.6594973964229115
+virginia,mecklenburg,Donald Trump,16204,0.5297675483048354
+virginia,middlesex,Donald Trump,6785,0.6411831411831412
+virginia,montgomery,Joe Biden,45037,0.45706601715126605
+virginia,nelson,Donald Trump,9316,0.6239785666443403
+virginia,new kent,Donald Trump,14463,0.6263479277640639
+virginia,newport news,Joe Biden,81203,0.4530785325707909
+virginia,norfolk,Joe Biden,89881,0.3702737886315512
+virginia,northampton,Joe Biden,6732,0.5748932536293766
+virginia,northumberland,Donald Trump,7815,0.6461347664324101
+virginia,norton,Donald Trump,1601,0.40216026124089427
+virginia,nottoway,Donald Trump,7078,0.4646796218487395
+virginia,orange,Donald Trump,20742,0.5598229467490756
+virginia,page,Donald Trump,12514,0.5235545142665886
+virginia,patrick,Donald Trump,9534,0.5414584279872785
+virginia,petersburg,Joe Biden,14118,0.4503923945638997
+virginia,pittsylvania,Donald Trump,34227,0.5671040858932299
+virginia,poquoson,Donald Trump,7857,0.6402901149050607
+virginia,portsmouth,Joe Biden,44582,0.4722769550202335
+virginia,powhatan,Donald Trump,19730,0.6653851342236612
+virginia,prince edward,Joe Biden,9574,0.41987544952197176
+virginia,prince george,Donald Trump,17432,0.45451464031496885
+virginia,prince william,Joe Biden,228056,0.4848799260101842
+virginia,pulaski,Donald Trump,17376,0.5106533047285978
+virginia,radford,Joe Biden,6320,0.3463203463203463
+virginia,rappahannock,Donald Trump,4978,0.6754409769335142
+virginia,richmond,Donald Trump,4102,0.4546159813809154
+virginia,roanoke,Donald Trump,57184,0.5767830305720021
+virginia,rockbridge,Donald Trump,12373,0.5481327249368715
+virginia,rockingham,Donald Trump,43811,0.5346195148142725
+virginia,russell,Donald Trump,13386,0.5034980816971338
+virginia,salem,Donald Trump,13051,0.5158294138571597
+virginia,scott,Donald Trump,10869,0.5039877585087638
+virginia,shenandoah,Donald Trump,23684,0.5430117388114454
+virginia,smyth,Donald Trump,14136,0.46957214988041457
+virginia,southampton,Donald Trump,9786,0.5550450910328398
+virginia,spotsylvania,Donald Trump,75317,0.5529273574863267
+virginia,stafford,Joe Biden,79625,0.5208265197995839
+virginia,staunton,Joe Biden,12990,0.521017166693406
+virginia,suffolk,Joe Biden,49642,0.5389542710730881
+virginia,surry,Joe Biden,4471,0.6962005605730303
+virginia,sussex,Joe Biden,5088,0.45595483466260417
+virginia,tazewell,Donald Trump,20134,0.4959724103953689
+virginia,virginia beach,Joe Biden,227561,0.5057203305079849
+virginia,warren,Donald Trump,21147,0.5265162832387212
+virginia,washington,Donald Trump,28685,0.53377372534425
+virginia,waynesboro,Donald Trump,10717,0.47357490057445867
+virginia,westmoreland,Donald Trump,9933,0.5513738551207327
+virginia,williamsburg,Joe Biden,6883,0.4602781864384111
+virginia,winchester,Joe Biden,12106,0.43115606524681244
+virginia,wise,Donald Trump,16615,0.44445336115346545
+virginia,wythe,Donald Trump,15072,0.5254497280713987
+virginia,york,Donald Trump,38787,0.5680579964850615
+washington,adams,Donald Trump,5862,0.29334934694490317
+washington,asotin,Donald Trump,11951,0.5292268178195022
+washington,benton,Donald Trump,103033,0.5041000048926073
+washington,chelan,Donald Trump,43306,0.560958549222798
+washington,clallam,Joe Biden,49264,0.6370537042065925
+washington,clark,Joe Biden,275403,0.5640718415700443
+washington,columbia,Donald Trump,2495,0.6260978670012547
+washington,cowlitz,Donald Trump,60280,0.5450616223449947
+washington,douglas,Donald Trump,21308,0.49063989500103616
+washington,ferry,Donald Trump,4367,0.5725711288842271
+washington,franklin,Donald Trump,32404,0.3402995106172943
+washington,garfield,Donald Trump,1489,0.6692134831460674
+washington,grant,Donald Trump,37680,0.385540196248964
+washington,grays harbor,Donald Trump,38441,0.5121301341575518
+washington,island,Joe Biden,53925,0.633361130360226
+washington,jefferson,Joe Biden,24792,0.769436082058285
+washington,king,Joe Biden,1210507,0.5373387216339619
+washington,kitsap,Joe Biden,158672,0.5844853816033271
+washington,kittitas,Donald Trump,26364,0.5499947846041514
+washington,klickitat,Donald Trump,13560,0.6046822742474917
+washington,lewis,Donald Trump,45309,0.5614011176230067
+washington,lincoln,Donald Trump,7033,0.6429289697412927
+washington,mason,Donald Trump,37303,0.5586957824107357
+washington,okanogan,Donald Trump,21282,0.5037994460620695
+washington,pacific,Donald Trump,14064,0.6258733478705888
+washington,pend oreille,Donald Trump,8553,0.6232148061789565
+washington,pierce,Joe Biden,464081,0.5128080178567482
+washington,san juan,Joe Biden,13197,0.7505972016835399
+washington,skagit,Joe Biden,73423,0.5682674819085949
+washington,skamania,Donald Trump,7312,0.6051477282131921
+washington,snohomish,Joe Biden,438796,0.5337611895635842
+washington,spokane,Donald Trump,295430,0.5650939751108459
+washington,stevens,Donald Trump,28430,0.621787721715548
+washington,thurston,Joe Biden,168134,0.5787028113555636
+washington,wahkiakum,Donald Trump,2981,0.6642156862745098
+washington,walla walla,Donald Trump,31261,0.5144996708360764
+washington,whatcom,Joe Biden,138620,0.6046753065470868
+washington,whitman,Joe Biden,21126,0.4216429825961999
+washington,yakima,Donald Trump,96193,0.38343305178317316
+west virginia,barbour,Donald Trump,6677,0.40611884921841734
+west virginia,berkeley,Donald Trump,51535,0.43244581315924174
+west virginia,boone,Donald Trump,9012,0.42000279629025494
+west virginia,braxton,Donald Trump,5664,0.40581786916959234
+west virginia,brooke,Donald Trump,10656,0.4857103787775195
+west virginia,cabell,Donald Trump,37360,0.4063298711186035
+west virginia,calhoun,Donald Trump,2971,0.4179209452806302
+west virginia,clay,Donald Trump,3365,0.3955101081335214
+west virginia,doddridge,Donald Trump,3101,0.3670691287878788
+west virginia,fayette,Donald Trump,16862,0.397632410507947
+west virginia,gilmer,Donald Trump,2662,0.34027866547360347
+west virginia,grant,Donald Trump,5509,0.4762275242047026
+west virginia,greenbrier,Donald Trump,15850,0.4572730944550228
+west virginia,hampshire,Donald Trump,10086,0.43521035598705504
+west virginia,hancock,Donald Trump,13800,0.4790003471017008
+west virginia,hardy,Donald Trump,6331,0.45956736353077815
+west virginia,harrison,Donald Trump,30465,0.4529707386701558
+west virginia,jackson,Donald Trump,13508,0.4727043673012318
+west virginia,jefferson,Donald Trump,27703,0.4847758373289469
+west virginia,kanawha,Donald Trump,82244,0.46172329388515865
+west virginia,lewis,Donald Trump,7457,0.46878732633431824
+west virginia,lincoln,Donald Trump,7830,0.3836542701749228
+west virginia,logan,Donald Trump,13026,0.40682095006090135
+west virginia,marion,Donald Trump,25794,0.460015694107576
+west virginia,marshall,Donald Trump,14080,0.46117061347482885
+west virginia,mason,Donald Trump,11203,0.42249962286921106
+west virginia,mcdowell,Donald Trump,6527,0.3703472537448933
+west virginia,mercer,Donald Trump,25134,0.4277545185336465
+west virginia,mineral,Donald Trump,12872,0.479082923924371
+west virginia,mingo,Donald Trump,10022,0.42785177595628415
+west virginia,monongalia,Donald Trump,42072,0.3983638222929213
+west virginia,monroe,Donald Trump,6490,0.4888888888888889
+west virginia,morgan,Donald Trump,8695,0.48618877208678146
+west virginia,nicholas,Donald Trump,10630,0.43394839973873284
+west virginia,ohio,Donald Trump,19898,0.4805003501485113
+west virginia,pendleton,Donald Trump,3659,0.5250394604677859
+west virginia,pleasants,Donald Trump,3491,0.46796246648793566
+west virginia,pocahontas,Donald Trump,4008,0.485994907238996
+west virginia,preston,Donald Trump,14572,0.4358698253170615
+west virginia,putnam,Donald Trump,28501,0.50488928255093
+west virginia,raleigh,Donald Trump,33106,0.4512752007197285
+west virginia,randolph,Donald Trump,12200,0.42516117790555846
+west virginia,ritchie,Donald Trump,4283,0.44829390831065524
+west virginia,roane,Donald Trump,5763,0.4210257159555815
+west virginia,summers,Donald Trump,5585,0.4442058379066253
+west virginia,taylor,Donald Trump,7383,0.4422282120395328
+west virginia,tucker,Donald Trump,3844,0.5620704781400789
+west virginia,tyler,Donald Trump,3922,0.45652426958444886
+west virginia,upshur,Donald Trump,10221,0.42277465254798147
+west virginia,wayne,Donald Trump,16947,0.4301050708085884
+west virginia,webster,Donald Trump,3402,0.4192753265960069
+west virginia,wetzel,Donald Trump,6667,0.4425489545303684
+west virginia,wirt,Donald Trump,2653,0.4557636144992269
+west virginia,wood,Donald Trump,38762,0.46411552000766304
+west virginia,wyoming,Donald Trump,8592,0.421300382465431
+wisconsin,adams,Donald Trump,11818,0.5844708209693373
+wisconsin,ashland,Joe Biden,8757,0.562716874437733
+wisconsin,barron,Donald Trump,25346,0.5602068782601007
+wisconsin,bayfield,Joe Biden,10880,0.7235967012503325
+wisconsin,brown,Donald Trump,144017,0.5444012670955841
+wisconsin,buffalo,Donald Trump,7816,0.5998004757885044
+wisconsin,burnett,Donald Trump,10141,0.6579083949656157
+wisconsin,calumet,Donald Trump,30774,0.6143863922218451
+wisconsin,chippewa,Donald Trump,35938,0.5558167589470754
+wisconsin,clark,Donald Trump,14898,0.42842353482486917
+wisconsin,columbia,Donald Trump,33869,0.5886984634638115
+wisconsin,crawford,Donald Trump,8695,0.5390242390428368
+wisconsin,dane,Joe Biden,344791,0.630682556087032
+wisconsin,dodge,Donald Trump,48436,0.551417935085782
+wisconsin,door,Joe Biden,20117,0.7270854416654619
+wisconsin,douglas,Joe Biden,24677,0.5718887601390499
+wisconsin,dunn,Donald Trump,23524,0.5185152530417916
+wisconsin,eau claire,Joe Biden,58275,0.5568774726219827
+wisconsin,florence,Donald Trump,2940,0.6845168800931315
+wisconsin,fond du lac,Donald Trump,57251,0.5536686556482887
+wisconsin,forest,Donald Trump,5053,0.561195024433585
+wisconsin,grant,Donald Trump,25608,0.49783238398880225
+wisconsin,green,Joe Biden,21406,0.5791666666666667
+wisconsin,green lake,Donald Trump,10671,0.5642150901496326
+wisconsin,iowa,Joe Biden,13992,0.5909282878621506
+wisconsin,iron,Donald Trump,4010,0.7051169333567786
+wisconsin,jackson,Donald Trump,10184,0.49333914644189314
+wisconsin,jefferson,Donald Trump,47979,0.565997003621607
+wisconsin,juneau,Donald Trump,13709,0.5136958069472027
+wisconsin,kenosha,Donald Trump,88738,0.5233396830639121
+wisconsin,kewaunee,Donald Trump,12095,0.5919056474503279
+wisconsin,la crosse,Joe Biden,67884,0.5752101409978309
+wisconsin,lafayette,Donald Trump,8555,0.5133513351335134
+wisconsin,langlade,Donald Trump,11165,0.5818437646568346
+wisconsin,lincoln,Donald Trump,16497,0.5978690247526547
+wisconsin,manitowoc,Donald Trump,44829,0.5675922057203632
+wisconsin,marathon,Donald Trump,76751,0.565626566046635
+wisconsin,marinette,Donald Trump,22979,0.5694919454770756
+wisconsin,marquette,Donald Trump,9065,0.5820598433286246
+wisconsin,menominee,Joe Biden,1590,0.34899034240561894
+wisconsin,milwaukee,Joe Biden,458971,0.485310755969488
+wisconsin,monroe,Donald Trump,22611,0.4888547769874387
+wisconsin,oconto,Donald Trump,23215,0.6120485104139204
+wisconsin,oneida,Donald Trump,24159,0.6787189211967973
+wisconsin,outagamie,Donald Trump,108022,0.5749367964446337
+wisconsin,ozaukee,Donald Trump,61486,0.6891426906221629
+wisconsin,pepin,Donald Trump,4144,0.5686839577329491
+wisconsin,pierce,Donald Trump,23317,0.5453758712635075
+wisconsin,polk,Donald Trump,26371,0.6023113994015942
+wisconsin,portage,Joe Biden,40603,0.5737155937376364
+wisconsin,price,Donald Trump,8546,0.6401018650288368
+wisconsin,racine,Donald Trump,106451,0.5422569290564462
+wisconsin,richland,Donald Trump,9014,0.5224901460700209
+wisconsin,rock,Joe Biden,85360,0.5225461268166068
+wisconsin,rusk,Donald Trump,7886,0.5562138524474538
+wisconsin,sauk,Joe Biden,36203,0.5617919990068588
+wisconsin,sawyer,Donald Trump,10510,0.6347384949873173
+wisconsin,shawano,Donald Trump,22615,0.5529475048289689
+wisconsin,sheboygan,Donald Trump,66011,0.572316629096584
+wisconsin,st. croix,Donald Trump,56707,0.6253046191846682
+wisconsin,taylor,Donald Trump,10686,0.525291254977142
+wisconsin,trempealeau,Donald Trump,15380,0.5187358764207899
+wisconsin,vernon,Donald Trump,15923,0.5166115112581922
+wisconsin,vilas,Donald Trump,15369,0.6924532552376661
+wisconsin,walworth,Donald Trump,57600,0.5545500057765625
+wisconsin,washburn,Donald Trump,10378,0.6601781170483461
+wisconsin,washington,Donald Trump,88070,0.6474116764926415
+wisconsin,waukesha,Donald Trump,267996,0.6630314845694437
+wisconsin,waupaca,Donald Trump,29130,0.5712884879388115
+wisconsin,waushara,Donald Trump,13568,0.5550873460704496
+wisconsin,winnebago,Donald Trump,94032,0.5469934324954772
+wisconsin,wood,Donald Trump,41298,0.5657337771750298
+wyoming,albany,Joe Biden,18617,0.47883230452674896
+wyoming,big horn,Donald Trump,5752,0.48787107718405426
+wyoming,campbell,Donald Trump,19566,0.4222179063895902
+wyoming,carbon,Donald Trump,6664,0.4502702702702703
+wyoming,converse,Donald Trump,6970,0.504268557372305
+wyoming,crook,Donald Trump,4119,0.5431170886075949
+wyoming,fremont,Donald Trump,18111,0.46129747077252237
+wyoming,goshen,Donald Trump,6241,0.47240935583983046
+wyoming,hot springs,Donald Trump,2577,0.583956492182189
+wyoming,johnson,Donald Trump,4914,0.5818827708703375
+wyoming,laramie,Donald Trump,44982,0.45208040201005023
+wyoming,lincoln,Donald Trump,10468,0.5278870398386284
+wyoming,natrona,Donald Trump,35202,0.4408074331939192
+wyoming,niobrara,Donald Trump,1308,0.5551782682512734
+wyoming,park,Donald Trump,16717,0.5726176611632527
+wyoming,platte,Donald Trump,4923,0.5865602287620636
+wyoming,sheridan,Donald Trump,16428,0.5388879776939478
+wyoming,sublette,Donald Trump,4970,0.5055436883328247
+wyoming,sweetwater,Donald Trump,16603,0.39210731407788774
+wyoming,teton,Joe Biden,14677,0.6255114217524719
+wyoming,uinta,Donald Trump,9402,0.46484722634233167
+wyoming,washakie,Donald Trump,4012,0.514029468289558
+wyoming,weston,Donald Trump,3542,0.5113324671574997
