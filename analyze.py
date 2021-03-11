@@ -51,7 +51,7 @@ print("number of counties within " + str(epsilon1) + " of actual turnout: " + st
 	" out of " + str(count) + " counties for a ratio of " + str(number_within_epsilon1/count))
 print("number of counties within " + str(epsilon2) + " of actual turnout: " + str(number_within_epsilon2) + 
 	" out of " + str(count) + " counties for a ratio of " + str(number_within_epsilon2/count))
-print("number of counties within " + str(epsilon3) + " of actual turnout: " + str(number_within_epsilon3)+ 
+print("number of counties within " + str(epsilon3) + "q of actual turnout: " + str(number_within_epsilon3)+ 
 	" out of " + str(count) + " counties for a ratio of " + str(number_within_epsilon3/count))
 print(str(not_found_count) + " counties have no voting data")
 
